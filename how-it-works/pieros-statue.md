@@ -79,7 +79,7 @@ Listed multipliers are spread out across all offerings. Visit **Piero’s Statue
 {% endhint %}
 
 {% hint style="info" %}
-Visit [**Aurora Block Explorer**](https://aurorascan.dev) to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
+Visit [**Aurora Block Explorer**](https://aurorascan.dev/) to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
 {% endhint %}
 
 ### Locking

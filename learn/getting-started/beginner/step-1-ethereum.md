@@ -4,7 +4,7 @@ description: Guideline
 
 # Step 1 - Ethereum
 
-**Be sure you have Ethereum in your** [**Metamask**](https://metamask.io) **wallet. If you already have Ethereum, please jump to the next guide:** [**How to transfer your assets to the Aurora network.**](step-2-near-wallet.md)****
+**Be sure you have Ethereum in your** [**Metamask**](https://metamask.io/) **wallet. If you already have Ethereum, please jump to the next guide:** [**How to transfer your assets to the Aurora network.**](step-2-near-wallet.md)****
 
 **If you don’t have Ethereum in your wallet, please follow the guidelines from the beginning.**
 

@@ -104,4 +104,4 @@ ChainID: 1313161554
 
 Symbol: ETH
 
-Explorer: [https://explorer.mainnet.aurora.dev/](https://explorer.mainnet.aurora.dev)
+Explorer: [https://explorer.mainnet.aurora.dev/](https://explorer.mainnet.aurora.dev/)

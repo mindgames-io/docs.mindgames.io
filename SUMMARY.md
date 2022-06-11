@@ -68,6 +68,7 @@
     * [⚒ Artisan](learn/game-basics/neuropia/artisan.md)
     * [🎡 Wheel of Gnomon](learn/game-basics/neuropia/wheel-of-gnomon.md)
     * [🦉 P.O.R.T.A.L.](learn/game-basics/neuropia/p.o.r.t.a.l..md)
+    * [💂 Guard Ian](learn/game-basics/neuropia/guard-ian.md)
   * [METAVERSE](learn/game-basics/metaverse.md)
 * [❓ FAQ](learn/faq.md)
 

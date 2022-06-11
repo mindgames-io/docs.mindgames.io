@@ -16,7 +16,7 @@ Materials - MIND Games platform and protocol, and any other information communic
 
 Project - all game modes, tokens, and assets.
 
-[https://mindgames.io/](https://metapool.app) (the “Website”)
+[https://mindgames.io/](https://metapool.app/) (the “Website”)
 
 
 
@@ -50,7 +50,7 @@ DYOR - the concept of Do Your Own Research is widely used regarding blockchain i
 
 We do not warrant or represent that the MIND Games platform and MIND Games protocol are secure or safe or protected from fishing, malware, or other malicious attacks.
 
-Our Website available at [https://mindgames.io/](https://metapool.app) (the “Website”), MIND Games platform and protocol, and any other information communicated by MIND Games, whether through our communication channels or otherwise (collectively, the “Materials”), do not constitute an offer to sell, a recommendation or solicitation to buy, sell or hold $CELL Tokens or any other assets.
+Our Website available at [https://mindgames.io/](https://metapool.app/) (the “Website”), MIND Games platform and protocol, and any other information communicated by MIND Games, whether through our communication channels or otherwise (collectively, the “Materials”), do not constitute an offer to sell, a recommendation or solicitation to buy, sell or hold $CELL Tokens or any other assets.
 
 Nothing in the Materials constitutes a recommendation or solicitation to use the MIND Games platform and protocol or any related products or services.
 

@@ -6,7 +6,7 @@ description: How to transfer your assets to the Aurora network.
 
 **The next step is to acquire at least 0.1 NEAR in our NEAR wallet which we will create in a few seconds, please follow the instructions below:**
 
-**Create an account on** [**https://wallet.near.org/**](https://wallet.near.org)****
+**Create an account on** [**https://wallet.near.org/**](https://wallet.near.org/)****
 
 ![](<../../../.gitbook/assets/nearishere (1).png>)
 
