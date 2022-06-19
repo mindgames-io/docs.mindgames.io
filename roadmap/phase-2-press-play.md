@@ -1,5 +1,5 @@
 ---
-description: Q3 2022 - Arena, MINDS & Researchers
+description: Q4 2022 - Arena, MINDS & Researchers
 ---
 
 # Phase 2 - Press Play

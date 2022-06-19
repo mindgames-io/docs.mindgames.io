@@ -1,5 +1,5 @@
 ---
-description: June 2022 - DEX, CELL, LP Tokens & Staking
+description: April 2022 - DEX, CELL, LP Tokens & Staking
 ---
 
 # Phase 1 - DeFi Instruments
