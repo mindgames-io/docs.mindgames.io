@@ -28,7 +28,7 @@ The [<mark style="color:yellow;">**BRAIN CELL**</mark>](brain-cell-token.md) tok
 
 **10,000,000 **<mark style="color:yellow;">**CELL**</mark> tokens will be distributed as follows :&#x20;
 
-**5,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** Game development. The tokens will be split to cover multiple phases of the development process.&#x20;
+**5,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** Development. The tokens will be split to cover multiple phases of the development process.&#x20;
 
 **2,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** The project Liquidity pool. These tokens will be paired with **ETH** and will remain locked.
 
