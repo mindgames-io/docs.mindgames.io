@@ -32,47 +32,43 @@ The issuance of <mark style="color:yellow;">**CELL**</mark> as a reward for stak
 
 ****
 
-**Block 60656639 (Epoch 1):** 128x multiplier = 128 CELL/block = 7680 CELL/minute&#x20;
+**Epoch 1:** 32x multiplier = 32 CELL/block = 1920 CELL/minute&#x20;
 
-**Block 61261439 (Epoch 2):** 64x multiplier = 64 CELL/block = 3840 CELL/minute&#x20;
+**Epoch 2:** 28x multiplier = 28 CELL/block = 1680 CELL/minute&#x20;
 
-**Block 61866239 (Epoch 3):** 48x multiplier = 48 CELL/block = 2880 CELL/minute&#x20;
+**Epoch 3:** 26x multiplier = 26 CELL/block = 1560 CELL/minute&#x20;
 
-**Block 62471039 (Epoch 4):** 32x multiplier = 32 CELL/block = 1920 CELL/minute&#x20;
+**Epoch 4:** 24x multiplier = 24 CELL/block = 1440 CELL/minute&#x20;
 
-**Block 63075839 (Epoch 5):** 28x multiplier = 28 CELL/block = 1680 CELL/minute&#x20;
+**Epoch 5:** 22x multiplier = 22 CELL/block = 1320 CELL/minute&#x20;
 
-**Block 63680639 (Epoch 6):** 24x multiplier = 24 CELL/block = 1440 CELL/minute&#x20;
+**Epoch 6:** 20x multiplier = 20 CELL/block = 1200 CELL/minute&#x20;
 
-**Block 64285439 (Epoch 7):** 20x multiplier = 20 CELL/block = 1200 CELL/minute&#x20;
+**Epoch 7:** 18x multiplier = 18 CELL/block = 1080 CELL/minute&#x20;
 
-**Block 64890239 (Epoch 8):** 16x multiplier = 16 CELL/block = 960 CELL/minute&#x20;
+**Epoch 8:** 16x multiplier = 16 CELL/block = 960 CELL/minute&#x20;
 
-**Block 65495039 (Epoch 9):** 14x multiplier = 14 CELL/block = 840 CELL/minute&#x20;
+**Epoch 9:** 14x multiplier = 14 CELL/block = 840 CELL/minute&#x20;
 
-**Block 66099839 (Epoch 10):** 12x multiplier = 12 CELL/block = 720 CELL/minute&#x20;
+**Epoch 10:** 12x multiplier = 12 CELL/block = 720 CELL/minute&#x20;
 
-**Block 66704639 (Epoch 11):** 10x multiplier = 10 CELL/block = 600 CELL/minute&#x20;
+**Epoch 11:** 10x multiplier = 10 CELL/block = 600 CELL/minute&#x20;
 
-**Block 67309439 (Epoch 12):** 8x multiplier = 8 CELL/block = 480 CELL/minute&#x20;
+**Epoch 12:** 9x multiplier = 9 CELL/block = 540 CELL/minute&#x20;
 
-**Block 67914239 (Epoch 13):** 7.5x multiplier = 7.5 CELL/block = 450 CELL/minute&#x20;
+**Epoch 13:** 8x multiplier = 8 CELL/block = 480 CELL/minute&#x20;
 
-**Block 68519039 (Epoch 14):** 7x multiplier = 7 CELL/block = 420 CELL/minute&#x20;
+**Epoch 14:** 7x multiplier = 7 CELL/block = 420 CELL/minute&#x20;
 
-**Block 69123839 (Epoch 15):** 6.5x multiplier = 6.5 CELL/block = 390 CELL/minute&#x20;
+**Epoch 15:** 6x multiplier = 6 CELL/block = 360 CELL/minute&#x20;
 
-**Block 69728639 (Epoch 16):** 6x multiplier = 6 CELL/block = 360 CELL/minute&#x20;
+**Epoch 16:** 5x multiplier = 5 CELL/block = 300 CELL/minute&#x20;
 
-**Block 70333439 (Epoch 17):** 5.5x multiplier = 5.5 CELL/block = 330 CELL/minute&#x20;
+**Epoch 17-35:** 4x multiplier = 4 CELL/block = 240 CELL/minute&#x20;
 
-**Block 70938239 (Epoch 18):** 5x multiplier = 5 CELL/block = 300 CELL/minute&#x20;
+**Epoch 36+:** 2x multiplier = 2 CELL/block = 120 CELL/minute
 
-**Block 71543039 (Epoch 19):** 4.5x multiplier = 4.5 CELL/block = 270 CELL/minute&#x20;
 
-**Block 72147839 (Epoch 20-35):** 4x multiplier = 4 CELL/block = 240 CELL/minute&#x20;
-
-**Block 72752639 (Epoch 36+):** 2x multiplier = 2 CELL/block = 120 CELL/minute
 
 {% hint style="info" %}
 Listed multipliers are spread out across all offerings. Visit **Piero’s Statue** for pool-specific emission rates.
