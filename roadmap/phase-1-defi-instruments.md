@@ -1,5 +1,5 @@
 ---
-description: April 2022 - DEX, CELL, LP Tokens & Staking
+description: June 2022 - DEX, CELL, LP Tokens & Staking
 ---
 
 # Phase 1 - DeFi Instruments
@@ -14,6 +14,6 @@ Research Log. Entry 1020: The most eminent Researchers have been studying for a 
 
 * [Decentralized Exchange](../how-it-works/decentralized-exchange.md) - UniswapV2 Protocol
 * [BRAIN CELL \[CELL\]](../how-it-works/brain-cell-token.md) token launch
-* Stake LP Tokens with [Piero's Statue](../how-it-works/pieros-statue.md) to earn CELL tokens
 * Invest CELL tokens in the [Research Facility](../how-it-works/research-facility.md)
+* Stake LP Tokens with [Piero's Statue](../how-it-works/pieros-statue.md) to earn CELL tokens
 * CELL Airdrop for the first 1000 people to join and verify in our [Discord Server](https://discord.gg/mindgames).
