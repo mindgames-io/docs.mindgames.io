@@ -1,3 +1,7 @@
+---
+description: The road to supremacy
+---
+
 # 🗺 Roadmap
 
 ![](../.gitbook/assets/Planet\_2.png)

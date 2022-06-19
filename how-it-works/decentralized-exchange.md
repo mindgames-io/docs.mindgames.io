@@ -12,7 +12,7 @@ At the heart of our whole economic process stands the **DEX**. DeFi instruments 
 2. Sustainability. These instruments operate with the in-game currencies ensuring long-term utility and growth avenues.
 
 {% hint style="info" %}
-The team will allocate $15.000,00 to create the initial liquidity of ETH/CELL.&#x20;
+The team will allocate \~$15.000,00 to create the initial liquidity of NEAR/CELL.&#x20;
 {% endhint %}
 
 * **Swapping** will allow the trading of various tokens and in-game assets for other tokens.&#x20;
