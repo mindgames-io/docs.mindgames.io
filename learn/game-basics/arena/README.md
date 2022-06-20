@@ -20,6 +20,7 @@ All cards have an overall IQ stat, and once that reaches 0, that card has lost t
 Are your MINDS strong enough? Is your strategy better? Should we stop questioning the obvious?
 
 {% hint style="info" %}
+In **Challenger Mode:**\
 90% of the entry fee cumulated from both players will go to the winner \
 10% of the entry fee cumulated from both players will be redistributed to the Research Facility and Vault.
 {% endhint %}
