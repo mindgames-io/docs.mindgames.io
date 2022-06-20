@@ -15,7 +15,7 @@ Research log. Entry 1024: The MINDS declared us Negligible-Future-Threats. We ha
   * Rank
   * Experience
   * Tradable
-* 50 MINDS will be rewarded to xCELL holders. The amount of xCELL needed to qualify for this airdrop will be announced three weeks before the actual NFT launch. Snapshots will be taken to determine the average amount a user had in this period. Holding multiple of the amount announced will earn you extra entries.
+* \~50 MINDS will be rewarded to xCELL holders. The amount of xCELL needed to qualify for this airdrop will be announced three weeks before the actual NFT launch. Snapshots will be taken to determine the average amount a user had in this period. Holding multiple of the amount announced will earn you extra entries.
 * Tavern - Trade Researchers and MINDS
 * Arena - Player vs. Player
   * Ranked - 5 MINDS are needed to play Ranked Arena games. Earn Rank, Experience, and Rewards.
