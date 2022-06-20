@@ -90,11 +90,11 @@ The <mark style="color:yellow;">**CELL**</mark> tokens will unlock over a period
 3rd Epoch (Week) - 9% unlocked and 91% locked \
 4th Epoch (Week) - 11% unlocked and 89% locked
 
-The total number of Epochs is 51. The last Epoch will provide 100% unlocked <mark style="color:yellow;">**CELL**</mark> from the entire <mark style="color:yellow;">**CELL**</mark> received as a liquidity provider.
+The total number of Epochs is 51. The last Epoch will provide unlocked <mark style="color:yellow;">**CELL**</mark> from the entire <mark style="color:yellow;">**CELL**</mark> received as a liquidity provider.
 
 {% hint style="info" %}
-Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain **locked until block \_\_\_\_\_\_\_\_\_** which marks the end of Epoch 51. \
-Locked rewards will start unlocking via the vesting schedule for the following 52 Epochs..
+Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain **locked until block \_\_\_\_\_\_\_\_\_** which marks the end of Epoch 50. \
+Locked rewards will start unlocking via the vesting schedule for the following 50 Epochs.
 {% endhint %}
 
 **Piero Statue** will inform users regarding the amount of <mark style="color:yellow;">**CELL**</mark> received in **** total, how much is available for unlocking at that moment, and how much is locked at that time. \
