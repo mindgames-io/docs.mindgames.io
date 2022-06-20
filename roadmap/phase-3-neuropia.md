@@ -22,8 +22,4 @@ The birds become restless. A dim rumbling can be heard. The ground trembles ligh
 
     * <mark style="color:orange;">****</mark>[<mark style="color:orange;">**Fable Binding**</mark>](../learn/game-basics/neuropia/missions.md#fable-binding)<mark style="color:orange;">****</mark>
     * <mark style="color:orange;">****</mark>[<mark style="color:orange;">**The Registrar**</mark>](../learn/game-basics/neuropia/missions.md#the-registrar)<mark style="color:orange;">****</mark>
-    * ****[<mark style="color:orange;">**Extraction**</mark>](../learn/game-basics/neuropia/missions.md#extraction)<mark style="color:orange;">****</mark>
-
-&#x20;
-
-****
+    * ****[<mark style="color:orange;">**Extraction**</mark>](../learn/game-basics/neuropia/missions.md#extraction)&#x20;
