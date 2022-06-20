@@ -70,9 +70,9 @@ Starting the first Epoch (week) will give you the 5% threshold unlocked tokens f
 
 The total number of Epochs is 51. The last Epoch will provide 100% unlocked <mark style="color:yellow;">**CELL**</mark> from the entire <mark style="color:yellow;">**CELL**</mark> received as a liquidity provider.
 
-Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain locked until block X is completed, the block which marks the end of Epoch 51.
+Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain locked until block X is completed, the block which marks the end of Epoch 50.
 
-Locked rewards will start unlocking via the vesting schedule for the following 52 Epochs.
+Locked rewards will start unlocking via the vesting schedule for the following 50 Epochs.
 
 Users can choose to unlock the total <mark style="color:yellow;">**CELL**</mark> received at a particular time before the 51st Epoch. However, they will only obtain the unlocked portion of it. The rest will be locked, and you will start to acquire them via the vesting schedule.
 
