@@ -101,7 +101,7 @@ Locked rewards will start unlocking via the vesting schedule for the following 5
 \
 Users can choose to unlock the total <mark style="color:yellow;">**CELL**</mark> received at a particular time, before the 51st Epoch, however, they will only obtain the unlocked portion of it. The rest will be locked in the deep magma layers of Monro Maw, from where you will start to acquire them via the vesting schedule. \
 \
-This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both. If the tokens were to unlock at any given time, this would incentivize the farm and dump mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant for the ecosystem that we are taking part in.
+This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both. If the tokens were to unlock at any given time, this would incentivize the farm and dump mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant to the ecosystem that we are taking part in.
 
 ### Locking Model - Early Unlocking with Researchers and MIND NFTs
 
