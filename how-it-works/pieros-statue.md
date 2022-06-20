@@ -20,7 +20,7 @@ In MIND Games, our very own Piero is our portrayal of yield farming. He receives
 
 ![](../.gitbook/assets/FIN.png)
 
-Sensors and Melders will be able to help ”PIERO” and earn [<mark style="color:yellow;">**CELL**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> based in part on your total stake in a certain **“Offerings”**.
+Sensors and Melders will be able to help ”PIERO” and earn [<mark style="color:yellow;">**CELL**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> based in part on your total stake in a certain **“Offering”**.
 
 ## **Issuance Schedule**&#x20;
 
