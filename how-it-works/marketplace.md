@@ -20,4 +20,3 @@ A part of the fees collected from trading and withdrawals on each pool will be d
 
 ![](../.gitbook/assets/Piata.png)
 
-*
