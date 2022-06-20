@@ -11,13 +11,8 @@ Players can make two MINDS Brain Storm to multiply them. In order to do this, se
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:yellow;">**CELL**</mark> collected by the **Brain Storming** event will be distributed as follows:&#x20;
+<mark style="color:yellow;">**CELL**</mark> collected by the **Brain Storming** event will be redistributed to Vault, Research Facility and a part of it will Burn.&#x20;
 
-**%** Vault
-
-**%** Research Facility&#x20;
-
-**%** Burn\
 \
 **​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of <mark style="color:yellow;">**CELL**</mark> may be susceptible to change.&#x20;
 {% endhint %}

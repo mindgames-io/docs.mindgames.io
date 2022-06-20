@@ -25,7 +25,7 @@ Players will gain:  &#x20;
 * In draw matches, players get back their CELL for that match.
 
 {% hint style="info" %}
-The winner will take 90% of the collected **CELL,** while the remaining 10% will be redistributed. &#x20;
+The winner will take 90% of the collected **CELL,** while the remaining 10% will be redistributed to the Vault and Research Facility.  &#x20;
 {% endhint %}
 
 ### Arena Ranked
