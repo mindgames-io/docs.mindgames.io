@@ -1,5 +1,5 @@
 ---
-description: All you need to know about MINDS NFTs and How to play
+description: All you need to know about MINDS NFTs and How to play the game.
 ---
 
 # NFTs
