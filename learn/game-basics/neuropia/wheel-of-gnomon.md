@@ -9,15 +9,8 @@ Players can use this mini-game to place an amount of <mark style="color:yellow;"
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:yellow;">**CELL**</mark> collected by the **Wheel of Gnomon** will be distributed as follows:
+<mark style="color:yellow;">**CELL**</mark> collected by the **Wheel of Gnomon** will be redistributed to the W.o.G. reward pool, Vault, Research Facility, and Burn.&#x20;
 
-**%** Wheel of Gnomon reward pool&#x20;
-
-**%** Vault&#x20;
-
-**%** Research Facility&#x20;
-
-**%** Burn\
 \
 **​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of <mark style="color:yellow;">**CELL**</mark> may be susceptible to change.&#x20;
 {% endhint %}
