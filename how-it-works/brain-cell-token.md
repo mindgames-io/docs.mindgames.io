@@ -30,9 +30,9 @@ The [<mark style="color:yellow;">**BRAIN CELL**</mark>](brain-cell-token.md) tok
 
 **5,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** Development. The tokens will be split to cover multiple phases of the development process.&#x20;
 
-**2,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** The project Liquidity pool. These tokens will be paired with **ETH** and will remain locked.
+**2,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** The project Liquidity pool. These tokens will be paired with **NEAR** and will remain locked.
 
-**2,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** Marketing efforts and airdrops. These will ensure that the promotional avenues the project needs to expand and grow the community will have enough funding.
+**2,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** Marketing efforts, airdrops, bounties, and game rewards. These will ensure that the promotional avenues the project needs to expand and grow the community will have enough funding.
 
 **1,000,000 **<mark style="color:yellow;">**CELL**</mark>** -** The team's hard work and long hours will be granted <mark style="color:yellow;">**CELL**</mark> when the token launches. Half of these tokens will be released on launch, while the rest will be released over time.
 
