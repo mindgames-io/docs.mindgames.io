@@ -44,7 +44,7 @@ The [<mark style="color:yellow;">**BRAIN CELL**</mark>](brain-cell-token.md) tok
 omega: 0x357Af65146025b7F9AfEBB5A29289836B4d90BEe \
 epsilon: 0x994e269BEeFd6c58A15B1Bd7620A591bFaD4Ba68\
 kh4n: 0x\
-kosku: 0x
+kosku: 0xdf5d85Ea8793D10d686a58BE2E24a0FB94AD33EA
 
 
 
