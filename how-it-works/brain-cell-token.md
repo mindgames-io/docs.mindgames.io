@@ -38,13 +38,13 @@ The [<mark style="color:yellow;">**BRAIN CELL**</mark>](brain-cell-token.md) tok
 
 ****
 
-**Initial Liquidity Fund:** 0x \
+**Initial Liquidity:** 0x810d5693E81630b0Bcd4F673E79b2a08DCCCF744\
 \
 **Founding Member Addresses:** \
-Omega: 0x \
-Epsilon: 0x \
-kh4n: 0x \
-Kosku: 0x
+omega: 0x357Af65146025b7F9AfEBB5A29289836B4d90BEe \
+epsilon: 0x994e269BEeFd6c58A15B1Bd7620A591bFaD4Ba68\
+kh4n: 0x\
+kosku: 0x
 
 
 
