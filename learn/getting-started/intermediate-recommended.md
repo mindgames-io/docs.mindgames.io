@@ -55,5 +55,4 @@ Go to [https://synapseprotocol.com/ ](https://synapseprotocol.com/)
 
 Go to [https://app.allbridge.io/](https://app.allbridge.io/)
 
-* Bridge **Luna** or **UST** to <mark style="color:green;">**AURORA Network**</mark> from **Terra**
 * Bridge **SOL** to <mark style="color:green;">**AURORA Network**</mark> from **Solana**
