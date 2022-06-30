@@ -38,14 +38,15 @@ The [<mark style="color:yellow;">**BRAIN CELL**</mark>](brain-cell-token.md) tok
 
 ****
 
-**Initial Liquidity:** 0x810d5693E81630b0Bcd4F673E79b2a08DCCCF744\
+**Initial Liquidity** : 0x810d5693E81630b0Bcd4F673E79b2a08DCCCF744\
 \
+**Protocol Addresses:** \
+Development Fund : 0x3D57C6125cfAABbAC8C76634c808B07EC9B6E3ff\
+Community Fund : 0x8c8745cF163F279112A230Eedba449eD6088E969\
+Founders Fund : 0x89d72e9A8FFF4172759F3Bb129E5e102bc129fc1
+
 **Founding Member Addresses:** \
 omega : 0x357Af65146025b7F9AfEBB5A29289836B4d90BEe \
 epsilon : 0x994e269BEeFd6c58A15B1Bd7620A591bFaD4Ba68\
 kh4n : 0x\
-kosku : 0xdf5d85Ea8793D10d686a58BE2E24a0FB94AD33EA
-
-Development Fund : 0x3D57C6125cfAABbAC8C76634c808B07EC9B6E3ff\
-Community Fund : 0x8c8745cF163F279112A230Eedba449eD6088E969\
-Founders Fund : 0x89d72e9A8FFF4172759F3Bb129E5e102bc129fc1\
+kosku : 0xdf5d85Ea8793D10d686a58BE2E24a0FB94AD33EA\
