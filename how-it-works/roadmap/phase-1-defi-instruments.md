@@ -12,8 +12,8 @@ The city center of Neuropia is the beginning of our players’ journey. The Mark
 \
 Research Log. Entry 1020: The most eminent Researchers have been studying for a long time the newly discovered planet of MINDS. Today we are ready to launch. Thank you, brave researchers! All systems are ready! T minus 5, 4, 3, 2, 1…
 
-* [Decentralized Exchange](../decentralized-exchange.md) - UniswapV2 Protocol
-* [BRAIN CELL \[CELL\]](../brain-cell-token.md) token launch
-* Invest CELL tokens in the [Research Facility](../research-facility.md)
-* Stake LP Tokens with [Piero's Statue](../pieros-statue.md) to earn CELL tokens
+* [Decentralized Exchange](../decentralized-exchange.md) - UniswapV2 Protocol :heavy\_check\_mark:
+* [BRAIN CELL \[CELL\]](../brain-cell-token.md) token launch :heavy\_check\_mark:
+* Invest CELL tokens in the [Research Facility](../research-facility.md) :heavy\_check\_mark:
+* Stake LP Tokens with [Piero's Statue](../pieros-statue.md) to earn CELL tokens :heavy\_check\_mark:
 * CELL Airdrop for the first 1000 people to join and verify in our [Discord Server](https://discord.gg/mindgames).
