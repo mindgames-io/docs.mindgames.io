@@ -4,7 +4,7 @@ description: Q4 2022 - Arena, MINDS & Researchers
 
 # Phase 2 - Press Play
 
-This marks the beginning of the **MIND Games Universe** gaming experience. The [**Arena** ](../learn/game-basics/arena/)first opens its gates to the public. Alongside this, a new building will open in Neuropia: [**The Tavern**](../learn/game-basics/neuropia/tavern.md). Here is where players can buy and sell their MINDS and Researcher NFTs.
+This marks the beginning of the **MIND Games Universe** gaming experience. The [**Arena** ](../../learn/game-basics/arena/)first opens its gates to the public. Alongside this, a new building will open in Neuropia: [**The Tavern**](../../learn/game-basics/neuropia/tavern.md). Here is where players can buy and sell their MINDS and Researcher NFTs.
 
 Research log. Entry 1024: The MINDS declared us Negligible-Future-Threats. We have attended some fights in the ARENA and learned more of their rules. Some of the Researchers became actively involved, becoming coaches to MINDS.
 

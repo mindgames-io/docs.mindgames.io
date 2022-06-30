@@ -1,20 +1,22 @@
 # Table of contents
 
 * [MIND Games](README.md)
-* [How It Works](how-it-works/README.md)
-  * [🪙 Brain Cell Token](how-it-works/brain-cell-token.md)
-  * [🔀 Decentralized Exchange](how-it-works/decentralized-exchange.md)
-  * [🛍 Marketplace](how-it-works/marketplace.md)
-  * [🪨 Piero's Statue](how-it-works/pieros-statue.md)
-  * [📑 Research Facility](how-it-works/research-facility.md)
-* [🗺 Roadmap](roadmap/README.md)
-  * [Phase 0 - Start](roadmap/phase-0-start.md)
-  * [Phase 1 - DeFi Instruments](roadmap/phase-1-defi-instruments.md)
-  * [Phase 2 - Press Play](roadmap/phase-2-press-play.md)
-  * [Phase 3 - Neuropia](roadmap/phase-3-neuropia.md)
-  * [Phase 4 - Lands](roadmap/phase-4-lands.md)
-  * [Phase 5 - Industry](roadmap/phase-5-industry.md)
-  * [Phase 6 - Choose A Faction](roadmap/phase-6-choose-a-faction.md)
+
+## How It Works
+
+* [🪙 Brain Cell Token](how-it-works/brain-cell-token.md)
+* [🔀 Decentralized Exchange](how-it-works/decentralized-exchange.md)
+* [🛍 Marketplace](how-it-works/marketplace.md)
+* [🪨 Piero's Statue](how-it-works/pieros-statue.md)
+* [📑 Research Facility](how-it-works/research-facility.md)
+* [🗺 Roadmap](how-it-works/roadmap/README.md)
+  * [Phase 0 - Start](how-it-works/roadmap/phase-0-start.md)
+  * [Phase 1 - DeFi Instruments](how-it-works/roadmap/phase-1-defi-instruments.md)
+  * [Phase 2 - Press Play](how-it-works/roadmap/phase-2-press-play.md)
+  * [Phase 3 - Neuropia](how-it-works/roadmap/phase-3-neuropia.md)
+  * [Phase 4 - Lands](how-it-works/roadmap/phase-4-lands.md)
+  * [Phase 5 - Industry](how-it-works/roadmap/phase-5-industry.md)
+  * [Phase 6 - Choose A Faction](how-it-works/roadmap/phase-6-choose-a-faction.md)
 
 ## LEARN
 
@@ -74,7 +76,7 @@
 
 ## ABOUT
 
-* [Technical Data](about/technical-data.md)
+* [Contracts](about/contracts.md)
 * [Audit Results](about/audit-results.md)
 * [Disclaimer](about/disclaimer.md)
 * [Report A Bug](https://forms.office.com/Pages/ResponsePage.aspx?id=fK\_TKmzSt0G-A7\_kbsRqOv15r\_lGPeVAhuKrpAaAaIVUOUM1VFlVNjlDUjZETUVLTjZaR0Y5UEMxOS4u)

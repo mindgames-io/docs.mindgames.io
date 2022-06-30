@@ -21,7 +21,7 @@ description: >-
 Using the UniswapV2 Protocol and built on the <mark style="color:green;">**Aurora Network**</mark>, MIND Games token, [**Brain Cell \[CELL\]**](how-it-works/brain-cell-token.md), will bring rewards and earning opportunities at very low trading fees and low waiting times!
 
 {% hint style="info" %}
-**Good to know:** MIND Games implemented [**DeFi instruments**](how-it-works/) in all of the game modes. All NFTs will be available to use throughout the MIND Universe. The first in-game currency,  <mark style="color:yellow;">**AURORIUM \[AUR]**</mark>, is also usable in any mode, thus letting players control how they choose to spend their earnings.&#x20;
+**Good to know:** MIND Games implemented [**DeFi instruments**](broken-reference) in all of the game modes. All NFTs will be available to use throughout the MIND Universe. The first in-game currency,  <mark style="color:yellow;">**AURORIUM \[AUR]**</mark>, is also usable in any mode, thus letting players control how they choose to spend their earnings.&#x20;
 {% endhint %}
 
 ## Behind The MIND
