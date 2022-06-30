@@ -1,5 +1,5 @@
 ---
-description: The ONLY official tokens by MIND Games.
+description: The ONLY official contracts by MIND Games.
 ---
 
 # Contracts

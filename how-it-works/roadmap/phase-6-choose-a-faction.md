@@ -14,6 +14,3 @@ Whether you are a fan of historical suburbs, the place of the most famous MIND W
 * Four cities that fight for supremacy: Frontal Hill, Motormont, Parietal Valley, and Temporalis
 * Create your path or work for others, build, evolve your **MINDS** and **Researchers**
 * Vote on city upgrades or faction incursions
-
-
-

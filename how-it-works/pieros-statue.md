@@ -93,7 +93,7 @@ The <mark style="color:yellow;">**CELL**</mark> tokens will unlock over a period
 The total number of Epochs is 51. The last Epoch will provide unlocked <mark style="color:yellow;">**CELL**</mark> from the entire <mark style="color:yellow;">**CELL**</mark> received as a liquidity provider.
 
 {% hint style="info" %}
-Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain **locked until block \_\_\_\_\_\_\_\_\_** which marks the end of Epoch 50. \
+Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain **locked until block 99277999** which marks the end of Epoch 50. \
 Locked rewards will start unlocking via the vesting schedule for the following 50 Epochs.
 {% endhint %}
 
