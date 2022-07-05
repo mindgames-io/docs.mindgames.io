@@ -20,7 +20,7 @@ Building materials are just that. You obtain them from hard labour, refine them 
 
 ![](../../.gitbook/assets/Food.png)****
 
-The vast fields surrounding (place) are rich with orchards and plots of land tended by hard-working MINDS. Travelers are welcomed to grab food as they go along, however, some Whooves guarding the crops might be less hospitable. It is said that bringing a piece of Moomoo meat with you on travels brings good fortune.
+The vast fields surrounding Motormont are rich with orchards and plots of land tended by hard-working MINDS. Travellers are welcomed to grab food as they go along, however, some Whooves guarding the crops might be less hospitable. It is said that bringing a piece of Moomoo meat with you on travels brings good fortune.
 
 ### Mindtrap Milk
 

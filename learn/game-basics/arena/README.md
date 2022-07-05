@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/BG.png)
 
-**Findings log. Entry 339:**
+**Findings log. Entry 4:**
 
 The MINDS, seem to resolve their conflicts in a non-physical way. They carry out what looks to be mental battles in a building that resembles a Colosseum here on Earth. The fighting happens in teams of 5 MINDS; however, there are only 2 MINDS of each team in the Arena at once. \
 \

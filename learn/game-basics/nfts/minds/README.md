@@ -4,7 +4,7 @@ description: Your Researcher can use these MINDS to play each game.
 
 # 🧠 MINDS
 
-**Finding log. Entry 29:**&#x20;
+**Finding log. Entry 2:**&#x20;
 
 The planet **STEM 2801** is a host to various creatures. Their appearance is somewhat familiar, yet vastly different from our own. The **MINDS** wander freely around their planet, however, groups have been observed to form and the only apparent criteria is their occupation. Will explore further.&#x20;
 
