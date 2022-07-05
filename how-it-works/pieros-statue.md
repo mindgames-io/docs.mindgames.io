@@ -105,7 +105,7 @@ This model helps us migrate from the simple DEX economics to the in-game economi
 
 ### Locking Model - Early Unlocking with Researchers and MIND NFTs
 
-We are implementing the ability for **Researchers** and **MINDS** to work together and unlock <mark style="color:yellow;">**CELL**</mark> tokens early with [**Cryptography Quests**](../learn/game-basics/neuropia/missions.md#cryptography). \
+We are implementing the ability for **Researchers** and **MINDS** to work together and unlock <mark style="color:yellow;">**CELL**</mark> tokens early with [**Cryptography Missions**](../learn/game-basics/neuropia/missions.md#cryptography)**.** \
 The researcher's Talents and MINDS stats will determine the amount of <mark style="color:yellow;">**CELL**</mark> unlocked after each quest.
 
 ### **Piero’s Statue Staking Deposit and Withdrawal Fees**

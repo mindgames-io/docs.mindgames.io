@@ -1,5 +1,5 @@
 ---
-description: Q4 2022 - Quests & Professions
+description: Q4 2022 - Missions & Professions
 ---
 
 # Phase 3 - Neuropia
