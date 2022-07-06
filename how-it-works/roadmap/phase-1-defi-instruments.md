@@ -18,4 +18,4 @@ The most eminent Researchers have been studying for a long time the newly discov
 * [BRAIN CELL \[CELL\]](../brain-cell-token.md) token launch :heavy\_check\_mark:
 * Invest CELL tokens in the [Research Facility](../research-facility.md) :heavy\_check\_mark:
 * Stake LP Tokens with [Piero's Statue](../pieros-statue.md) to earn CELL tokens :heavy\_check\_mark:
-* CELL Airdrop for the first 1000 people to join and verify in our [Discord Server](https://discord.gg/mindgames).
+* CELL Airdrop for the first 1000 people to join and verify in our [Discord Server](https://discord.gg/mindgames). :heavy\_check\_mark:

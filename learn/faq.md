@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ### **What is MIND Games?**
 
-**MIND Games** at base level is a Metaverse scene, where you can play the different scenarios that the platform has to offer, Arenas - Quests - Real-Time Strategy Metaverse. In doing so, you will encounter various aspects of the game, the competitions, the lore, the NFTs, and the economy beneath it all.
+**MIND Games** at base level is a Metaverse scene, where you can play the different scenarios that the platform has to offer, Arenas - Missions - Real-Time Strategy Metaverse. In doing so, you will encounter various aspects of the game, the competitions, the lore, the NFTs, and the economy beneath it all.
 
 We have chosen the place of the Genesis event on <mark style="color:green;">**Aurora Network**</mark>, EVM compatible layer on Near Protocol. Here we are laying the foundation of the economic structure via a **** [**DEX** ](../how-it-works/decentralized-exchange.md)that will participate in the TVL of the whole ecosystem. Every aspect of the game will be founded and stored on the blockchain.
 

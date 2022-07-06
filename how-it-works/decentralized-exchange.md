@@ -8,7 +8,7 @@ description: Game-Fi Synergy
 
 At the heart of our whole economic process stands the **DEX**. DeFi instruments synergize with games and this results in two main benefits:
 
-1. Simplified UX (User Experience). Implementing the DEX directly into gameplay brings an entertaining alternative to investing and blockchain technology adoption.
+1. Simplified UX (User Experience). Implementing the DEX directly into gameplay brings an entertaining alternative to blockchain technology adoption.
 2. Sustainability. These instruments operate with the in-game currencies ensuring long-term utility and growth avenues.
 
 {% hint style="info" %}
