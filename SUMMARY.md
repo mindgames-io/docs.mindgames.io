@@ -76,8 +76,9 @@
 
 ## ABOUT
 
+* [Page 1](about/page-1.md)
 * [Contracts](about/contracts.md)
 * [Audit Results](about/audit-results.md)
 * [Disclaimer](about/disclaimer.md)
-* [Report A Bug](https://forms.office.com/Pages/ResponsePage.aspx?id=fK\_TKmzSt0G-A7\_kbsRqOv15r\_lGPeVAhuKrpAaAaIVUOUM1VFlVNjlDUjZETUVLTjZaR0Y5UEMxOS4u)
-* [Contact](https://forms.office.com/r/66pxvSGtFB)
+* [Report A Bug](https://forms.office.com/r/wcZx0bPYh7)
+* [Contact](https://forms.office.com/r/y33GyxmUnd)
