@@ -76,7 +76,6 @@
 
 ## ABOUT
 
-* [Page 1](about/page-1.md)
 * [Contracts](about/contracts.md)
 * [Audit Results](about/audit-results.md)
 * [Disclaimer](about/disclaimer.md)
