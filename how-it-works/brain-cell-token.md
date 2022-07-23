@@ -43,7 +43,8 @@ The [<mark style="color:yellow;">**BRAIN CELL**</mark>](brain-cell-token.md) tok
 **Protocol Addresses:** \
 Development Fund : 0x3D57C6125cfAABbAC8C76634c808B07EC9B6E3ff\
 Community Fund : 0x8c8745cF163F279112A230Eedba449eD6088E969\
-Founders Fund : 0x89d72e9A8FFF4172759F3Bb129E5e102bc129fc1
+Founders Fund : 0x89d72e9A8FFF4172759F3Bb129E5e102bc129fc1\
+Treasury: 0xdc18F62d16b71460074DB0D726803F743747720c
 
 **Founding Member Addresses:** \
 omega : 0x357Af65146025b7F9AfEBB5A29289836B4d90BEe \

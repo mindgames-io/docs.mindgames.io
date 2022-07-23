@@ -6,9 +6,9 @@ description: The ONLY official contracts by MIND Games.
 
 ## DEX Contracts
 
-**UniswapV2Factory** : 0x78f406B41C81eb4144C321ADa5902BBF5de28538&#x20;
+**Factory** : 0x78f406B41C81eb4144C321ADa5902BBF5de28538&#x20;
 
-**UniswapV2Router02** : 0xcCC7B6CD8764E84Be19BD13b25850C4ac24aa2C0
+**Router** : 0xcCC7B6CD8764E84Be19BD13b25850C4ac24aa2C0
 
 **MasterMind** : 0xe653f898b1F216884bC1Fdd5B47b9933B5F4e5FB
 
@@ -20,7 +20,7 @@ description: The ONLY official contracts by MIND Games.
 
 **Scientist** : 0x274676D087B066beD2d0010b89e763BBfAC8a1b2&#x20;
 
-**Multicall2** : 0xD4A13F9F555b15CaB14738F1dA6f654845F68e4b&#x20;
+**Multicall** : 0xD4A13F9F555b15CaB14738F1dA6f654845F68e4b&#x20;
 
 ## LP Pairs
 
@@ -31,6 +31,8 @@ description: The ONLY official contracts by MIND Games.
 **CELL/RUSD** : 0x7EB3c48b9d2A50d394686C95582C1ed22d6aa457&#x20;
 
 **CELL/WBTC** : 0x96c9C452D06d1c3086A23A2Bf3C0Fb8176edE76F
+
+**CELL/USN** : 0x4Aa0579596E6b30112d88Db1E6259bF8e762500f
 
 ## Community Contracts
 

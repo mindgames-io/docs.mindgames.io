@@ -21,11 +21,7 @@
 ## LEARN
 
 * [🏴☠ Getting Started](learn/getting-started/README.md)
-  * [Beginner](learn/getting-started/beginner/README.md)
-    * [Step 1 - Ethereum](learn/getting-started/beginner/step-1-ethereum.md)
-    * [Step 2 - NEAR Wallet](learn/getting-started/beginner/step-2-near-wallet.md)
-    * [Step 3 - Rainbow Bridge](learn/getting-started/beginner/step-3-rainbow-bridge.md)
-  * [Intermediate (recommended)](learn/getting-started/intermediate-recommended.md)
+  * [Intermediate](learn/getting-started/intermediate.md)
 * [📖 Story](learn/story.md)
 * [🕹 Game Basics](learn/game-basics/README.md)
   * [NFTs](learn/game-basics/nfts/README.md)

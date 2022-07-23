@@ -16,7 +16,7 @@ In the **Research Facility**, players can deposit <mark style="color:yellow;">**
 The <mark style="color:yellow;">**CELL**</mark> will be brought in from various fees of game transactions and withdrawal fees from the Mighty [**Piero's Statue**](pieros-statue.md). <mark style="color:yellow;">**xCELL**</mark> will therefore become the Governance token of the MIND Games Universe.
 
 {% hint style="info" %}
-A part of the fees collected from trading and withdrawals on each pool will be distributed to the Research Facility.
+The Research Facility is set to receive fees from in-game transactions starting with Phases 2 and 3. Until then, 0.05% of fees are received from trading and \~ 0.25% from Piero's Statue fees, so that the APR will remain 25-30% for the time being.&#x20;
 {% endhint %}
 
 ![](../.gitbook/assets/Research.png)

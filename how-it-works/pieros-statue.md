@@ -32,42 +32,41 @@ The issuance of <mark style="color:yellow;">**CELL**</mark> as a reward for stak
 
 ****
 
-**Epoch 1:** 32x multiplier = 32 CELL/block = 1920 CELL/minute&#x20;
+**Block:** 69,038,000 **Epoch 1:** 32x multiplier = 32 CELL/block = 1920 CELL/minute&#x20;
 
-**Epoch 2:** 28x multiplier = 28 CELL/block = 1680 CELL/minute&#x20;
+**Block:** 69,642,800 **Epoch 2:** 28x multiplier = 28 CELL/block = 1680 CELL/minute&#x20;
 
-**Epoch 3:** 26x multiplier = 26 CELL/block = 1560 CELL/minute&#x20;
+**Block:** 70,247,600 **Epoch 3:** 26x multiplier = 26 CELL/block = 1560 CELL/minute&#x20;
 
-**Epoch 4:** 24x multiplier = 24 CELL/block = 1440 CELL/minute&#x20;
+**Block:** 70,852,400 **Epoch 4:** 24x multiplier = 24 CELL/block = 1440 CELL/minute&#x20;
 
-**Epoch 5:** 22x multiplier = 22 CELL/block = 1320 CELL/minute&#x20;
+**Block:** 71,457,200 **Epoch 5:** 22x multiplier = 22 CELL/block = 1320 CELL/minute&#x20;
 
-**Epoch 6:** 20x multiplier = 20 CELL/block = 1200 CELL/minute&#x20;
+**Block:** 72,062,000 **Epoch 6:** 20x multiplier = 20 CELL/block = 1200 CELL/minute&#x20;
 
-**Epoch 7:** 18x multiplier = 18 CELL/block = 1080 CELL/minute&#x20;
+**Block:** 72,666,800 **Epoch 7:** 18x multiplier = 18 CELL/block = 1080 CELL/minute&#x20;
 
-**Epoch 8:** 16x multiplier = 16 CELL/block = 960 CELL/minute&#x20;
+**Block:** 73,271,600 **Epoch 8:** 16x multiplier = 16 CELL/block = 960 CELL/minute&#x20;
 
-**Epoch 9:** 14x multiplier = 14 CELL/block = 840 CELL/minute&#x20;
+**Block:** 73,876,400 **Epoch 9:** 14x multiplier = 14 CELL/block = 840 CELL/minute&#x20;
 
-**Epoch 10:** 12x multiplier = 12 CELL/block = 720 CELL/minute&#x20;
+**Block:** 74,481,200 **Epoch 10:** 12x multiplier = 12 CELL/block = 720 CELL/minute&#x20;
 
-**Epoch 11:** 10x multiplier = 10 CELL/block = 600 CELL/minute&#x20;
+**Block:** 75,086,000 **Epoch 11:** 10x multiplier = 10 CELL/block = 600 CELL/minute&#x20;
 
-**Epoch 12:** 9x multiplier = 9 CELL/block = 540 CELL/minute&#x20;
+**Block:** 75,690,800 **Epoch 12:** 9x multiplier = 9 CELL/block = 540 CELL/minute&#x20;
 
-**Epoch 13:** 8x multiplier = 8 CELL/block = 480 CELL/minute&#x20;
+**Block:** 76,295,600 **Epoch 13:** 8x multiplier = 8 CELL/block = 480 CELL/minute&#x20;
 
-**Epoch 14:** 7x multiplier = 7 CELL/block = 420 CELL/minute&#x20;
+**Block:** 76,900,400 **Epoch 14:** 7x multiplier = 7 CELL/block = 420 CELL/minute&#x20;
 
-**Epoch 15:** 6x multiplier = 6 CELL/block = 360 CELL/minute&#x20;
+**Block:** 77,505,200 **Epoch 15:** 6x multiplier = 6 CELL/block = 360 CELL/minute&#x20;
 
-**Epoch 16:** 5x multiplier = 5 CELL/block = 300 CELL/minute&#x20;
+**Block:** 78,110,000 **Epoch 16:** 5x multiplier = 5 CELL/block = 300 CELL/minute&#x20;
 
-**Epoch 17-35:** 4x multiplier = 4 CELL/block = 240 CELL/minute&#x20;
+**Block:** 78,714,800 **Epoch 17-35:** 4x multiplier = 4 CELL/block = 240 CELL/minute&#x20;
 
-**Epoch 36+:** 2x multiplier = 2 CELL/block = 120 CELL/minute
-
+**Block:** 90,206,000 **Epoch 36+:** 2x multiplier = 2 CELL/block = 120 CELL/minute\
 
 
 {% hint style="info" %}
@@ -94,7 +93,7 @@ The total number of Epochs is 51. The last Epoch will provide unlocked <mark sty
 
 {% hint style="info" %}
 Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain **locked until block 99277999** which marks the end of Epoch 50. \
-Locked rewards will start unlocking via the vesting schedule for the following 50 Epochs.
+Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
 {% endhint %}
 
 **Piero Statue** will inform users regarding the amount of <mark style="color:yellow;">**CELL**</mark> received in **** total, how much is available for unlocking at that moment, and how much is locked at that time. \
@@ -124,4 +123,8 @@ The withdrawal fees are listed below:
 * **8%** fee if a user withdraws under **1 hour. \***
 * **25%** slashing fee if a user withdraws **during the same block.**
 
-_\*Days/Hours listed assumes a 1 second per block speed during such period and will depend on Aurora Blockchain speed._
+_\*Days/Hours listed assume a 1 second per block speed during such period and will depend on Aurora Blockchain speed._
+
+{% hint style="info" %}
+All the fees collected from withdrawals on each pool will be distributed to the **** [**Treasury**](brain-cell-token.md).
+{% endhint %}

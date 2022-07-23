@@ -20,7 +20,9 @@ The team will allocate \~$15.000,00 to create the initial liquidity of NEAR/CELL
 * **Liquidity Providing** will be there as long-term standing for the players.
 
 {% hint style="info" %}
-A portion of each trade will be redirected to **Liquidity Providers** and the **Research Facility.**
+0.3% of each trade will be redirected as follows: \
+0.25% to **Liquidity Providers** \
+0.05% to **Research Facility.**
 {% endhint %}
 
 A **DEX** component improves and brings value to the game economy. The markets currently hold DEXs that are gamified or gamified DeFi instruments; however, there is not a game that fully incorporates DeFi.\

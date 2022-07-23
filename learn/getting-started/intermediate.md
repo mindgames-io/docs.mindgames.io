@@ -2,13 +2,13 @@
 description: Learn to transfer your assets to Aurora Network
 ---
 
-# Intermediate (recommended)
+# Intermediate
 
 ### **What do I need to get started?**
 
 **NEAR Wallet** -> [https://wallet.near.org/create](https://wallet.near.org/create)
 
-You can find a beginner's guide [here](beginner/).
+You can find a beginner's guide [here](https://near.org/blog/getting-started-with-the-near-wallet/).
 
 **Metamask Wallet** -> [https://metamask.io/](https://metamask.io/)
 
