@@ -39,3 +39,9 @@ The rewards Gnomon offers for spinning his wheel also differ in size and proport
 | Consolation Cookies | 1      | 5    | 10        |
 | Mindtrap Milk       | 1      | 5    | 10        |
 | NFT                 | 1      | 1    | 1         |
+
+<figure><img src="../../../.gitbook/assets/MysteryBox (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+There is 1 NFT to be won each week by a lucky winner. After someone collects that week's NFT, the Mystery Box will award a random other valuable item until the resuply with the next NFT. Until all ELDER MINDS have been sold, each NFT on the wheel will be an ELDER!
+{% endhint %}
