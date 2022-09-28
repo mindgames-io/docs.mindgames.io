@@ -84,16 +84,31 @@ _Wind Down = 24h+(24h\*Gen)_
 
 
 
-| Elder Minds Gen0 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ---------------- | ---- | ---- | -------- | -------- |
-| Brainstorm 1     | 60   | 12   | 100      | 1        |
-| Brainstorm 2     | 80   | 14   | 102      | 3        |
-| Brainstorm 3     | 100  | 16   | 104      | 5        |
-| Brainstorm 4     | 120  | 18   | 106      | 7        |
-| Brainstorm 5     | 140  | 20   | 108      | 9        |
-| Brainstorm 6     | 160  | 22   | 110      | 11       |
-| Brainstorm 7     | 180  | 24   | 112      | 13       |
-| Brainstorm 8     | 200  | 26   | 114      | 15       |
-| Brainstorm 9     | 220  | 28   | 116      | 17       |
-| Brainstorm 10    | 240  | 30   | 118      | 19       |
-| Infinity         | 260  | 32   | 120      | 21       |
+| Elders Generation 0 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------- | ---- | ---- | -------- | -------- |
+| Brainstorm 1        | 60   | 12   | 100      | 1        |
+| Brainstorm 2        | 80   | 14   | 102      | 3        |
+| Brainstorm 3        | 100  | 16   | 104      | 5        |
+| Brainstorm 4        | 120  | 18   | 106      | 7        |
+| Brainstorm 5        | 140  | 20   | 108      | 9        |
+| Brainstorm 6        | 160  | 22   | 110      | 11       |
+| Brainstorm 7        | 180  | 24   | 112      | 13       |
+| Brainstorm 8        | 200  | 26   | 114      | 15       |
+| Brainstorm 9        | 220  | 28   | 116      | 17       |
+| Brainstorm 10       | 240  | 30   | 118      | 19       |
+| Infinity            | 260  | 32   | 120      | 21       |
+
+
+
+| Minds Generation 1 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | ---- | ---- | -------- | -------- |
+| Brainstorm 1       | 60   | 22   | 100      | 1        |
+| Brainstorm 2       | 80   | 24   | 102      | 3        |
+| Brainstorm 3       | 100  | 26   | 104      | 5        |
+| Brainstorm 4       | 120  | 28   | 106      | 7        |
+| Brainstorm 5       | 140  | 30   | 108      | 9        |
+| Brainstorm 6       | 160  | 32   | 110      | 11       |
+| Brainstorm 7       | 180  | 34   | 112      | 13       |
+| Brainstorm 8       | 200  | 36   | 114      | 15       |
+| Brainstorm 9       | 220  | 38   | 116      | 17       |
+| Brainstorm 10      | 240  | 40   | 118      | 19       |
