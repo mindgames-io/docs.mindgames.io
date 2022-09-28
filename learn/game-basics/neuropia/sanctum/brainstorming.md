@@ -115,8 +115,6 @@ _Wind Down = 24h+(24h\*Gen)_
 
 
 
-
-
 | Minds Generation 2 | CELL | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | ---- | ---- | -------- | -------- |
 | Brainstorm 1       | 260  | 32   | 300      | 3        |
@@ -135,16 +133,14 @@ _Wind Down = 24h+(24h\*Gen)_
 
 | Minds Generation 3 | CELL | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 360  | 42   | 100      | 1        |
-| Brainstorm 2       | 380  | 44   | 102      | 3        |
-| Brainstorm 3       | 400  | 46   | 104      | 5        |
-| Brainstorm 4       | 420  | 48   | 106      | 7        |
-| Brainstorm 5       | 440  | 50   | 108      | 9        |
-| Brainstorm 6       | 460  | 52   | 110      | 11       |
-| Brainstorm 7       | 480  | 54   | 112      | 13       |
-| Brainstorm 8       | 500  | 56   | 114      | 15       |
-
-
+| Brainstorm 1       | 360  | 42   | 400      | 4        |
+| Brainstorm 2       | 380  | 44   | 402      | 6        |
+| Brainstorm 3       | 400  | 46   | 404      | 8        |
+| Brainstorm 4       | 420  | 48   | 406      | 10       |
+| Brainstorm 5       | 440  | 50   | 408      | 12       |
+| Brainstorm 6       | 460  | 52   | 410      | 14       |
+| Brainstorm 7       | 480  | 54   | 412      | 16       |
+| Brainstorm 8       | 500  | 56   | 414      | 18       |
 
 
 
@@ -157,3 +153,56 @@ _Wind Down = 24h+(24h\*Gen)_
 | Brainstorm 5       | 540  | 60   | 508      | 13       |
 | Brainstorm 6       | 560  | 62   | 510      | 15       |
 | Brainstorm 7       | 580  | 64   | 512      | 17       |
+
+
+
+
+
+| Minds Generation 5 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | ---- | ---- | -------- | -------- |
+| Brainstorm 1       | 560  | 62   | 600      | 6        |
+| Brainstorm 2       | 580  | 64   | 602      | 8        |
+| Brainstorm 3       | 600  | 66   | 604      | 10       |
+| Brainstorm 4       | 620  | 68   | 606      | 12       |
+| Brainstorm 5       | 640  | 70   | 608      | 14       |
+| Brainstorm 6       | 660  | 72   | 610      | 16       |
+
+
+
+| Minds Generation 6 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | ---- | ---- | -------- | -------- |
+| Brainstorm 1       | 660  | 72   | 700      | 7        |
+| Brainstorm 2       | 680  | 74   | 702      | 9        |
+| Brainstorm 3       | 700  | 76   | 704      | 11       |
+| Brainstorm 4       | 720  | 78   | 706      | 13       |
+| Brainstorm 5       | 740  | 80   | 708      | 15       |
+
+
+
+| Minds Generation 7 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | ---- | ---- | -------- | -------- |
+| Brainstorm 1       | 760  | 82   | 800      | 8        |
+| Brainstorm 2       | 780  | 84   | 802      | 10       |
+| Brainstorm 3       | 800  | 86   | 804      | 12       |
+| Brainstorm 4       | 820  | 88   | 806      | 14       |
+
+
+
+| Minds Generation 8 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | ---- | ---- | -------- | -------- |
+| Brainstorm 1       | 860  | 92   | 900      | 9        |
+| Brainstorm 2       | 880  | 94   | 902      | 11       |
+| Brainstorm 3       | 900  | 96   | 904      | 13       |
+
+
+
+| Minds Generation 9 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | ---- | ---- | -------- | -------- |
+| Brainstorm 1       | 960  | 102  | 1000     | 10       |
+| Brainstorm 2       | 980  | 104  | 1002     | 12       |
+
+
+
+| Minds Generation 10 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| ------------------- | ---- | ---- | -------- | -------- |
+| Brainstorm 1        | 1060 | 112  | 1100     | 11       |
