@@ -80,9 +80,13 @@ Gen 0 MINDS Will have a 24h Wind Down Period ( based on block ) and subsequent G
 
 _Wind Down = 24h+(24h\*Gen)_
 
-## Brainstorming Cost
+## Cost and Particularities
 
+Brainstorming 2 MINDS together requires very special attention.
 
+{% hint style="info" %}
+Brainstorming 2 MINDS of the same bloodline is not possible. There have been attempts in the past, but et's not talk about them.&#x20;
+{% endhint %}
 
 | Elders Generation 0 | CELL | FOOD | AURORIUM | PHLOXIUM |
 | ------------------- | ---- | ---- | -------- | -------- |
