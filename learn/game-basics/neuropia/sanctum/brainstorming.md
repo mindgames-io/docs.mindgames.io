@@ -74,7 +74,7 @@ The newly created MIND will belong to the Set:
 
 **Wind down**
 
-After a long process in which the two MINDS put their heads together to bring a new one into existence, they need to rest. to rest.
+After a long process in which the two MINDS put their heads together to bring a new one into existence, they need to rest.&#x20;
 
 Gen 0 MINDS Will have a 24h Wind Down Period ( based on block ) and subsequent Generations will have a higher rate.
 
@@ -85,7 +85,7 @@ _Wind Down = 24h+(24h\*Gen)_
 Brainstorming 2 MINDS together requires very special attention.
 
 {% hint style="info" %}
-Brainstorming 2 MINDS of the same bloodline is not possible. There have been attempts in the past, but et's not talk about them.&#x20;
+Brainstorming 2 MINDS of the same bloodline is not possible. There have been attempts in the past, but let's not talk about them.&#x20;
 {% endhint %}
 
 | Elders Generation 0 | CELL | FOOD | AURORIUM | PHLOXIUM |
