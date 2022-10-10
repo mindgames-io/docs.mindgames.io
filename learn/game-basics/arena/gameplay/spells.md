@@ -56,26 +56,26 @@ All cards have **** 3 spells: **1 Attack**, **1 Defence** and **1 Passive**. The
 {% tab title="Passive Spells" %}
 
 
-| Icon                                             | Spell Name     | Spell Effect                                                              |
-| ------------------------------------------------ | -------------- | ------------------------------------------------------------------------- |
-| ![](../../../../.gitbook/assets/128\_Mull.jpg)   | Mull           | Gain +1 stats while Hidden                                                |
-| ![](../../../../.gitbook/assets/Rest.png)        | Rest           | Gets +2 stats if played as Attacker                                       |
-| ![](../../../../.gitbook/assets/MindBoil.png)    | MindBoil       | Deal 1 damage to all enemies whenever this is attacked                    |
-| ![](../../../../.gitbook/assets/Lightbulb.png)   | Lightbulb      | For the first 2 turns, gain +1 stats                                      |
-| ![](../../../../.gitbook/assets/PostItNote.png)  | Forgetful      | Deal 5 damage to Hidden and Unconscious cards every turn                  |
-| ![](../../../../.gitbook/assets/Manipulate.png)  | Manipulate     | Every turn, make one card in the match, Unconscious and give them +1 stas |
-| ![](../../../../.gitbook/assets/Meditate.png)    | Meditate       | If Convinced to attack a teammate, only deal half the damage              |
-| ![](../../../../.gitbook/assets/Snooze.png)      | Snooze         | Gain +1 stats every turn this is on the Bench                             |
-| ![](../../../../.gitbook/assets/Observe.png)     | Observe        | Copy enemy’s last ability                                                 |
-| ![](../../../../.gitbook/assets/WitsEnd.png)     | Wits End       | When its IQ reaches 0, deal 5 damage to a random enemy                    |
-| ![](../../../../.gitbook/assets/Process.png)     | Process        | Block half of first attack on any Nucleus card every turn                 |
-| ![](../../../../.gitbook/assets/Priming.png)     | Priming        | Enemies attacked by this card take 2 extra damage                         |
-| ![](../../../../.gitbook/assets/InTheClouds.png) | In the clouds  | When Unconscious, gain +2 stats                                           |
-| ![](../../../../.gitbook/assets/Discover.png)    | Discover       | When attacked, Hide your Nucleus for this turn.                           |
-| ![](../../../../.gitbook/assets/Connect.png)     | Connect        | If played as the Defensive, give your Nucleus +1 stats                    |
-| ![](../../../../.gitbook/assets/OutOfTheBox.png) | Out of the box | Gain +1 stats if Teleported                                               |
-| ![](../../../../.gitbook/assets/Judging.png)     | Judging        | Gain +1 stats while Teleported on the bench                               |
-| ![](../../../../.gitbook/assets/Ascension.png)   | Ascension      | Every 2 turns, gain +1 stats                                              |
+| Icon                                             | Spell Name     | Spell Effect                                                                                                                                      |
+| ------------------------------------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../../.gitbook/assets/128\_Mull.jpg)   | Mull           | If a character is attacked with more than their main stat, restore half of the damage as IQ.                                                      |
+| ![](../../../../.gitbook/assets/Rest.png)        | Rest           | Swap a card with a random one from the bench.                                                                                                     |
+| ![](../../../../.gitbook/assets/MindBoil.png)    | MindBoil       | First character that attacks receives half of the damage dealt.                                                                                   |
+| ![](../../../../.gitbook/assets/Lightbulb.png)   | Lightbulb      | Friendly cards that were hidden last turn gain +10 main stat permanent.                                                                           |
+| ![](../../../../.gitbook/assets/PostItNote.png)  | Forgetful      | Damage left from previous turns is forgotten.                                                                                                     |
+| ![](../../../../.gitbook/assets/Manipulate.png)  | Manipulate     | Convince enemy defender to attack enemy attacker.                                                                                                 |
+| ![](../../../../.gitbook/assets/Meditate.png)    | Meditate       | Swap current cards for random ones from the bench at the beginning of the turn. Swap back at the end of turn.                                     |
+| ![](../../../../.gitbook/assets/Snooze.png)      | Snooze         | Your opponent's actions will now happen later.                                                                                                    |
+| ![](../../../../.gitbook/assets/Observe.png)     | Observe        | Copy enemy’s current passive.                                                                                                                     |
+| ![](../../../../.gitbook/assets/WitsEnd.png)     | Wits End       | If any character dies this turn, deal damage to the enemy nucleus equal to the decesead's last available IQ.                                      |
+| ![](../../../../.gitbook/assets/Process.png)     | Process        | For each two points of damage received this turn, give your characters a point to their main stat next turn.                                      |
+| ![](../../../../.gitbook/assets/Priming.png)     | Priming        | Convince one of the enemy positions to deal damage to their teammate using their main stat.                                                       |
+| ![](../../../../.gitbook/assets/InTheClouds.png) | In the clouds  | Give a random card on your bench +10 to their main stat, give a card in your enemy's bench +5 to main stat.                                       |
+| ![](../../../../.gitbook/assets/Discover.png)    | Discover       | If defender is attacked, hide both your cards at the end of the turn.                                                                             |
+| ![](../../../../.gitbook/assets/Connect.png)     | Connect        | For each same rarity on the nucleus, deal 20 damage to the enemy nucleus.                                                                         |
+| ![](../../../../.gitbook/assets/OutOfTheBox.png) | Out of the box | Hide both your cards at the end of the turn.                                                                                                      |
+| ![](../../../../.gitbook/assets/Judging.png)     | Judging        | If the enemy damage is higher than yours this turn, restore **Temporal** \* 1.5 IQ to your circuit.                                               |
+| ![](../../../../.gitbook/assets/Ascension.png)   | Ascension      | Pit your attacker against the enemies attacker. If yours wins, gain +10 **Temporal** permanently. If you lose, take **Temporal** worth of damage. |
 {% endtab %}
 {% endtabs %}
 
