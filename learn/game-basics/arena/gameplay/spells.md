@@ -6,26 +6,26 @@ All cards have **** 3 spells: **1 Attack**, **1 Defence** and **1 Passive**. The
 {% tab title="Defensive Spells" %}
 
 
-| Icon                                                     | Spell Name         | Spell Effect                                                                     |
-| -------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------- |
-| ![](../../../../.gitbook/assets/128\_Brickwall.jpg)      | Brickwall          | Block half of the attack on Nucleus this turn                                    |
-| ![](<../../../../.gitbook/assets/128\_Remember (1).jpg>) | Remember           | Restore 20 IQ to this card if attacked.                                          |
-| ![](../../../../.gitbook/assets/128\_Ram.jpg)            | Ram                | Block first attack dealt to any card in the Nucleus this turn                    |
-| ![](<../../../../.gitbook/assets/128\_MindWipe (1).jpg>) | Mind Wipe          | Restore IQ equal to this card’s Force (attack)                                   |
-| ![](../../../../.gitbook/assets/DejaVu.png)              | Deja Vu            | Return first attack to the same enemy this turn                                  |
-| ![](../../../../.gitbook/assets/128\_Motivate.jpg)       | Motivate           | Take the damage for the Nucleus this turn                                        |
-| ![](../../../../.gitbook/assets/Memory.png)              | Memory             | Convince an enemy to restore IQ to this card, equal to the enemy card stats      |
-| ![](../../../../.gitbook/assets/Solve.png)               | Solve              | Restore 50 IQ to the Circuit over the next 3 turns                               |
-| ![](../../../../.gitbook/assets/Counter.png)             | Counter            | Block half of the first attack on any card in the Circuit                        |
-| ![](<../../../../.gitbook/assets/RingABell (1).png>)     | Ring a bell        | restore 5 IQ to the Nucleus                                                      |
-| ![](../../../../.gitbook/assets/128\_Brainstorm.jpg)     | Brainstorm         | All IQ restored this turn deals damage                                           |
-| ![](../../../../.gitbook/assets/Dizzy.png)               | Dizzy              | 30% chance to block next attack in full                                          |
-| ![](../../../../.gitbook/assets/Subliminal.png)          | Subliminal         | Restore 20 IQ to a card on the Bench                                             |
-| ![](../../../../.gitbook/assets/Faint.png)               | Faint              | Go Unconscious – return in 2 turns with increased stats                          |
-| ![](../../../../.gitbook/assets/OutOfSight.png)          | Out Of Sight       | Hide for 1 turn                                                                  |
-| ![](../../../../.gitbook/assets/TabulaRasa.png)          | Tabula Rasa        | Restore one card’s IQ to full                                                    |
-| ![](../../../../.gitbook/assets/HeadForTheHills.png)     | Head for the Hills | Teleport to the Bench. A random card from your Circuit replaces this for 1 turn. |
-| ![](../../../../.gitbook/assets/ThinkAlike.png)          | Think Alike        | Attack a random enemy with the same force as the last attack received            |
+| Icon                                                     | Spell Name         | Spell Effect                                                                                           |
+| -------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------ |
+| ![](../../../../.gitbook/assets/128\_Brickwall.jpg)      | Brickwall          | Block **Frontal** \* 0.75 for the first attack.                                                        |
+| ![](<../../../../.gitbook/assets/128\_Remember (1).jpg>) | Remember           | Take all damage dealt from the **circuit** this turn and restore half as IQ.                           |
+| ![](../../../../.gitbook/assets/128\_Ram.jpg)            | Ram                | Protect your entire **circuit**. Return half of the damage recived to the attacker.                    |
+| ![](<../../../../.gitbook/assets/128\_MindWipe (1).jpg>) | Mind Wipe          | If your attacker is attacked, deflect 75% of the damage.                                               |
+| ![](../../../../.gitbook/assets/DejaVu.png)              | Deja Vu            | Deal **Motor** \* 0.75. Enemy attacker forgets **Motor** worth of their next attack this turn.         |
+| ![](../../../../.gitbook/assets/128\_Motivate.jpg)       | Motivate           | Connect all Nodes in this arena. For each Node, defend 5.                                              |
+| ![](../../../../.gitbook/assets/Memory.png)              | Memory             | If attacked, cancel the enemy's next turn's passives.                                                  |
+| ![](../../../../.gitbook/assets/Solve.png)               | Solve              | If attacked, restore a fourth of the damage as IQ and hide the attacker.                               |
+| ![](../../../../.gitbook/assets/Counter.png)             | Counter            | 50% chance for the enemy to attack a different character.                                              |
+| ![](<../../../../.gitbook/assets/RingABell (1).png>)     | Ring a bell        | Block F/2 and restore a third of the attack as IQ.                                                     |
+| ![](../../../../.gitbook/assets/128\_Brainstorm.jpg)     | Brainstorm         | If attacked, distribute damage to this card over 3 turns.                                              |
+| ![](../../../../.gitbook/assets/Dizzy.png)               | Dizzy              | Distribute damage taken to your circuit.                                                               |
+| ![](../../../../.gitbook/assets/Subliminal.png)          | Subliminal         | Block **Temporal** worth of damage for your **nucleus** for 2 turns.                                   |
+| ![](../../../../.gitbook/assets/Faint.png)               | Faint              | Restore half of the damage received as IQ.                                                             |
+| ![](../../../../.gitbook/assets/OutOfSight.png)          | Out Of Sight       | Restore your IQ with 10 multiplied by the number cards that died while this was on the **nucleus.**    |
+| ![](../../../../.gitbook/assets/TabulaRasa.png)          | Tabula Rasa        | At the end of the turn, restore your circuits IQ with **Frontal** \* 1.5.                              |
+| ![](../../../../.gitbook/assets/HeadForTheHills.png)     | Head for the Hills | If your attacker is attacked, restore your circuit with **Temporal** worth of IQ for 2 turns and hide. |
+| ![](../../../../.gitbook/assets/ThinkAlike.png)          | Think Alike        | Block **Frontal** / 1.75 worth of damage.                                                              |
 {% endtab %}
 
 {% tab title="Attack Spells" %}
