@@ -35,6 +35,6 @@ The theme stems from minds being something we all share, yet they all differ so 
 We want to address most, if not all, fan-favorite genres of games and give all of you the chance to escape for a while.
 
 {% hint style="info" %}
-**Got Problems? Tell us all about it:** <mark style="color:blue;"></mark> [<mark style="color:blue;">**Contact**</mark>](https://app.gitbook.com/u/LSekvmXr13dfeLOhYZ37y1mzDti2)<mark style="color:blue;">****</mark>
+**Got Problems? Tell us all about it:** <mark style="color:blue;"></mark> [<mark style="color:blue;">**Contact**</mark>](https://forms.office.com/r/y33GyxmUnd)<mark style="color:blue;">****</mark>
 {% endhint %}
 
