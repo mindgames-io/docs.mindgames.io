@@ -1,5 +1,5 @@
 ---
-description: Q2 2023
+description: Q2 - Q3 2023
 ---
 
 # Phase 4 - Lands

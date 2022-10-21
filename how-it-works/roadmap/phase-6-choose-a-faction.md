@@ -1,5 +1,5 @@
 ---
-description: Strategic & Economy Management Game
+description: Q4 2023 - Q1 2024 - Strategic & Economy Management Game
 ---
 
 # Phase 6 - Choose A Faction
