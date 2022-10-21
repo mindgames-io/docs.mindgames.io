@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/WorldMapSmall.png)
 
-Neuropia is a solo adventure mode with missions that bring rewards and resources. These are later used to develop your settlement within the MIcdNDS world. The Story will unveil further regarding the history and lore of the MINDS, new characters emerge, plot twists, and, of course,........cliff han-.
+Neuropia is a solo adventure mode with missions that bring rewards and resources. These are later used to develop your settlement within the MINDS world. The Story will unveil further regarding the history and lore of the MINDS, new characters emerge, plot twists, and, of course,........cliff han-.
 
 **Findings log 5:**&#x20;
 
