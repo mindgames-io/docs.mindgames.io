@@ -4,9 +4,9 @@ description: Q4 2022 - Q1 2023
 
 # Phase 2.5 - Expansion
 
-{% file src="../../.gitbook/assets/Logo.png" %}
+<figure><img src="../../.gitbook/assets/Logo.png" alt=""><figcaption></figcaption></figure>
 
-
+We are taking new steps for expanding the game onto other blockchains.&#x20;
 
 * Announcing the new blockchain :hourglass:
 * Auditing our protocol smart contracts:hourglass:
