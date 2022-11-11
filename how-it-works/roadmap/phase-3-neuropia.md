@@ -7,7 +7,7 @@ description: Q4 2022 - Q1 2023 - Missions & Professions
 The birds become restless. A dim rumbling can be heard. The ground trembles lightly. A bright light, too strong for our eyes to bare comes from the **Path Opening Relique Transcending Archaic Locations**. The [**P.O.R.T.A.L.**](../../learn/game-basics/neuropia/p.o.r.t.a.l..md) opens up to unveil what mysteries lie behind its light.
 
 * Bounty program for **MIND Games** Neuropia testing :hourglass\_flowing\_sand:
-* MINDs are discovering Brain Storming :hourglass\_flowing\_sand:
+* Researchers are discovering Brainstorming :hourglass\_flowing\_sand:
 *   **Neuropia**:hourglass\_flowing\_sand:\
     Neural Network (buildings)\
     \

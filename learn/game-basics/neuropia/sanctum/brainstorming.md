@@ -24,7 +24,7 @@ Based on the above table you can guide your Brain Storming process. The 2 origin
 
 As far as the MINDS Genetic makeup is concerned, a few things differ from our own.&#x20;
 
-Elder MINDS are the ones **** that have given birth to the entire race. They are to be protected at all costs.
+Elder MINDS are the ones **** that have Stormsurged the entire race. They are to be protected at all costs.
 
 Combine any 2 Rarities and get a chance to get a higher rarity card.
 
