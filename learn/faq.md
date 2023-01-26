@@ -16,7 +16,7 @@ Playing our game, especially in the assets and monetary genesis phases (DEX stag
 
 You should install first Metamask. Second, you should manage to bring your tokens on Aurora Network from Ethereum Mainnet / Near or any other chains with Bridge Support on Aurora.
 
-Find out more [**here**](getting-started/).&#x20;
+Find out more [**here**](starting-on-arbitrum/).&#x20;
 
 Lastly, use our in-game **** [**Tavern** ](game-basics/neuropia/tavern.md)& [**Marketplace** ](../how-it-works/marketplace.md)to acquire the desired in-game assets and start playing.
 

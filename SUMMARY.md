@@ -21,8 +21,8 @@
 
 ## LEARN
 
-* [🏴☠ Getting Started](learn/getting-started/README.md)
-  * [Intermediate](learn/getting-started/intermediate.md)
+* [🏴☠ Starting on Arbitrum:](learn/starting-on-arbitrum/README.md)
+  * [Intermediate](learn/starting-on-arbitrum/intermediate.md)
 * [📖 Story](learn/story.md)
 * [🕹 Game Basics](learn/game-basics/README.md)
   * [NFTs](learn/game-basics/nfts/README.md)
