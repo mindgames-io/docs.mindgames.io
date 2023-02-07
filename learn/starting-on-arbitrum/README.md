@@ -2,7 +2,7 @@
 description: Guide for users on how to move their assets to the Arbitrum One network.
 ---
 
-# 🏴☠ Starting on Arbitrum:
+# 🏴☠ Starting on Arbitrum
 
 ![Queen Neara Aurius Manumakamae](../../.gitbook/assets/ZeCuintr.png)
 

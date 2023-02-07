@@ -18,21 +18,21 @@ description: >-
 
 ## What is MIND Games
 
-Using the UniswapV2 Protocol and built on the <mark style="color:green;">**Aurora Network**</mark>, MIND Games token, [**Brain Cell \[CELL\]**](how-it-works/brain-cell-token.md), will bring rewards and earning opportunities at very low trading fees and low waiting times!
+MIND Games is a game universe that offers players a unique and immersive experience. In this world, players are part of a top-secret research team tasked with exploring a new planet on the other side of a black hole, inhabited by MINDS. The goal is to collect NFTs, participate in missions, and engage in battles with other players to build a thriving community within the MIND Games Metaverse.
+
+
 
 {% hint style="info" %}
-**Good to know:** MIND Games implemented [**DeFi instruments**](broken-reference) in all of the game modes. All NFTs will be available to use throughout the MIND Universe. The first in-game currency,  <mark style="color:yellow;">**AURORIUM \[AUR]**</mark>, is also usable in any mode, thus letting players control how they choose to spend their earnings.&#x20;
+**Good to know:** MIND Games implemented [**DeFi instruments**](broken-reference) in all of the game modes. All NFTs will be available to use throughout the MIND Universe.&#x20;
 {% endhint %}
 
 ## Behind The MIND
 
-**MIND Games** is an ecosystem of games designed to bring the Crypto and NFT world closer to us, to gamers everywhere, in a variety of genres. \
-\
-We want to bring a high-quality gaming experience to all of our titles, and boy do we have some nice surprises prepared. As we'll release each title, you can expect a smooth transition when trying out the new games. **MIND Games** will function like a truly balanced universe. All of the in-game currencies and rewards can be used in all of our titles, and there will be multiple avenues for you to grow your characters, better your team, and ultimately earn the most rewards! \
-\
-The theme stems from minds being something we all share, yet they all differ so much from one to another. (Thank Gnomon!) We are all connected in this network, but there's never a dull moment as no two brains will think alike. \
-\
-We want to address most, if not all, fan-favorite genres of games and give all of you the chance to escape for a while.
+The NFTs in MIND Games have unique characteristics that make them rare and valuable, such as differing statistics and abilities. Players are represented by Researcher cards that can be customized based on their playing style and interests, and all Talent points acquired can be traded on the Marketplace.
+
+To ensure a safe and sustainable player experience, MIND Games has a limited daily energy system, and rewards players for their efforts with resources, items, and other bonuses. The Decentralized Exchange platform within the Marketplace allows players to swap tokens and participate in the Piero’s Statue offering. Additionally, the Research Facility offers staking opportunities for players to deposit tokens and receive rewards for their contributions to the scientific community.
+
+Overall, MIND Games offers a dynamic and engaging experience for players looking to immerse themselves in a unique and thriving game universe.
 
 {% hint style="info" %}
 **Got Problems? Tell us all about it:** <mark style="color:blue;"></mark> [<mark style="color:blue;">**Contact**</mark>](https://forms.office.com/r/y33GyxmUnd)<mark style="color:blue;">****</mark>

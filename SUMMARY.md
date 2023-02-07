@@ -21,7 +21,7 @@
 
 ## LEARN
 
-* [🏴☠ Starting on Arbitrum:](learn/starting-on-arbitrum/README.md)
+* [🏴☠ Starting on Arbitrum](learn/starting-on-arbitrum/README.md)
   * [Intermediate](learn/starting-on-arbitrum/intermediate.md)
 * [📖 Story](learn/story.md)
 * [🕹 Game Basics](learn/game-basics/README.md)
