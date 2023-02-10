@@ -94,122 +94,122 @@ Brainstorming 2 MINDS together requires very special attention.
 Brainstorming 2 MINDS of the same bloodline is not possible. There have been attempts in the past, but let's not talk about them.&#x20;
 {% endhint %}
 
-| Elders Generation 0 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------- | ---- | ---- | -------- | -------- |
-| Brainstorm 1        | 60   | 12   | 100      | 1        |
-| Brainstorm 2        | 80   | 14   | 102      | 3        |
-| Brainstorm 3        | 100  | 16   | 104      | 5        |
-| Brainstorm 4        | 120  | 18   | 106      | 7        |
-| Brainstorm 5        | 140  | 20   | 108      | 9        |
-| Brainstorm 6        | 160  | 22   | 110      | 11       |
-| Brainstorm 7        | 180  | 24   | 112      | 13       |
-| Brainstorm 8        | 200  | 26   | 114      | 15       |
-| Brainstorm 9        | 220  | 28   | 116      | 17       |
-| Brainstorm 10       | 240  | 30   | 118      | 19       |
-| Infinity            | 260  | 32   | 120      | 21       |
+| Elders Generation 0 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------- | --- | ---- | -------- | -------- |
+| Brainstorm 1        | 60  | 12   | 100      | 1        |
+| Brainstorm 2        | 80  | 14   | 102      | 3        |
+| Brainstorm 3        | 100 | 16   | 104      | 5        |
+| Brainstorm 4        | 120 | 18   | 106      | 7        |
+| Brainstorm 5        | 140 | 20   | 108      | 9        |
+| Brainstorm 6        | 160 | 22   | 110      | 11       |
+| Brainstorm 7        | 180 | 24   | 112      | 13       |
+| Brainstorm 8        | 200 | 26   | 114      | 15       |
+| Brainstorm 9        | 220 | 28   | 116      | 17       |
+| Brainstorm 10       | 240 | 30   | 118      | 19       |
+| Infinity            | 260 | 32   | 120      | 21       |
 
 
 
-| Minds Generation 1 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 160  | 22   | 200      | 2        |
-| Brainstorm 2       | 180  | 24   | 202      | 4        |
-| Brainstorm 3       | 200  | 26   | 204      | 6        |
-| Brainstorm 4       | 220  | 28   | 206      | 8        |
-| Brainstorm 5       | 240  | 30   | 208      | 10       |
-| Brainstorm 6       | 260  | 32   | 210      | 12       |
-| Brainstorm 7       | 280  | 34   | 212      | 14       |
-| Brainstorm 8       | 300  | 36   | 214      | 16       |
-| Brainstorm 9       | 320  | 38   | 216      | 18       |
-| Brainstorm 10      | 340  | 40   | 218      | 20       |
+| Minds Generation 1 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 160 | 22   | 200      | 2        |
+| Brainstorm 2       | 180 | 24   | 202      | 4        |
+| Brainstorm 3       | 200 | 26   | 204      | 6        |
+| Brainstorm 4       | 220 | 28   | 206      | 8        |
+| Brainstorm 5       | 240 | 30   | 208      | 10       |
+| Brainstorm 6       | 260 | 32   | 210      | 12       |
+| Brainstorm 7       | 280 | 34   | 212      | 14       |
+| Brainstorm 8       | 300 | 36   | 214      | 16       |
+| Brainstorm 9       | 320 | 38   | 216      | 18       |
+| Brainstorm 10      | 340 | 40   | 218      | 20       |
 
 
 
-| Minds Generation 2 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 260  | 32   | 300      | 3        |
-| Brainstorm 2       | 280  | 34   | 302      | 5        |
-| Brainstorm 3       | 300  | 36   | 304      | 7        |
-| Brainstorm 4       | 320  | 38   | 306      | 9        |
-| Brainstorm 5       | 340  | 40   | 308      | 11       |
-| Brainstorm 6       | 360  | 42   | 310      | 13       |
-| Brainstorm 7       | 380  | 44   | 312      | 15       |
-| Brainstorm 8       | 400  | 46   | 314      | 17       |
-| Brainstorm 9       | 420  | 48   | 316      | 19       |
-
-
-
-
-
-| Minds Generation 3 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 360  | 42   | 400      | 4        |
-| Brainstorm 2       | 380  | 44   | 402      | 6        |
-| Brainstorm 3       | 400  | 46   | 404      | 8        |
-| Brainstorm 4       | 420  | 48   | 406      | 10       |
-| Brainstorm 5       | 440  | 50   | 408      | 12       |
-| Brainstorm 6       | 460  | 52   | 410      | 14       |
-| Brainstorm 7       | 480  | 54   | 412      | 16       |
-| Brainstorm 8       | 500  | 56   | 414      | 18       |
-
-
-
-| Minds Generation 4 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 460  | 52   | 500      | 5        |
-| Brainstorm 2       | 480  | 54   | 502      | 7        |
-| Brainstorm 3       | 500  | 56   | 504      | 9        |
-| Brainstorm 4       | 520  | 58   | 506      | 11       |
-| Brainstorm 5       | 540  | 60   | 508      | 13       |
-| Brainstorm 6       | 560  | 62   | 510      | 15       |
-| Brainstorm 7       | 580  | 64   | 512      | 17       |
+| Minds Generation 2 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 260 | 32   | 300      | 3        |
+| Brainstorm 2       | 280 | 34   | 302      | 5        |
+| Brainstorm 3       | 300 | 36   | 304      | 7        |
+| Brainstorm 4       | 320 | 38   | 306      | 9        |
+| Brainstorm 5       | 340 | 40   | 308      | 11       |
+| Brainstorm 6       | 360 | 42   | 310      | 13       |
+| Brainstorm 7       | 380 | 44   | 312      | 15       |
+| Brainstorm 8       | 400 | 46   | 314      | 17       |
+| Brainstorm 9       | 420 | 48   | 316      | 19       |
 
 
 
 
 
-| Minds Generation 5 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 560  | 62   | 600      | 6        |
-| Brainstorm 2       | 580  | 64   | 602      | 8        |
-| Brainstorm 3       | 600  | 66   | 604      | 10       |
-| Brainstorm 4       | 620  | 68   | 606      | 12       |
-| Brainstorm 5       | 640  | 70   | 608      | 14       |
-| Brainstorm 6       | 660  | 72   | 610      | 16       |
+| Minds Generation 3 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 360 | 42   | 400      | 4        |
+| Brainstorm 2       | 380 | 44   | 402      | 6        |
+| Brainstorm 3       | 400 | 46   | 404      | 8        |
+| Brainstorm 4       | 420 | 48   | 406      | 10       |
+| Brainstorm 5       | 440 | 50   | 408      | 12       |
+| Brainstorm 6       | 460 | 52   | 410      | 14       |
+| Brainstorm 7       | 480 | 54   | 412      | 16       |
+| Brainstorm 8       | 500 | 56   | 414      | 18       |
 
 
 
-| Minds Generation 6 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 660  | 72   | 700      | 7        |
-| Brainstorm 2       | 680  | 74   | 702      | 9        |
-| Brainstorm 3       | 700  | 76   | 704      | 11       |
-| Brainstorm 4       | 720  | 78   | 706      | 13       |
-| Brainstorm 5       | 740  | 80   | 708      | 15       |
+| Minds Generation 4 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 460 | 52   | 500      | 5        |
+| Brainstorm 2       | 480 | 54   | 502      | 7        |
+| Brainstorm 3       | 500 | 56   | 504      | 9        |
+| Brainstorm 4       | 520 | 58   | 506      | 11       |
+| Brainstorm 5       | 540 | 60   | 508      | 13       |
+| Brainstorm 6       | 560 | 62   | 510      | 15       |
+| Brainstorm 7       | 580 | 64   | 512      | 17       |
 
 
 
-| Minds Generation 7 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 760  | 82   | 800      | 8        |
-| Brainstorm 2       | 780  | 84   | 802      | 10       |
-| Brainstorm 3       | 800  | 86   | 804      | 12       |
-| Brainstorm 4       | 820  | 88   | 806      | 14       |
+
+
+| Minds Generation 5 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 560 | 62   | 600      | 6        |
+| Brainstorm 2       | 580 | 64   | 602      | 8        |
+| Brainstorm 3       | 600 | 66   | 604      | 10       |
+| Brainstorm 4       | 620 | 68   | 606      | 12       |
+| Brainstorm 5       | 640 | 70   | 608      | 14       |
+| Brainstorm 6       | 660 | 72   | 610      | 16       |
 
 
 
-| Minds Generation 8 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 860  | 92   | 900      | 9        |
-| Brainstorm 2       | 880  | 94   | 902      | 11       |
-| Brainstorm 3       | 900  | 96   | 904      | 13       |
+| Minds Generation 6 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 660 | 72   | 700      | 7        |
+| Brainstorm 2       | 680 | 74   | 702      | 9        |
+| Brainstorm 3       | 700 | 76   | 704      | 11       |
+| Brainstorm 4       | 720 | 78   | 706      | 13       |
+| Brainstorm 5       | 740 | 80   | 708      | 15       |
 
 
 
-| Minds Generation 9 | CELL | FOOD | AURORIUM | PHLOXIUM |
-| ------------------ | ---- | ---- | -------- | -------- |
-| Brainstorm 1       | 960  | 102  | 1000     | 10       |
-| Brainstorm 2       | 980  | 104  | 1002     | 12       |
+| Minds Generation 7 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 760 | 82   | 800      | 8        |
+| Brainstorm 2       | 780 | 84   | 802      | 10       |
+| Brainstorm 3       | 800 | 86   | 804      | 12       |
+| Brainstorm 4       | 820 | 88   | 806      | 14       |
+
+
+
+| Minds Generation 8 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 860 | 92   | 900      | 9        |
+| Brainstorm 2       | 880 | 94   | 902      | 11       |
+| Brainstorm 3       | 900 | 96   | 904      | 13       |
+
+
+
+| Minds Generation 9 | STX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------ | --- | ---- | -------- | -------- |
+| Brainstorm 1       | 960 | 102  | 1000     | 10       |
+| Brainstorm 2       | 980 | 104  | 1002     | 12       |
 
 
 
