@@ -22,10 +22,10 @@ Send a [<mark style="color:yellow;">**Leech**</mark>](../nfts/minds/classes.md) 
 
 ### Seafair
 
-The Grieving Nixie is docked in Wernicke bay awaiting her Captain. **MINDS** that embark on this voyage return with great treasures of <mark style="color:yellow;">**\[STX]**</mark>** ** . Waters are often unforgiving and keep the sailors captive deep down under. Only the worthy can escape and reach the shore once more.
+The Grieving Nixie is docked in Wernicke bay awaiting her Captain. **MINDS** that embark on this voyage return with great treasures of <mark style="color:yellow;">**CELL**</mark>. Waters are often unforgiving and keep the sailors captive deep down under. Only the worthy can escape and reach the shore once more.
 
 {% hint style="info" %}
-Send a ** **<mark style="color:red;">**Wave**</mark>** ** or a ** **<mark style="color:red;">**Node**</mark>** ** to **** get <mark style="color:yellow;">**\[STX]**</mark>**   **<mark style="color:yellow;">****</mark>**  ** or <img src="../../../.gitbook/assets/Building-Blox.png" alt="" data-size="line">[<mark style="color:orange;">**Building Materials**</mark>](../currency.md#building-materials). Will only reward <mark style="color:yellow;">**\[STX]**</mark>**  **  if there are [**offerings**](../../../how-it-works/pieros-statue.md#locking) made on the specific pairs.
+Send a ** **<mark style="color:red;">**Wave**</mark>** ** or a ** **<mark style="color:red;">**Node**</mark>** ** to **** get <mark style="color:yellow;">**CELL**</mark>**  ** or <img src="../../../.gitbook/assets/Building-Blox.png" alt="" data-size="line">[<mark style="color:orange;">**Building Materials**</mark>](../currency.md#building-materials). Will only reward [<mark style="color:yellow;">**CELL**</mark>](../../../how-it-works/brain-cell-token.md) **** if there are [**offerings**](../../../how-it-works/pieros-statue.md#locking) made on the specific pairs.
 {% endhint %}
 
 ### Fable Binding

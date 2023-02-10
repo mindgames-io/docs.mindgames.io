@@ -26,11 +26,11 @@ This service is free, and we will never DM you first, use the ticketing system t
 
 ### **What is Brain Cell Token?**
 
-<mark style="color:yellow;">**\[STX]**</mark> will be the core token of the whole game ecosystem on the <mark style="color:blue;">**Arbitrum Network**</mark>. Only time can tell when the MINDS will discover valuable materials on other chains/regions.
+<mark style="color:yellow;">****</mark>[<mark style="color:yellow;">**CELL**</mark>](../how-it-works/brain-cell-token.md) <mark style="color:yellow;">****</mark> will be the core token of the whole game ecosystem on the <mark style="color:green;">**Aurora Network**</mark>. Only time can tell when the MINDS will discover valuable materials on other chains/regions.
 
-On Aurora, the <mark style="color:yellow;">**\[STX]**</mark> token will bootstrap the game economy via the DEX, creating liquidity for the main LP pairs that the game will have. These will be the tokens that will connect us to Aurora's exterior ecosystem to have our in-game economy linked to the big market.
+On Aurora, the <mark style="color:yellow;">**CELL**</mark> token will bootstrap the game economy via the DEX, creating liquidity for the main LP pairs that the game will have. These will be the tokens that will connect us to Aurora's exterior ecosystem to have our in-game economy linked to the big market.
 
-Besides staking and farming, you will use the <mark style="color:yellow;">**\[STX]**</mark> token for NFTs mechanics, game modes, and other in-game assets to get more <mark style="color:yellow;">**\[STX]**</mark> while offering liquidity to other players for their swaps.
+Besides staking and farming, you will use the <mark style="color:yellow;">**CELL**</mark> token for NFTs mechanics, game modes, and other in-game assets to get more <mark style="color:yellow;">**CELL**</mark> while offering liquidity to other players for their swaps.
 
 ### Gameplay & NFTs?
 
@@ -46,9 +46,9 @@ NFTs can be purchased in the [**Tavern** ](game-basics/neuropia/tavern.md)or in 
 
 ****[**Marketplace** ](../how-it-works/marketplace.md)****
 
-You can swap tokens, create Liquidity Pool Tokens - <mark style="color:yellow;">**\[STX]-LP**</mark>, and trade items in the Marketplace found in [**Neuropia**](game-basics/neuropia/).&#x20;
+You can swap tokens, create Liquidity Pool Tokens - <mark style="color:yellow;">**CELL-LP**</mark>, and trade items in the Marketplace found in [**Neuropia**](game-basics/neuropia/).&#x20;
 
-Participating users will be able to use our [**Decentralized Exchange**](../how-it-works/decentralized-exchange.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[STX]**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"></mark> and **NEAR**, you can earn passive income in fees anytime anyone trades those tokens.
+Participating users will be able to use our [**Decentralized Exchange**](../how-it-works/decentralized-exchange.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**CELL**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"></mark> and **NEAR**, you can earn passive income in fees anytime anyone trades those tokens.
 
 Keep in mind that a part of the fees collected from trading and withdrawals on each pool will be distributed to the liquidity providers in that pool.
 
@@ -56,25 +56,25 @@ Keep in mind that a part of the fees collected from trading and withdrawals on e
 
 ****[**Piero's statue** ](../how-it-works/pieros-statue.md)****
 
-Users can farm LP tokens to receive <mark style="color:yellow;">**\[STX]**</mark> tokens. This is possible by accessing the Piero's Statue menu, located in the lower part of [**Neuropia**](game-basics/neuropia/), between [**Marketplace** ](../how-it-works/marketplace.md)and [**Research Facility**](../how-it-works/research-facility.md).
+Users can farm LP tokens to receive <mark style="color:yellow;">**CELL**</mark> tokens. This is possible by accessing the Piero's Statue menu, located in the lower part of [**Neuropia**](game-basics/neuropia/), between [**Marketplace** ](../how-it-works/marketplace.md)and [**Research Facility**](../how-it-works/research-facility.md).
 
-You will receive <mark style="color:yellow;">**\[STX]**</mark> to use for certain important items, skills, and talents in MIND Games!
+You will receive <mark style="color:yellow;">**CELL**</mark> to use for certain important items, skills, and talents in MIND Games!
 
-Rewarded <mark style="color:yellow;">**\[STX]**</mark> for staking <mark style="color:yellow;">**\[STX]-LP**</mark> tokens as offerings with Piero's Statue will change for each Epoch. Epochs were calculated to 604,800 blocks so that each Epoch would equal one week, assuming a 1 second per block on the <mark style="color:blue;">**Arbitrum Network**</mark>. If block speeds are longer or faster than 1 second per block on average, then an Epoch will last more or less than one week.
+Rewarded <mark style="color:yellow;">**CELL**</mark> for staking <mark style="color:yellow;">**CELL-LP**</mark> tokens as offerings with Piero's Statue will change for each Epoch. Epochs were calculated to 604,800 blocks so that each Epoch would equal one week, assuming a 1 second per block on the <mark style="color:green;">**Aurora Network**</mark>. If block speeds are longer or faster than 1 second per block on average, then an Epoch will last more or less than one week.
 
 ### **Locking period explained**
 
-Another aspect of [**Piero's Statue**](../how-it-works/pieros-statue.md) would be once LP tokens are deposited the <mark style="color:yellow;">**\[STX]**</mark> token will unlock over a specific period. Unlocking periods are named Epochs, which take around a week to complete.&#x20;
+Another aspect of [**Piero's Statue**](../how-it-works/pieros-statue.md) would be once LP tokens are deposited the <mark style="color:yellow;">**CELL**</mark> token will unlock over a specific period. Unlocking periods are named Epochs, which take around a week to complete.&#x20;
 
-Starting the first Epoch (week) will give you the 5% threshold unlocked tokens from the total <mark style="color:yellow;">**\[STX]**</mark> received. Beginning with the second Epoch onward, every Epoch (week) will provide an additional 2%.&#x20;
+Starting the first Epoch (week) will give you the 5% threshold unlocked tokens from the total <mark style="color:yellow;">**CELL**</mark> received. Beginning with the second Epoch onward, every Epoch (week) will provide an additional 2%.&#x20;
 
-The total number of Epochs is 51. The last Epoch will provide 100% unlocked <mark style="color:yellow;">**\[STX]**</mark>from the entire <mark style="color:yellow;">**\[STX]**</mark> received as a liquidity provider.
+The total number of Epochs is 51. The last Epoch will provide 100% unlocked <mark style="color:yellow;">**CELL**</mark> from the entire <mark style="color:yellow;">**CELL**</mark> received as a liquidity provider.
 
-Claimed locked <mark style="color:yellow;">**\[STX]**</mark> will remain locked until block **99277999** is completed, the block which marks the end of Epoch 50.
+Claimed locked <mark style="color:yellow;">**CELL**</mark> will remain locked until block **99277999** is completed, the block which marks the end of Epoch 50.
 
 Locked rewards will start unlocking via the vesting schedule for the following 50 Epochs.
 
-Users can choose to unlock the total <mark style="color:yellow;">**\[STX]**</mark> received at a particular time before the 51st Epoch. However, they will only obtain the unlocked portion of it. The rest will be locked, and you will start to acquire them via the vesting schedule.
+Users can choose to unlock the total <mark style="color:yellow;">**CELL**</mark> received at a particular time before the 51st Epoch. However, they will only obtain the unlocked portion of it. The rest will be locked, and you will start to acquire them via the vesting schedule.
 
 If the tokens were to unlock at any given time, this would incentivize the farm and dump mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant for the ecosystem that we are taking part in. This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both.
 
@@ -82,28 +82,26 @@ If the tokens were to unlock at any given time, this would incentivize the farm 
 
 ****[**Research Facility**](../how-it-works/research-facility.md)****
 
-Users will be able to stake <mark style="color:yellow;">**\[STX]**</mark> and receive <mark style="color:yellow;">**\[xSTX]**</mark> tokens in return inside the Research Facility found in [**Neuropia**](game-basics/neuropia/). This will enable holders to monetize their token holdings that would otherwise lie idle in their wallets.
+Users will be able to stake <mark style="color:yellow;">**CELL**</mark> and receive <mark style="color:yellow;">**xCELL**</mark> tokens in return inside the Research Facility found in [**Neuropia**](game-basics/neuropia/). This will enable holders to monetize their token holdings that would otherwise lie idle in their wallets.
 
-The <mark style="color:yellow;">**\[STX]**</mark> will be brought in from various fees of game transactions and withdrawal fees from the Mighty [**Piero's Statue**](../how-it-works/pieros-statue.md)**.**&#x20;
+The <mark style="color:yellow;">**CELL**</mark> will be brought in from various fees of game transactions and withdrawal fees from the Mighty [**Piero's Statue**](../how-it-works/pieros-statue.md)**.**&#x20;
 
-<mark style="color:yellow;">**\[xSTX]**</mark> will therefore become the Governance token of the MIND Games Universe.
+<mark style="color:yellow;">**xCELL**</mark> will therefore become the Governance token of the MIND Games Universe.
 
 ### **What wallet do we use?**
 
 **We recommend Metamask**
 
-<mark style="color:yellow;">**\[STX]**</mark> tokens can be stored in Metamask Wallet on <mark style="color:blue;">**Arbitrum Network**</mark><mark style="color:blue;">.</mark>
+<mark style="color:yellow;">**CELL**</mark> tokens can be stored in Metamask Wallet on <mark style="color:green;">**Aurora Network**</mark>.
 
-<mark style="color:blue;">**Arbitrum Network**</mark><mark style="color:blue;">.</mark> can be added to Metamask wallet by selecting the "Add network" option in Metamask and adding the following parameters :&#x20;
+<mark style="color:green;">**Aurora Network**</mark> can be added to Metamask wallet by selecting the "Add network" option in Metamask and adding the following parameters :&#x20;
 
+Network Name: Aurora
 
+New RPC URL: [https://mainnet.aurora.dev](https://mainnet.aurora.dev)
 
-Network name: Arbitrum One
+ChainID: 1313161554
 
-New RPC URL: [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
+Symbol: ETH
 
-Chain ID: 42161
-
-Currency symbol: ETH
-
-Block Explorer URL: [https://arbiscan.io/](https://arbiscan.io/)
+Explorer: [https://explorer.mainnet.aurora.dev/](https://explorer.mainnet.aurora.dev/)

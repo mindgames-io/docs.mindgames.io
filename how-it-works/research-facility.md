@@ -1,5 +1,5 @@
 ---
-description: Staking CELL for xCELL
+description: Staking STX for xSTX
 ---
 
 # 📑 Research Facility

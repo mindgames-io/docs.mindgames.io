@@ -11,8 +11,8 @@ Players can make two MINDS Brainstorm to multiply them. In order to do this, sev
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:yellow;">**\[STX]**</mark>** ** collected by the **Brainstorming** event will be redistributed to Vault, Research Facility, and Burn.&#x20;
+<mark style="color:yellow;">**CELL**</mark> collected by the **Brainstorming** event will be redistributed to Vault, Research Facility, and Burn.&#x20;
 
 \
-**​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of <mark style="color:yellow;">**\[STX]**</mark>**   **<mark style="color:yellow;">****</mark> may be susceptible to change.&#x20;
+**​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of <mark style="color:yellow;">**CELL**</mark> may be susceptible to change.&#x20;
 {% endhint %}

@@ -11,4 +11,4 @@ We are taking new steps for expanding the game onto other blockchains.&#x20;
 * Announcing the new blockchain :hourglass:
 * Auditing our protocol smart contracts:hourglass:
 * Enabling the bridging of assets from Aurora to the new blockchain:hourglass:
-* Start farming the new token with  [<mark style="color:yellow;">**STX**</mark>](../brain-cell-token.md) & [<mark style="color:yellow;">**xSTX**</mark>](../brain-cell-token.md) :hourglass:
+* Start farming the new token with CELL & xCELL :hourglass:
