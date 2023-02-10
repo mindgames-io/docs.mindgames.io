@@ -11,10 +11,6 @@ At the heart of our whole economic process stands the **DEX**. DeFi instruments 
 1. Simplified UX (User Experience). Implementing the DEX directly into gameplay brings an entertaining alternative to blockchain technology adoption.
 2. Sustainability. These instruments operate with the in-game currencies ensuring long-term utility and growth avenues.
 
-{% hint style="info" %}
-The team will allocate \~$15.000,00 to create the initial liquidity of NEAR/CELL.&#x20;
-{% endhint %}
-
 * **Swapping** will allow the trading of various tokens and in-game assets for other tokens.&#x20;
 * **Staking** will give users permission over voting systems within the MIND Universe.
 * **Liquidity Providing** will be there as long-term standing for the players.

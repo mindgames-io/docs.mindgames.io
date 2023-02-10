@@ -77,5 +77,5 @@
 * [Contracts](about/contracts.md)
 * [Audit Results](about/audit-results.md)
 * [Disclaimer](about/disclaimer.md)
-* [Report A Bug](https://forms.office.com/r/wcZx0bPYh7)
-* [Contact](https://forms.office.com/r/y33GyxmUnd)
+* [Report a Bug](https://forms.office.com/e/wsYfDnkka9)
+* [Contact](https://forms.office.com/e/rGyKnfNXZK)
