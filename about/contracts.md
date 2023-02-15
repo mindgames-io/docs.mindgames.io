@@ -6,34 +6,26 @@ description: The ONLY official contracts by MIND Games.
 
 ## DEX Contracts
 
-**Factory** : 0x78f406B41C81eb4144C321ADa5902BBF5de28538&#x20;
+**Factory** : &#x20;
 
-**Router** : 0xcCC7B6CD8764E84Be19BD13b25850C4ac24aa2C0
+**Router** :&#x20;
 
-**MasterMind** : 0xe653f898b1F216884bC1Fdd5B47b9933B5F4e5FB
+**MasterMind** :&#x20;
 
-**WETH** : 0xfDFfbb456257B5423770e37E43725fEF1DDD0B68
+**WETH** :&#x20;
 
-**BrainCell** : 0xa685F488DEe49b75469E9e866965daBc8Ed6083d&#x20;
+**Synaptyx** :&#x20;
 
-**Research** **Facility** : 0xbe334d7208366B3E4Fb40348576227b524d8CBA0&#x20;
+**Research** **Facility** :&#x20;
 
-**Scientist** : 0x274676D087B066beD2d0010b89e763BBfAC8a1b2&#x20;
+**Scientist** :&#x20;
 
-**Multicall** : 0xD4A13F9F555b15CaB14738F1dA6f654845F68e4b&#x20;
+**Multicall** : &#x20;
 
 ## LP Pairs
 
-**CELL/WNEAR** : 0xcA5eD5745890C66026400F9b805466fB3984A345&#x20;
-
-**CELL/WETH** : 0xD305204424F1232473aaD082111c2750f6d3e485&#x20;
-
-**CELL/RUSD** : 0x7EB3c48b9d2A50d394686C95582C1ed22d6aa457&#x20;
-
-**CELL/WBTC** : 0x96c9C452D06d1c3086A23A2Bf3C0Fb8176edE76F
-
-**CELL/USN** : 0x4Aa0579596E6b30112d88Db1E6259bF8e762500f
+****
 
 ## Community Contracts
 
-**AirdropClaim** : 0x216831615b4511028cb6EC8F65aB481c9705b996
+**AirdropClaim** :
