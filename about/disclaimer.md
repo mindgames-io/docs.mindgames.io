@@ -10,7 +10,7 @@ description: >-
 
 ### **TERMS:**
 
-MIND Games - the platform and protocol with all game modes, $STX tokens, and $AUR tokens.&#x20;
+MIND Games - the platform and protocol with all game modes, $CRX tokens, and $AUR tokens.&#x20;
 
 Materials - MIND Games platform and protocol, and any other information communicated by MIND Games, whether through our communication channels or otherwise (collectively, the “Materials”)
 
@@ -82,7 +82,7 @@ Although we make reasonable efforts to ensure that the MIND Games platform and p
 
 ### **Risk Inherent in the Blockchain**
 
-The MIND Games platform and protocol are or will be deployed on the Aurora Network, and later they may be deployed on other blockchains. As a result, any malfunction, breakdown, or abandonment of such blockchain(s) may have a material adverse effect on the MIND Games platform and protocol. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the MIND Games platform and protocol and related blockchain software by rendering ineffective the cryptographic consensus mechanism that underpins the blockchain. The smart-contract concept, the underlying software application, and the software platform (i.e., ARBITRUM or other blockchains) are still in an early development stage and unproven. Although it is very unlikely, the blockchain and any other blockchain can be attacked, which may result in downtime, consensus split, long reorganization of the chain, 51 percent attack, or other adverse outcomes, each of which may lead to complete loss of your digital assets.
+The MIND Games platform and protocol are or will be deployed on the Arbitrum Network, and later they may be deployed on other blockchains. As a result, any malfunction, breakdown, or abandonment of such blockchain(s) may have a material adverse effect on the MIND Games platform and protocol. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the MIND Games platform and protocol and related blockchain software by rendering ineffective the cryptographic consensus mechanism that underpins the blockchain. The smart-contract concept, the underlying software application, and the software platform (i.e., ARBITRUM or other blockchains) are still in an early development stage and unproven. Although it is very unlikely, the blockchain and any other blockchain can be attacked, which may result in downtime, consensus split, long reorganization of the chain, 51 percent attack, or other adverse outcomes, each of which may lead to complete loss of your digital assets.
 
 ### **Risk of Flawed Logic of MIND Games platform and protocol**
 
