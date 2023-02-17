@@ -14,7 +14,7 @@
 
 **2983:** L’artiste Gene Synapse was born and spent the first half of his life. He is known for writing poetry and songs. His most famous masterpiece is: “Let’s put the K in Kale”&#x20;
 
-**2996:** First rumours of a mystical creature reaches the wider public. This brings a lot of attention to the city of Motormont. Photographers and cryptozoologists have been searching for the beast ever since.&#x20;
+**2996:** First rumours of a mystical creature reach the wider public. This brings a lot of attention to the city of Motormont. Photographers and cryptozoologists have been searching for the beast ever since.&#x20;
 
 **3008:** The Battle of Temporalis was the first conflict resolved using a rudimentary form of Arena.&#x20;
 
@@ -30,7 +30,7 @@ The **** [<mark style="color:orange;">**Wheel of Gnomon**</mark>](wheel-of-gnomo
 
 **MINDS** do consume most food groups with equal fondness. There is one dish that climbs above all others: the original, old recipe for the Karrot and Lechitin cookies. Another cookie - though slightly less appreciated due to its cultural implications - is the Consolation Cookies. These are customarily received as commiserations for losing a Battle or something regrettable happening.&#x20;
 
-[ <mark style="color:yellow;">****</mark> ](../../../how-it-works/brain-cell-token.md)[<mark style="color:yellow;">**Cortex \[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** is the most valuable of the **MIND** currencies since its supply is limited. It used to be crafted following a very specific process, which has since been lost. It is said that all arts and sciences had to participate in order to create a [<mark style="color:yellow;">**C**</mark>](../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**ortex**</mark>, Piero’s Statue currently commemorates the last **MIND** who knew how to craft it.
+[ <mark style="color:yellow;">****</mark> ](../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**Synaptyx \[STX]**</mark>** ** is the most valuable of the **MIND** currencies since its supply is limited. It used to be crafted following a very specific process, which has since been lost. It is said that all arts and sciences had to participate in order to create a <mark style="color:yellow;">**Synaptyx,**</mark> Piero’s Statue currently commemorates the last **MIND** who knew how to craft it.
 
 Another, more widely used currency is [<mark style="color:yellow;">**AURORIUM**</mark>](../currency.md#aurorium), which can be found on <mark style="color:blue;">**STEM 2801**</mark> in abundance. **MINDS** are also open to trading resources based on need.
 

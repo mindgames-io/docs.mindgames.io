@@ -6,10 +6,10 @@ The[ **P.O.R.T.A.L**](p.o.r.t.a.l..md)**.** shows signs of activity once more. I
 
 ### Cryptography
 
-Near Somis lake is a place where talented MINDS, with years of cryptography experience**,** can unlock the long-sought [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md). The road leading up to the lake is not an easy one to follow, with its sharp turns and unforgiving weather. Even if adventurers make it all the way, there is no guarantee all will return safely.
+Near Somis lake is a place where talented MINDS, with years of cryptography experience**,** can unlock the long-sought <mark style="color:yellow;">**CELL**</mark>. The road leading up to the lake is not an easy one to follow, with its sharp turns and unforgiving weather. Even if adventurers make it all the way, there is no guarantee all will return safely.
 
 {% hint style="info" %}
-Send a [<mark style="color:blue;">**Sensor**</mark>](../nfts/minds/classes.md) or a [<mark style="color:blue;">**Melder**</mark>](../nfts/minds/classes.md) to Unlock <mark style="color:yellow;">**LOCKED**</mark> [<mark style="color:yellow;">**CRX**</mark>](../../../how-it-works/brain-cell-token.md) obtained from [<mark style="color:blue;">**Piero's Statue**</mark>](../../../how-it-works/pieros-statue.md#overview) into <mark style="color:yellow;">****</mark> [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) <mark style="color:yellow;">****</mark> or <img src="../../../.gitbook/assets/Building-Blox.png" alt="" data-size="line">****[<mark style="color:orange;">**Building Materials**</mark>](../currency.md#building-materials)<mark style="color:orange;">****</mark>
+Send a [<mark style="color:blue;">**Sensor**</mark>](../nfts/minds/classes.md) or a [<mark style="color:blue;">**Melder**</mark>](../nfts/minds/classes.md) to Unlock <mark style="color:yellow;">**LOCKED CELL**</mark> obtained from [<mark style="color:blue;">**Piero's Statue**</mark>](../../../how-it-works/pieros-statue.md#overview) into <mark style="color:yellow;">**CELL**</mark> or <img src="../../../.gitbook/assets/Building-Blox.png" alt="" data-size="line">****[<mark style="color:orange;">**Building Materials**</mark>](../currency.md#building-materials)<mark style="color:orange;">****</mark>
 {% endhint %}
 
 ### Soul Casting
@@ -22,10 +22,10 @@ Send a [<mark style="color:yellow;">**Leech**</mark>](../nfts/minds/classes.md) 
 
 ### Seafair
 
-The Grieving Nixie is docked in Wernicke bay awaiting her Captain. **MINDS** that embark on this voyage return with great treasures of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** . Waters are often unforgiving and keep the sailors captive deep down under. Only the worthy can escape and reach the shore once more.
+The Grieving Nixie is docked in Wernicke bay awaiting her Captain. **MINDS** that embark on this voyage return with great treasures of <mark style="color:yellow;">**\[STX]**</mark>** ** . Waters are often unforgiving and keep the sailors captive deep down under. Only the worthy can escape and reach the shore once more.
 
 {% hint style="info" %}
-Send a ** **<mark style="color:red;">**Wave**</mark>** ** or a ** **<mark style="color:red;">**Node**</mark>** ** to **** get [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) <mark style="color:yellow;">****</mark>**  ** or <img src="../../../.gitbook/assets/Building-Blox.png" alt="" data-size="line">[<mark style="color:orange;">**Building Materials**</mark>](../currency.md#building-materials). Will only reward [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md)  ****  if there are [**offerings**](../../../how-it-works/pieros-statue.md#locking) made on the specific pairs.
+Send a ** **<mark style="color:red;">**Wave**</mark>** ** or a ** **<mark style="color:red;">**Node**</mark>** ** to **** get <mark style="color:yellow;">**\[STX]**</mark>**   **<mark style="color:yellow;">****</mark>**  ** or <img src="../../../.gitbook/assets/Building-Blox.png" alt="" data-size="line">[<mark style="color:orange;">**Building Materials**</mark>](../currency.md#building-materials). Will only reward <mark style="color:yellow;">**\[STX]**</mark>**  **  if there are [**offerings**](../../../how-it-works/pieros-statue.md#locking) made on the specific pairs.
 {% endhint %}
 
 ### Fable Binding
