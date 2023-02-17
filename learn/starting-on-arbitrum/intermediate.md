@@ -12,7 +12,7 @@ description: Learn to transfer your assets to Arbitrum One
 
 ****[**Add **<mark style="color:blue;">**ARBITRUM ONE**</mark>** to Metamask**](https://cointelegraph.com/news/how-to-add-arbitrum-to-metamask) ****&#x20;
 
-### **What do I need to know about Arbitrum One Network?**
+### **What do I need to know about **<mark style="color:blue;">**ARBITRUM ONE Network**</mark>**?**
 
 * <mark style="color:blue;">**ARBITRUM ONE Network**</mark> uses **ETH** for gas fees
 * Network name: Arbitrum One
