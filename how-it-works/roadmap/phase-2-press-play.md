@@ -14,7 +14,7 @@ Research log. Entry 1024: The MINDS declared us Negligible-Future-Threats. We ha
   * Rank :white\_check\_mark:
   * Experience :white\_check\_mark:
   * Tradable :hourglass\_flowing\_sand:
-* \~50 MINDS will be rewarded to [<mark style="color:yellow;">**xSTX**</mark>](../cortex-token.md) holders. The amount of [<mark style="color:yellow;">**xSTX**</mark>](../cortex-token.md) needed to qualify for this airdrop will be announced three weeks before the actual NFT launch. Snapshots will be taken to determine the average amount a user had in this period. Holding multiple of the amount announced will earn you extra entries. :white\_check\_mark:
+* \~50 MINDS will be rewarded to [<mark style="color:yellow;">**xSTX**</mark>](../brain-cell-token.md) holders. The amount of [<mark style="color:yellow;">**xSTX**</mark>](../brain-cell-token.md) needed to qualify for this airdrop will be announced three weeks before the actual NFT launch. Snapshots will be taken to determine the average amount a user had in this period. Holding multiple of the amount announced will earn you extra entries. :white\_check\_mark:
 * Tavern - Trade MINDs:hourglass\_flowing\_sand:
 * Arena - Player vs. Player:hourglass\_flowing\_sand:
   * Ranked - 5 MINDS are needed to play Ranked Arena games. Earn Rank, Experience, and Rewards. :hourglass\_flowing\_sand:
