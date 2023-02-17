@@ -10,17 +10,17 @@ description: Yield farming
 
 * A form of yield farming
 
-Commemorating the last MIND who knew the secrets of creating more [<mark style="color:yellow;">**STX**</mark>](brain-cell-token.md), Piero’s statue is a beloved reminder of MIND History. Another reason everybody is fond of it is its uncommon ability to bring back more [<mark style="color:yellow;">**STX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> for token offerings left with it. In itself, Piero’s statue is a form of staking LP tokens and receiving [<mark style="color:yellow;">**STX**</mark> ](brain-cell-token.md)tokens. Most people think that this is just a statue of the famous alchemist Piero Da Vinci, the last crafter of [<mark style="color:yellow;">**Synaptyx**</mark>](brain-cell-token.md). This, however, is not the whole truth. Piero, gathering some raw material from Monroe Maw, managed to trap himself in stone. Alas, the stone was not dead but forever imbued with the spirit of Piero himself. &#x20;
+Commemorating the last MIND who knew the secrets of creating more [<mark style="color:yellow;">**CRX**</mark>](brain-cell-token.md), Piero’s statue is a beloved reminder of MIND History. Another reason everybody is fond of it is its uncommon ability to bring back more [<mark style="color:yellow;">**CRX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> for token offerings left with it. In itself, Piero’s statue is a form of staking LP tokens and receiving [<mark style="color:yellow;">**CRX**</mark> ](brain-cell-token.md)tokens. Most people think that this is just a statue of the famous alchemist Piero Da Vinci, the last crafter of [<mark style="color:yellow;">**Cortex**</mark>](brain-cell-token.md). This, however, is not the whole truth. Piero, gathering some raw material from Monroe Maw, managed to trap himself in stone. Alas, the stone was not dead but forever imbued with the spirit of Piero himself. &#x20;
 
 {% hint style="info" %}
-Piero now provides an avenue for liquidity providers to receive [<mark style="color:yellow;">**STX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> tokens. You will receive [<mark style="color:yellow;">**STX**</mark>](brain-cell-token.md) to use in the MIND Games for certain important items, skills, and talents!&#x20;
+Piero now provides an avenue for liquidity providers to receive [<mark style="color:yellow;">**CRX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> tokens. You will receive [<mark style="color:yellow;">**CRX**</mark>](brain-cell-token.md) to use in the MIND Games for certain important items, skills, and talents!&#x20;
 {% endhint %}
 
-In MIND Games, our very own Piero is our portrayal of yield farming. He receives individual **”Offerings”** which can profit from grants by anyone who joins forces with him. Each **“Offering”** (LP Pair) will give you details on the total share you receive from this grant. Piero studies each offering intensely and you can see this as a timer on each pair. Once he finishes his study, he awards you with your part of the yield representing your share of [<mark style="color:yellow;">**STX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> tokens.&#x20;
+In MIND Games, our very own Piero is our portrayal of yield farming. He receives individual **”Offerings”** which can profit from grants by anyone who joins forces with him. Each **“Offering”** (LP Pair) will give you details on the total share you receive from this grant. Piero studies each offering intensely and you can see this as a timer on each pair. Once he finishes his study, he awards you with your part of the yield representing your share of [<mark style="color:yellow;">**CRX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> tokens.&#x20;
 
 ![](../.gitbook/assets/FIN.png)
 
-Sensors and Melders will be able to help ”PIERO” and earn [<mark style="color:yellow;">**STX**</mark>](brain-cell-token.md)based in part on your total stake in a certain **“Offering”**.
+Sensors and Melders will be able to help ”PIERO” and earn [<mark style="color:yellow;">**CRX**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> based in part on your total stake in a certain **“Offering”**.
 
 ## **Issuance Schedule**&#x20;
 
