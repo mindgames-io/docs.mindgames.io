@@ -16,7 +16,9 @@ At the heart of our whole economic process stands the **DEX**. DeFi instruments 
 * **Liquidity Providing** will be there as long-term standing for the players.
 
 {% hint style="info" %}
-0.3% of each trade will be redirected to **Treasury**
+0.3% of each trade will be redirected as follows: \
+0.25% to **Liquidity Providers** \
+0.05% to **Research Facility.**
 {% endhint %}
 
 A **DEX** component improves and brings value to the game economy. The markets currently hold DEXs that are gamified or gamified DeFi instruments; however, there is not a game that fully incorporates DeFi.\
