@@ -5,6 +5,7 @@
 ## How It Works
 
 * [🪙 Cortex Token](how-it-works/brain-cell-token.md)
+* [⏳ Launchpad](how-it-works/launchpad.md)
 * [🔀 Decentralized Exchange](how-it-works/decentralized-exchange.md)
 * [🛍 Marketplace](how-it-works/marketplace.md)
 * [🪨 Piero's Statue](how-it-works/pieros-statue.md)

@@ -20,9 +20,9 @@ Project - all game modes, tokens, and assets.
 
 
 
-Please read this Notice carefully before using or interacting with MIND Games or the $STX token.
+Please read this Notice carefully before using or interacting with MIND Games or the $CRX token.
 
-Any information communicated by MIND Games does not constitute an offer to sell, a recommendation, or solicitation to buy, sell or hold $STX Tokens or any other assets.
+Any information communicated by MIND Games does not constitute an offer to sell, a recommendation, or solicitation to buy, sell or hold $CRX Tokens or any other assets.
 
 Make sure to verify that the information has been provided by MIND Games and no other copycat firms or accounts.
 
@@ -32,7 +32,7 @@ We cannot guarantee that the Materials provided are complete or sufficient, and 
 
 We are not responsible for any dissemination of the Materials further. Any information shared by another group or individual regarding the MIND Games and its products might be tampered with. Ensure you check the source of the Materials. Any losses or damages caused by relying on another party’s misinformation are not the responsibility of MIND Games. You should always do your independent research.
 
-We do not support any warranties or claims made or implied by anyone regarding the success, affordability, or profitability of the $STX token. Nobody can say with 100% certainty how a project, token, or asset will develop in the future on the market.
+We do not support any warranties or claims made or implied by anyone regarding the success, affordability, or profitability of the $CRX token. Nobody can say with 100% certainty how a project, token, or asset will develop in the future on the market.
 
 MIND Games is not responsible for any losses, damages, or liabilities caused by the MIND Games platform or protocol. MIND Games has no control over blockchain errors, connection errors, or other technical errors that might occur. When or if such an event occurs, if there is an error we can fix, we will do our best to fix it quickly and efficiently. We will try to correct the direct losses it may have caused our users to the best of our abilities.
 
@@ -50,11 +50,11 @@ DYOR - the concept of Do Your Own Research is widely used regarding blockchain i
 
 We do not warrant or represent that the MIND Games platform and MIND Games protocol are secure or safe or protected from fishing, malware, or other malicious attacks.
 
-Our Website available at [https://mindgames.io/](https://metapool.app/) (the “Website”), MIND Games platform and protocol, and any other information communicated by MIND Games, whether through our communication channels or otherwise (collectively, the “Materials”), do not constitute an offer to sell, a recommendation or solicitation to buy, sell or hold $STX Tokens or any other assets.
+Our Website available at [https://mindgames.io/](https://metapool.app/) (the “Website”), MIND Games platform and protocol, and any other information communicated by MIND Games, whether through our communication channels or otherwise (collectively, the “Materials”), do not constitute an offer to sell, a recommendation or solicitation to buy, sell or hold $CRX Tokens or any other assets.
 
 Nothing in the Materials constitutes a recommendation or solicitation to use the MIND Games platform and protocol or any related products or services.
 
-$STX token is not an investment, security, share or equity interest, debt, or loan nor a derivative instrument of any of the foregoing. Neither the Materials nor anything communicated or provided by MIND Games constitutes a prospectus or offering document or is an offer to sell or solicitation of an offer to buy $STX tokens or any other asset.
+$CRX token is not an investment, security, share or equity interest, debt, or loan nor a derivative instrument of any of the foregoing. Neither the Materials nor anything communicated or provided by MIND Games constitutes a prospectus or offering document or is an offer to sell or solicitation of an offer to buy $CRX tokens or any other asset.
 
 The Website, the MIND Games project, and Materials contain forward-looking statements based on current expectations that involve several risks and uncertainties. All opinions, forecasts, projections, plans, or other statements other than statements of historical fact, are forward-looking statements. Any development plans and projections, business projections, future functionality, and projected performance of the MIND Games platform and protocol, as well as prospects and the prospects of any industry, are forward-looking statements. Forward-looking statements, by their nature, address matters that are, to different degrees, uncertain or unknown. We cannot assure that any forward-looking statements will prove to have been correct. Actual events, results, or outcomes could differ materially from what is stated in the forward-looking statement, and you should not rely on any such forward-looking information. These risks and uncertainties include the impact of economic, competitive, technical, and other factors affecting the MIND Games platform and protocol, or its operations, including, but not limited to, the following: development of science and technology, development of the industry in which MIND Games is in, competition, regulatory uncertainty, and government actions, the introduction of new regulations and laws, market changes, the performance of MIND Games platform and protocol or related products, other business and market conditions.
 
@@ -82,7 +82,7 @@ Although we make reasonable efforts to ensure that the MIND Games platform and p
 
 ### **Risk Inherent in the Blockchain**
 
-The MIND Games platform and protocol are or will be deployed on the Aurora Network, and later they may be deployed on other blockchains. As a result, any malfunction, breakdown, or abandonment of such blockchain(s) may have a material adverse effect on the MIND Games platform and protocol. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the MIND Games platform and protocol and related blockchain software by rendering ineffective the cryptographic consensus mechanism that underpins the blockchain. The smart-contract concept, the underlying software application, and the software platform (i.e., AURORA, NEAR, or other blockchains) are still in an early development stage and unproven. Although it is very unlikely, the blockchain and any other blockchain can be attacked, which may result in downtime, consensus split, long reorganization of the chain, 51 percent attack, or other adverse outcomes, each of which may lead to complete loss of your digital assets.
+The MIND Games platform and protocol are or will be deployed on the Aurora Network, and later they may be deployed on other blockchains. As a result, any malfunction, breakdown, or abandonment of such blockchain(s) may have a material adverse effect on the MIND Games platform and protocol. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the MIND Games platform and protocol and related blockchain software by rendering ineffective the cryptographic consensus mechanism that underpins the blockchain. The smart-contract concept, the underlying software application, and the software platform (i.e., ARBITRUM or other blockchains) are still in an early development stage and unproven. Although it is very unlikely, the blockchain and any other blockchain can be attacked, which may result in downtime, consensus split, long reorganization of the chain, 51 percent attack, or other adverse outcomes, each of which may lead to complete loss of your digital assets.
 
 ### **Risk of Flawed Logic of MIND Games platform and protocol**
 
