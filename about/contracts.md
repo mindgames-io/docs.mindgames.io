@@ -14,7 +14,7 @@ description: The ONLY official contracts by MIND Games.
 
 **WETH** :&#x20;
 
-**Synaptyx** :&#x20;
+**Cortex** :&#x20;
 
 **Research** **Facility** :&#x20;
 

@@ -99,3 +99,7 @@ The intended activities of MIND Games are subject to various laws and regulation
 ### **Risk of Theft**
 
 We make a commercially reasonable effort to ensure that any transactions carried out via or on the MIND Games platform and protocol are secure. Notwithstanding the aforesaid, there is no assurance that there will be no theft of the digital assets as a result of hacks, sophisticated cyber-attacks, distributed denials of service or errors, double-spent attacks, flash-loan attacks, vulnerabilities or defects of the MIND Games platform, and protocol, or related software, of the Arbitrum Network or any other blockchain, or otherwise. Such events may include, for example, flaws in programming or source code leading to exploitation or abuse thereof. Any of the above may lead to partial or complete theft or loss of digital assets used in transactions carried out on the MIND Games platform.
+
+### **Launchpad**
+
+To participate in the launch, you must confirm that you are not situated, incorporated, or a citizen or resident of the following jurisdictions: United States of America, People’s Republic of China, Bermuda, Burundi, Central African Republic, Cuba, Democratic Republic of Congo, Eritrea, Guinea-Bissau, Iran, Libya, Mali, North Korea, Palestine, Republic of Seychelles, Somalia, South Sudan, Sudan, Syria, Western Sahara, Yemen, Crimea and Sevastopol, or any other state, country, or jurisdiction where it would be illegal to participate in this launch under applicable law.
