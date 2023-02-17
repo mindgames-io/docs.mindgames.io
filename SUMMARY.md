@@ -13,7 +13,6 @@
   * [Phase 0 - Start](how-it-works/roadmap/phase-0-start.md)
   * [Phase 1 - DeFi Instruments](how-it-works/roadmap/phase-1-defi-instruments.md)
   * [Phase 2 - Press Play](how-it-works/roadmap/phase-2-press-play.md)
-  * [Phase 2.5 - Expansion](how-it-works/roadmap/phase-2.5-expansion.md)
   * [Phase 3 - Neuropia](how-it-works/roadmap/phase-3-neuropia.md)
   * [Phase 4 - Lands](how-it-works/roadmap/phase-4-lands.md)
   * [Phase 5 - Industry](how-it-works/roadmap/phase-5-industry.md)

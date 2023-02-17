@@ -110,7 +110,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 1 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 1 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 160 | 22   | 200      | 2        |
 | Brainstorm 2       | 180 | 24   | 202      | 4        |
@@ -125,7 +125,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 2 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 2 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 260 | 32   | 300      | 3        |
 | Brainstorm 2       | 280 | 34   | 302      | 5        |
@@ -141,7 +141,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 3 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 3 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 360 | 42   | 400      | 4        |
 | Brainstorm 2       | 380 | 44   | 402      | 6        |
@@ -154,7 +154,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 4 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 4 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 460 | 52   | 500      | 5        |
 | Brainstorm 2       | 480 | 54   | 502      | 7        |
@@ -168,7 +168,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 5 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 5 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 560 | 62   | 600      | 6        |
 | Brainstorm 2       | 580 | 64   | 602      | 8        |
@@ -179,7 +179,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 6 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 6 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 660 | 72   | 700      | 7        |
 | Brainstorm 2       | 680 | 74   | 702      | 9        |
@@ -189,7 +189,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 7 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 7 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 760 | 82   | 800      | 8        |
 | Brainstorm 2       | 780 | 84   | 802      | 10       |
@@ -198,7 +198,7 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 8 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 8 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 860 | 92   | 900      | 9        |
 | Brainstorm 2       | 880 | 94   | 902      | 11       |
@@ -206,13 +206,13 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 
 
-| Minds Generation 9 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 9 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
 | Brainstorm 1       | 960 | 102  | 1000     | 10       |
 | Brainstorm 2       | 980 | 104  | 1002     | 12       |
 
 
 
-| Minds Generation 10 | CELL | FOOD | AURORIUM | PHLOXIUM |
+| Minds Generation 10 | CRX  | FOOD | AURORIUM | PHLOXIUM |
 | ------------------- | ---- | ---- | -------- | -------- |
 | Brainstorm 1        | 1060 | 112  | 1100     | 11       |

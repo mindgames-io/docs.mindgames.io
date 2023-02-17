@@ -1,7 +1,3 @@
----
-description: Q2 - Q3 2023
----
-
 # Phase 4 - Lands
 
 ![](../../.gitbook/assets/Lands.png)
