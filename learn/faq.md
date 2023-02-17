@@ -14,7 +14,7 @@ We have chosen the place of the Genesis event on <mark style="color:blue;">**Arb
 
 Playing our game, especially in the assets and monetary genesis phases (DEX stage, NFTs aka. Card's Stages), will require some DeFi and Blockchain use experience via Metamask.
 
-You should install first Metamask. Second, you should manage to bring your tokens on Aurora Network from Ethereum Mainnet / Near or any other chains with Bridge Support on Aurora.
+You should install first Metamask. Second, you should bring your tokens to Arbitrum.
 
 Find out more [**here**](starting-on-arbitrum/).&#x20;
 
@@ -28,7 +28,7 @@ This service is free, and we will never DM you first, use the ticketing system t
 
 <mark style="color:yellow;">**\[CRX]**</mark> will be the core token of the whole game ecosystem on the <mark style="color:blue;">**Arbitrum Network**</mark>. Only time can tell when the MINDS will discover valuable materials on other chains/regions.
 
-On Aurora, the <mark style="color:yellow;">**\[CRX]**</mark> token will bootstrap the game economy via the DEX, creating liquidity for the main LP pairs that the game will have. These will be the tokens that will connect us to Aurora's exterior ecosystem to have our in-game economy linked to the big market.
+On Arbitrum, the <mark style="color:yellow;">**\[CRX]**</mark> token will bootstrap the game economy via the DEX, creating liquidity for the main LP pairs that the game will have. These will be the tokens that will connect us to Arbitrum's exterior ecosystem to have our in-game economy linked to the big market.
 
 Besides staking and farming, you will use the <mark style="color:yellow;">**\[CRX]**</mark> token for NFTs mechanics, game modes, and other in-game assets to get more <mark style="color:yellow;">**\[CRX]**</mark> while offering liquidity to other players for their swaps.
 
