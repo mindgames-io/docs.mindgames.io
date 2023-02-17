@@ -10,11 +10,11 @@ It is played using a [<mark style="color:red;">**Researcher**</mark>](../../nfts
 
 Once you start looking for a game in **Arena Challenge**r, you are presented with the following options:
 
-* Challenge someone for 1 [ <mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**]**</mark>
-* Challenge someone for 5 [<mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**]**</mark>
-* Challenge someone for 10 [<mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**]**</mark>
-* Challenge someone for 20[ <mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**]**</mark>
-* Challenge someone for UNLIMITED[ <mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**]**</mark>&#x20;
+* Challenge someone for 1 [ <mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/cortex-token.md)<mark style="color:yellow;">**]**</mark>
+* Challenge someone for 5 [<mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/cortex-token.md)<mark style="color:yellow;">**]**</mark>
+* Challenge someone for 10 [<mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/cortex-token.md)<mark style="color:yellow;">**]**</mark>
+* Challenge someone for 20[ <mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/cortex-token.md)<mark style="color:yellow;">**]**</mark>
+* Challenge someone for UNLIMITED[ <mark style="color:yellow;">**\[STX**</mark>](../../../../how-it-works/cortex-token.md)<mark style="color:yellow;">**]**</mark>&#x20;
 
 Once you press <mark style="color:green;">**"PLAY"**</mark>** ** the search starts looking for a Challenger that can accept your bid. If a player is not found within 3 minutes of the search, the game will ask if you want to open the search for a lower value challenge. Once a player is found that matches your challenge, you will start the game.
 

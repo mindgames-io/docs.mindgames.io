@@ -4,7 +4,7 @@
 
 ## How It Works
 
-* [🪙 Synaptyx Token](how-it-works/brain-cell-token.md)
+* [🪙 Cortex Token](how-it-works/cortex-token.md)
 * [🔀 Decentralized Exchange](how-it-works/decentralized-exchange.md)
 * [🛍 Marketplace](how-it-works/marketplace.md)
 * [🪨 Piero's Statue](how-it-works/pieros-statue.md)
