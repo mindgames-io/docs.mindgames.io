@@ -2,11 +2,9 @@
 
 MIND Games was created as a protocol that relies on community participation, and the launch of the CORTEX token is a crucial step in achieving this goal. Our team's priority has been to create the best possible product without seeking funding, and we're pleased to confirm that we have not conducted any presale or received any VC investment. Therefore, the public sale offers an entirely transparent and equitable chance for the community, investors, and partners to buy <mark style="color:yellow;">**\[CRX]**</mark>.&#x20;
 
-i.Public Sale: 18.18% of the Cortex supply, with 9.9% in <mark style="color:yellow;">**Cortex \[CRX]**</mark> to claim in 24h after the sale ends and 9.9% vested for 3 months with monthly release.&#x20;
-
-i.All purchases will settle at the same price based on the total amount deposited
-
-i.Any unsold tokens will be burned&#x20;
+* Public Sale: 18.18% of the Cortex supply, with 9.9% in <mark style="color:yellow;">**Cortex \[CRX]**</mark> to claim in 24h after the sale ends and 9.9% vested for 3 months with monthly release.&#x20;
+* All purchases will settle at the same price based on the total amount deposited
+* Any unsold tokens will be burned&#x20;
 
 {% hint style="info" %}
 During the public sale, **18.18%** of the total supply of <mark style="color:yellow;">**Cortex \[CRX]**</mark> tokens (equivalent to **2,000,000 **<mark style="color:yellow;">**\[CRX]**</mark> tokens out of the **10,000,000** <mark style="color:yellow;">**\[CRX]**</mark> total supply) will be made available for purchase.&#x20;
