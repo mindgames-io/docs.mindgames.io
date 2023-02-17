@@ -1,7 +1,5 @@
 # ⏳ Launchpad
 
-![](../.gitbook/assets/Synaptyx\_256.png)
-
 MIND Games was created as a protocol that relies on community participation, and the launch of the CORTEX token is a crucial step in achieving this goal. Our team's priority has been to create the best possible product without seeking funding, and we're pleased to confirm that we have not conducted any presale or received any VC investment. Therefore, the public sale offers an entirely transparent and equitable chance for the community, investors, and partners to buy <mark style="color:yellow;">**\[CRX]**</mark>.&#x20;
 
 i.Public Sale: 18.18% of the Cortex supply, with 9.9% in <mark style="color:yellow;">**Cortex \[CRX]**</mark> to claim in 24h after the sale ends and 9.9% vested for 3 months with monthly release.&#x20;
