@@ -24,7 +24,49 @@ Sensors and Melders will be able to help ”PIERO” and earn [<mark style="colo
 
 ## **Issuance Schedule**&#x20;
 
-TBD
+The issuance of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) as a reward for staking [<mark style="color:yellow;">**CRX-LP**</mark>](brain-cell-token.md) tokens as offerings with Piero’s Statue will change for each Epoch.
+
+**The Epoch** is 604,800 blocks on the **Arbitrum Network** and the length depends on the average block speed.
+
+**Epochs** were calculated to 604,800 blocks so that each **Epoch** would equal one week assuming a 1 second per block on the **Arbitrum Network.** If block speeds are longer or faster than 1 second per block on average, then an Epoch will last more or less than one week.
+
+
+
+**Block:** 69,038,000 **Epoch 1:** 32x multiplier = 32 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1920 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 69,642,800 **Epoch 2:** 28x multiplier = 28 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1680 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 70,247,600 **Epoch 3:** 26x multiplier = 26 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1560 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 70,852,400 **Epoch 4:** 24x multiplier = 24 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1440 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 71,457,200 **Epoch 5:** 22x multiplier = 22 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1320 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 72,062,000 **Epoch 6:** 20x multiplier = 20 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1200 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 72,666,800 **Epoch 7:** 18x multiplier = 18 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1080 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 73,271,600 **Epoch 8:** 16x multiplier = 16 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 960 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 73,876,400 **Epoch 9:** 14x multiplier = 14 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 840 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 74,481,200 **Epoch 10:** 12x multiplier = 12 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 720 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 75,086,000 **Epoch 11:** 10x multiplier = 10 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 600 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 75,690,800 **Epoch 12:** 9x multiplier = 9 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 540 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 76,295,600 **Epoch 13:** 8x multiplier = 8 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 480 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 76,900,400 **Epoch 14:** 7x multiplier = 7 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 420 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 77,505,200 **Epoch 15:** 6x multiplier = 6 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 360 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 78,110,000 **Epoch 16:** 5x multiplier = 5 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 300 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 78,714,800 **Epoch 17-35:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 240 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+
+**Block:** 90,206,000 **Epoch 36+**: 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 120 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute
 
 {% hint style="info" %}
 Visit [**Arbitrum Block Explorer**](https://aurorascan.dev/)[ ](https://arbiscan.io/)to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
