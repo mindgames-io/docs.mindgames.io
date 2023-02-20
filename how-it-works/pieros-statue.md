@@ -74,10 +74,24 @@ Visit [**Arbitrum Block Explorer**](https://aurorascan.dev/)[ ](https://arbiscan
 
 ### Locking
 
-TBD
+Piero’s Statue grants locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) based on a timeline that begins once the <mark style="color:yellow;">**LP**</mark> is deposited.
+
+The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) tokens will unlock over a period of time. The process divides into epochs that are around a week long. The first Epoch (Week) will give you the 5% threshold unlocked tokens from the total [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) received. Starting with the second Epoch onward, every Epoch (Week) will provide an additional 2% on top.
+
+**For example:**&#x20;
+
+1st Epoch (Week) - 5% unlocked and 95% locked&#x20;
+
+2nd Epoch (Week) - 7% unlocked and 93% locked&#x20;
+
+3rd Epoch (Week) - 9% unlocked and 91% locked&#x20;
+
+4th Epoch (Week) - 11% unlocked and 89% locked
+
+The total number of Epochs is 51. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
 
 {% hint style="info" %}
-Claiming TBD
+Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block 99277999 which marks the end of Epoch 50. Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
 {% endhint %}
 
 **Piero Statue** will inform users regarding the amount of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received in **** total, how much is available for unlocking at that moment, and how much is locked at that time. \
