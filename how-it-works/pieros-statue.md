@@ -80,12 +80,9 @@ The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) tokens
 
 **For example:**&#x20;
 
-1st Epoch (Week) - 5% unlocked and 95% locked&#x20;
-
-2nd Epoch (Week) - 7% unlocked and 93% locked&#x20;
-
-3rd Epoch (Week) - 9% unlocked and 91% locked&#x20;
-
+1st Epoch (Week) - 5% unlocked and 95% locked \
+2nd Epoch (Week) - 7% unlocked and 93% locked \
+3rd Epoch (Week) - 9% unlocked and 91% locked \
 4th Epoch (Week) - 11% unlocked and 89% locked
 
 The total number of Epochs is 51. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
@@ -107,7 +104,22 @@ The researcher's Talents and MINDS stats will determine the amount of [<mark sty
 
 ### **Piero’s Statue Staking Deposit and Withdrawal Fees**
 
-TBD
+There are no deposit fees for staking LP tokens with **Piero’s Statue**. We are implementing withdrawal fees for withdrawing staked LP tokens to protect against flash loans and, pumps and dumps. Each withdrawal resets the fee timer.
+
+**The withdrawal fees are listed below:**
+
+**0.01%** fee if a user withdraws after **4 Epochs** \
+**0.25%** fee if a user withdraws after **2 Epochs but before** **4 Epochs** \
+**0.5%** fee if a user withdraws after **5 days but before** **2 Epochs** \
+**1%** fee if a user withdraws under **5 days.** \* \
+**2%** fee if a user withdraws under **3 days.** \* \
+**4%** fee if a user withdraws under **24 hours.** \* \
+**8%** fee if a user withdraws under **1 hour.** \* \
+**25%** slashing fee if a user withdraws **during the same block.**
+
+
+
+_\*Days/Hours listed assume a 1 second per block speed during such period and will depend on Arbitrum Blockchain speed._
 
 {% hint style="info" %}
 All the fees collected from withdrawals on each pool will be distributed to the **** [**Treasury**](brain-cell-token.md).
