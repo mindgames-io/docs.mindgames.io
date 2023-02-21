@@ -8,7 +8,7 @@ description: Frequently Asked Questions
 
 **MIND Games** at base level is a Metaverse scene, where you can play the different scenarios that the platform has to offer, Arenas - Missions - Real-Time Strategy Metaverse. In doing so, you will encounter various aspects of the game, the competitions, the lore, the NFTs, and the economy beneath it all.
 
-We have chosen the place of the Genesis event on <mark style="color:blue;">**Arbitrum Network**</mark>. Here we are laying the foundation of the economic structure via a **** [**DEX** ](../how-it-works/decentralized-exchange.md)that will participate in the TVL of the whole ecosystem. Every aspect of the game will be founded and stored on the blockchain.
+We have chosen the place of the Genesis event on <mark style="color:blue;">**Arbitrum Network**</mark>. Here we are laying the foundation of the economic structure via a **** [**DEX** ](../how-it-works/tavern.md)that will participate in the TVL of the whole ecosystem. Every aspect of the game will be founded and stored on the blockchain.
 
 ### **How to play?**&#x20;
 
@@ -48,7 +48,7 @@ NFTs can be purchased in the [**Tavern** ](game-basics/neuropia/tavern.md)or in 
 
 You can swap tokens, create Liquidity Pool Tokens - <mark style="color:yellow;">**\[CRX]-LP**</mark>, and trade items in the Marketplace found in [**Neuropia**](game-basics/neuropia/).&#x20;
 
-Participating users will be able to use our [**Decentralized Exchange**](../how-it-works/decentralized-exchange.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and **ETH**, you can earn passive income in fees anytime anyone trades those tokens.
+Participating users will be able to use our [**Decentralized Exchange**](../how-it-works/tavern.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and **ETH**, you can earn passive income in fees anytime anyone trades those tokens.
 
 Keep in mind that a part of the fees collected from trading and withdrawals on each pool will be distributed to the liquidity providers in that pool.
 

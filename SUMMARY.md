@@ -6,8 +6,8 @@
 
 * [🪙 Cortex Token](how-it-works/brain-cell-token.md)
 * [⏳ Launchpad](how-it-works/launchpad.md)
-* [🔀 Decentralized Exchange](how-it-works/decentralized-exchange.md)
 * [🛍 Marketplace](how-it-works/marketplace.md)
+* [🏨 Tavern](how-it-works/tavern.md)
 * [🪨 Piero's Statue](how-it-works/pieros-statue.md)
 * [📑 Research Facility](how-it-works/research-facility.md)
 * [🗺 Roadmap](how-it-works/roadmap/README.md)
