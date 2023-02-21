@@ -6,13 +6,13 @@ description: Q1 2023 - Arena, MINDS & Researchers
 
 This marks the beginning of the **MIND Games Universe** gaming experience. The [**Arena** ](../../learn/game-basics/arena/)first opens its gates to the public. Alongside this, a new building will open in Neuropia: [**The Tavern**](../../learn/game-basics/neuropia/tavern.md). Here is where players can buy and sell their MINDS and Researcher NFTs.
 
-Research log. Entry 1024: The MINDS declared us Negligible-Future-Threats. We have attended some fights in the ARENA and learned more of their rules. Some of the Researchers became actively involved, becoming coaches to MINDS.
+Research log. Entry 1024: The MINDS declared us Negligible-Future-Threats. We have attended some fights in the ARENA and learned more about their rules. Some of the Researchers became actively involved, becoming coaches to MINDS.
 
-* Bounty program for MIND Games Arena testing:white\_check\_mark:
-* MIND NFTs :white\_check\_mark:
-  * Stats :white\_check\_mark:
-  * Rank :white\_check\_mark:
-  * Experience :white\_check\_mark:
+* Bounty program for MIND Games Arena testing:hourglass\_flowing\_sand:
+* MIND NFTs
+  * Stats:hourglass\_flowing\_sand:
+  * Rank:hourglass\_flowing\_sand:
+  * Experience:hourglass\_flowing\_sand:
   * Tradable :hourglass\_flowing\_sand:
 * Tavern - Trade MINDs:hourglass\_flowing\_sand:
 * Arena - Player vs. Player:hourglass\_flowing\_sand:

@@ -26,47 +26,33 @@ Sensors and Melders will be able to help ”PIERO” and earn [<mark style="colo
 
 The issuance of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) as a reward for staking [<mark style="color:yellow;">**CRX-LP**</mark>](brain-cell-token.md) tokens as offerings with Piero’s Statue will change for each Epoch.
 
-**The Epoch** is 604,800 blocks on the **Arbitrum Network** and the length depends on the average block speed.
+**The Epoch** is 50,190 blocks on the **Arbitrum Network** and the length depends on the average block speed.
 
-**Epochs** were calculated to 604,800 blocks so that each **Epoch** would equal one week assuming a 1 second per block on the **Arbitrum Network.** If block speeds are longer or faster than 1 second per block on average, then an Epoch will last more or less than one week.
+**Epochs** were calculated to 50,190 blocks so that each **Epoch** would equal one week assuming a \~12 second per block on the **Arbitrum Network.** If block speeds are longer or faster than 12 seconds on average, then an Epoch will last more or less than one week.
 
+**Block:** \_\_ **Epoch 1:** 12x multiplier = \~12 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
+**Block:** \_\_ **Epoch 2:** 8x multiplier = \~8 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** 69,038,000 **Epoch 1:** 32x multiplier = 32 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1920 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 3:** 6x multiplier = 6 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** 69,642,800 **Epoch 2:** 28x multiplier = 28 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1680 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 4:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** 70,247,600 **Epoch 3:** 26x multiplier = 26 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1560 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 5:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** 70,852,400 **Epoch 4:** 24x multiplier = 24 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1440 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 6:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** 71,457,200 **Epoch 5:** 22x multiplier = 22 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1320 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 7:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** 72,062,000 **Epoch 6:** 20x multiplier = 20 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1200 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 8:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** 72,666,800 **Epoch 7:** 18x multiplier = 18 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 1080 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 9:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** 73,271,600 **Epoch 8:** 16x multiplier = 16 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 960 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 10:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** 73,876,400 **Epoch 9:** 14x multiplier = 14 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 840 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
+**Block:** \_\_ **Epoch 11:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** 74,481,200 **Epoch 10:** 12x multiplier = 12 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 720 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 75,086,000 **Epoch 11:** 10x multiplier = 10 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 600 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 75,690,800 **Epoch 12:** 9x multiplier = 9 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 540 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 76,295,600 **Epoch 13:** 8x multiplier = 8 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 480 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 76,900,400 **Epoch 14:** 7x multiplier = 7 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 420 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 77,505,200 **Epoch 15:** 6x multiplier = 6 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 360 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 78,110,000 **Epoch 16:** 5x multiplier = 5 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 300 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 78,714,800 **Epoch 17-35:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 240 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute&#x20;
-
-**Block:** 90,206,000 **Epoch 36+**: 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block = 120 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/minute
+**Block: \_\_** **Epoch 12+:** 1x multiplier = 1 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
 {% hint style="info" %}
 Visit [**Arbitrum Block Explorer**](https://aurorascan.dev/)[ ](https://arbiscan.io/)to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
@@ -85,15 +71,15 @@ The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) tokens
 3rd Epoch (Week) - 9% unlocked and 91% locked \
 4th Epoch (Week) - 11% unlocked and 89% locked
 
-The total number of Epochs is 51. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
+The total number of Epochs is 49. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
 
 {% hint style="info" %}
-Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block 99277999 which marks the end of Epoch 50. Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
+Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block \_\_ which marks the end of Epoch 49. Locked rewards will start unlocking via a 2% vesting schedule for the following 49 Epochs.
 {% endhint %}
 
 **Piero Statue** will inform users regarding the amount of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received in **** total, how much is available for unlocking at that moment, and how much is locked at that time. \
 \
-Users can choose to unlock the total [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received at a particular time, before the 51st Epoch, however, they will only obtain the unlocked portion of it. The rest will be locked in the deep magma layers of Monro Maw, from where you will start to acquire them via the vesting schedule. \
+Users can choose to unlock the total [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received at a particular time, before the 49th Epoch, however, they will only obtain the unlocked portion of it. The rest will be locked in the deep magma layers of Monro Maw, from where you will start to acquire them via the vesting schedule. \
 \
 This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both. If the tokens were to unlock at any given time, this would incentivize the farm and dump mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant to the ecosystem that we are taking part in.
 
@@ -104,7 +90,7 @@ The researcher's Talents and MINDS stats will determine the amount of [<mark sty
 
 ### **Piero’s Statue Staking Deposit and Withdrawal Fees**
 
-There are no deposit fees for staking LP tokens with **Piero’s Statue**. We are implementing withdrawal fees for withdrawing staked LP tokens to protect against flash loans and, pumps and dumps. Each withdrawal resets the fee timer.
+There are no deposit fees for staking LP tokens with **Piero’s Statue**. We are implementing withdrawal fees for withdrawing staked LP tokens to protect against flash loans and, pumps and dumps. **Each withdrawal resets the fee timer**.
 
 **The withdrawal fees are listed below:**
 
@@ -117,9 +103,7 @@ There are no deposit fees for staking LP tokens with **Piero’s Statue**. We ar
 **8%** fee if a user withdraws under **1 hour.** \* \
 **25%** slashing fee if a user withdraws **during the same block.**
 
-
-
-_\*Days/Hours listed assume a 1 second per block speed during such period and will depend on Arbitrum Blockchain speed._
+_\*Days/Hours listed assume a \~12 seconds per block speed during such period and will depend on Arbitrum Blockchain speed._
 
 {% hint style="info" %}
 All the fees collected from withdrawals on each pool will be distributed to the **** [**Treasury**](brain-cell-token.md).

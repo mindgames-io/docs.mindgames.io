@@ -19,9 +19,5 @@ There are bonuses earned for using in-set cards and synergies between cards from
 
 Each card has specific statistics and attributes generated, so no two cards are the same. They will show the character's Rarity, class, and base statistics to help players craft their best team. The cards will also show the character's visual aspect to be easily recognized when you need to find a specific one; the cards name, quote, and environment to better portray the character. \
 \
-The card rarities, statistics, and combining them in your team bring you an edge in the game.
-
-
-
-
+The card rarities, statistics, and combining them in your team brings you an edge in the game.
 

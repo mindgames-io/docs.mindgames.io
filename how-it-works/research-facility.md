@@ -13,12 +13,10 @@ description: Staking CRX for xCRX
 
 In the **Research Facility**, players can deposit [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> as a form of staking. The hard-working MINDS that dwell here will analyze these and experiment day and night to uncover all their mysteries. Once their research is complete, the players will receive [<mark style="color:yellow;">**\[xCRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> as a reward for their interest in science. \
 \
-The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will be brought in from various fees of game transactions,swaps and withdrawal fees from the Mighty [**Piero's Statue**](pieros-statue.md). [<mark style="color:yellow;">**\[xCRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will therefore become the Governance token of the **MIND Games Universe.**
+The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will be brought in from various fees of game transactions, swaps, and withdrawal fees from the Mighty [**Piero's Statue**](pieros-statue.md). [<mark style="color:yellow;">**\[xCRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will therefore become the Governance token of the **MIND Games Universe.**
 
 {% hint style="info" %}
-**The Research Facility** is set to receive fees from Treasury and In-Game transactions.&#x20;
-
-In-Game Transactions fees will start to feed into the Treasury in Phases 2 and 3.&#x20;
+**The Research Facility** is set to receive fees from the Treasury.&#x20;
 {% endhint %}
 
 ![](../.gitbook/assets/Research.png)

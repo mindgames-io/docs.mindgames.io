@@ -24,12 +24,12 @@ The <mark style="color:yellow;">**Cortex**</mark> token has a hard cap of **9,00
 
 **850,000 **<mark style="color:yellow;">**Cortex \[CRX]**</mark> tokens will be distributed as follows :&#x20;
 
-**200,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **2.22%** **Initial Liquidity**
+**2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** to** **Initial Liquidity**
 
-**50,000 **<mark style="color:yellow;">**\[CRX]**</mark>** - 0.56% Community Airdrop**
+**0.56% **<mark style="color:yellow;">**\[CRX]**</mark>** to Community Airdrop**
 
-**400,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **4.44% Team**
+**4.44% **<mark style="color:yellow;">**\[CRX]**</mark>** to the Team**
 
-**200,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **2.22% Treasury**
+**2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** to the Treasury**
 
 \

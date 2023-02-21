@@ -1,6 +1,6 @@
 # 🎮 Gameplay
 
-The main descriptive for this game mode is Player vs Player! Beat real-life opponents in a ruthless battle of wits. The Arena has developed two kinds of matches: official ones - the Arena Ranked match and friendly ones - Arena Challenger.
+The main description for this game mode is Player vs Player! Beat real-life opponents in a ruthless battle of wits. The Arena has developed two kinds of matches: official ones - the Arena Ranked match and friendly ones - Arena Challenger.
 
 ## Game Modes
 
@@ -16,8 +16,6 @@ Once you start looking for a game in **Arena Challenge**r, you are presented wit
 * Challenge someone for **0.25**[ <mark style="color:yellow;">****</mark> ](../../../../how-it-works/brain-cell-token.md)**\[ETH]**
 * Challenge someone for **0.5**[ <mark style="color:yellow;">****</mark> ](../../../../how-it-works/brain-cell-token.md)**\[ETH] **<mark style="color:yellow;">****</mark>&#x20;
 * Challenge someone for **1**[ <mark style="color:yellow;">****</mark> ](../../../../how-it-works/brain-cell-token.md)**\[ETH] **<mark style="color:yellow;">****</mark>&#x20;
-
-
 
 Once you press <mark style="color:green;">**"PLAY"**</mark>** ** the search starts looking for a Challenger that can accept your bid. If a player is not found within 3 minutes of the search, the game will ask if you want to open the search for a lower-value challenge. Once a player is found that matches your challenge, you will start the game.
 
