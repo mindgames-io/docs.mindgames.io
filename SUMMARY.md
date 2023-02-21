@@ -5,11 +5,11 @@
 ## How It Works
 
 * [🪙 Cortex Token](how-it-works/brain-cell-token.md)
-* [⏳ Launchpad](how-it-works/launchpad.md)
 * [🛍 Marketplace](how-it-works/marketplace.md)
 * [🏨 Tavern](how-it-works/tavern.md)
 * [🪨 Piero's Statue](how-it-works/pieros-statue.md)
 * [📑 Research Facility](how-it-works/research-facility.md)
+* [⏳ Launchpad](how-it-works/launchpad.md)
 * [🗺 Roadmap](how-it-works/roadmap/README.md)
   * [Phase 0 - Start](how-it-works/roadmap/phase-0-start.md)
   * [Phase 1 - DeFi Instruments](how-it-works/roadmap/phase-1-defi-instruments.md)

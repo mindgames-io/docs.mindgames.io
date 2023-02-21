@@ -1,5 +1,5 @@
 ---
-description: Q2 - 2023 - Missions & Professions
+description: Q2 2023 - Missions & Professions
 ---
 
 # Phase 3 - Neuropia
