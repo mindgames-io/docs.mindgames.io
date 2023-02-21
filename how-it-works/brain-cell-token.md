@@ -14,22 +14,24 @@ The last MIND who knew how to craft <mark style="color:yellow;">**\[CRX]**</mark
 Players can swap <mark style="color:yellow;">**\[CRX]**</mark> on our [**Decentralized Exchange**](decentralized-exchange.md) for any other token on the market. Its in-game utility stems from upgrading the [**Talents** ](../learn/game-basics/nfts/your-researcher/talents/)of your [**Researcher**](../learn/game-basics/nfts/your-researcher/)**,** buying and upgrading NFTs, and **Brain Storming** - a form of unstable cloning. <mark style="color:yellow;">**\[CRX]**</mark> will also be used for staking, for creating Liquidity Pool tokens <mark style="color:yellow;">**CRX-LP**</mark> which in turn will give access to [**Piero’s Statue**](pieros-statue.md) - a form of yield farming.
 {% endhint %}
 
+Every <mark style="color:yellow;">**\[CRX]**</mark> transaction will allocate the takings:&#x20;
 
+* A part will be going to the Vault - the place where all game rewards are stored.
+* A part will be granted to power the Research Facility - where players that hold <mark style="color:yellow;">**\[xCRX]**</mark> increase their <mark style="color:yellow;">**\[CRX]**</mark> holdings.
+* The rest will be used to develop the MIND Games Universe further.
 
-### Cortex Hard Cap
+### Synaptyx Hard Cap
 
-The <mark style="color:yellow;">**Cortex**</mark> token has a hard cap of **9,000,000** <mark style="color:yellow;">**\[CRX]**</mark> tokens.&#x20;
+The <mark style="color:yellow;">**Cortex**</mark> token has a hard cap of **11,000,000** <mark style="color:yellow;">**\[CRX]**</mark> tokens.&#x20;
 
 ### Before minting&#x20;
 
-**850,000 **<mark style="color:yellow;">**Cortex \[CRX]**</mark> tokens will be distributed as follows :&#x20;
+**2,000,000 **<mark style="color:yellow;">**Cortex \[CRX]**</mark> tokens will be distributed as follows :&#x20;
 
-**200,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **2.22%** **Initial Liquidity**
+**1,000,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **9.09%** **Initial Liquidity**
 
-**50,000 **<mark style="color:yellow;">**\[CRX]**</mark>** - 0.56% Community Airdrop**
+**173851 **<mark style="color:yellow;">**\[CRX]**</mark>** - 1.58% Community Airdrop**
 
-**400,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **4.44% Team**
-
-**200,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **2.22% Treasury**
+**50,000 **<mark style="color:yellow;">**\[CRX]**</mark>** -** **0.45% Team**
 
 \
