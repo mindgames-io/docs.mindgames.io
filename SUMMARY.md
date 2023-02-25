@@ -9,7 +9,6 @@
 * [📑 Research Facility](how-it-works/research-facility.md)
 * [🪨 Piero's Statue](how-it-works/pieros-statue.md)
 * [🏨 Tavern](how-it-works/tavern.md)
-* [⏳ Launchpad](how-it-works/launchpad.md)
 * [🗺 Roadmap](how-it-works/roadmap/README.md)
   * [Phase 0 - Start](how-it-works/roadmap/phase-0-start.md)
   * [Phase 1 - DeFi Instruments](how-it-works/roadmap/phase-1-defi-instruments.md)
