@@ -34,4 +34,6 @@ The <mark style="color:yellow;">**Cortex**</mark> token has a hard cap of **9,00
 
 **2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** to the Treasury**
 
-\
+****
+
+<mark style="color:yellow;">**Cortex \[CRX]**</mark> Initial Liquidity will be paired with 3ETH for Pool1\
