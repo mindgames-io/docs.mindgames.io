@@ -40,7 +40,7 @@ Data Sheets allow the development of new strategies of research. They are able t
 
 ![](<../../.gitbook/assets/Deed (1).png>)
 
-Deeds have once been emitted to attest formal agreements were made between **MINDS**. They were written in the old language and many older MINDS have kept them around as memorabilia or to hand them down as family heirlooms. Deeds have no expiration
+Deeds have once been emitted to attest formal agreements that were made between **MINDS**. They were written in the old language and many older MINDS have kept them around as memorabilia or to hand them down as family heirlooms. Deeds have no expiration
 
 ### Tickets
 
