@@ -4,6 +4,8 @@ description: The ONLY official contracts by MIND Games.
 
 # Contracts
 
+<mark style="color:yellow;">**Cortex \[CRX]**</mark>: 0xb21Be1Caf592A5DC1e75e418704d1B6d50B0d083
+
 ## DEX Contracts
 
 **Factory** :  0x7C7F1c8E2b38d4C06218565BC4C9D8231b0628c0
@@ -37,3 +39,5 @@ description: The ONLY official contracts by MIND Games.
 ## Community Contracts
 
 **Airdrop Claim** : 0x2e95e4a691bb2e3b82cb5246b74ad110ffbd4d1e
+
+**Treasury**: 0x4D726c0333638e89702391db0572740FdBe47A9f
