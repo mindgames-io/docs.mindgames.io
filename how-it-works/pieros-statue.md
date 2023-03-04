@@ -74,7 +74,7 @@ The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) tokens
 The total number of Epochs is 49. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
 
 {% hint style="info" %}
-Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block \_\_ which marks the end of Epoch 49. Locked rewards will start unlocking via a 2% vesting schedule for the following 49 Epochs.
+Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block \_\_ which marks the end of Epoch 50. Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
 {% endhint %}
 
 **Piero Statue** will inform users regarding the amount of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received in **** total, how much is available for unlocking at that moment, and how much is locked at that time. \
