@@ -103,7 +103,7 @@ There are no deposit fees for staking LP tokens with **Piero’s Statue**. We ar
 **8%** fee if a user withdraws under **1 hour.** \* \
 **25%** slashing fee if a user withdraws **during the same block.**
 
-_\*Days/Hours listed assume a \~12 seconds per block speed during such period and will depend on Arbitrum Blockchain speed._
+_\*Days/Hours listed assume a \~12 seconds per block speed during such period and will depend on_ Ethereum _Blockchain speed._
 
 {% hint style="info" %}
 All the fees collected from withdrawals on each pool will be distributed to the **** [**Treasury**](brain-cell-token.md).
