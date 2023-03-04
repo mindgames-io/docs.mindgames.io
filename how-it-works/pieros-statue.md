@@ -71,7 +71,7 @@ The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) tokens
 3rd Epoch (Week) - 9% unlocked and 91% locked \
 4th Epoch (Week) - 11% unlocked and 89% locked
 
-The total number of Epochs is 49. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
+The total number of Epochs is 50. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
 
 {% hint style="info" %}
 Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block \_\_ which marks the end of Epoch 50. Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
