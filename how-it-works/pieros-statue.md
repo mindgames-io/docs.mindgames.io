@@ -30,29 +30,29 @@ The issuance of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-toke
 
 **Epochs** were calculated to 50,190 blocks so that each **Epoch** would equal one week assuming a \~12 second per block on the **Arbitrum Network.** If block speeds are longer or faster than 12 seconds on average, then an Epoch will last more or less than one week.
 
-**Block:** \_\_ **Epoch 1:** 12x multiplier = \~12 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 16749702 **Epoch 1:** 12x multiplier = \~12 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** \_\_ **Epoch 2:** 8x multiplier = \~8 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 16799893 **Epoch 2:** 8x multiplier = \~8 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** \_\_ **Epoch 3:** 6x multiplier = 6 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
+**Block:** 16850084 **Epoch 3:** 6x multiplier = 6 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** \_\_ **Epoch 4:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 16900275 **Epoch 4:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** \_\_ **Epoch 5:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
+**Block:** 16950466 **Epoch 5:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** \_\_ **Epoch 6:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
+**Block:** 17000657 **Epoch 6:** 4x multiplier = 4 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** \_\_ **Epoch 7:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
+**Block:** 17050848 **Epoch 7:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
-**Block:** \_\_ **Epoch 8:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 17101039 **Epoch 8:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** \_\_ **Epoch 9:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 17151230 **Epoch 9:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** \_\_ **Epoch 10:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 17201421 **Epoch 10:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block:** \_\_ **Epoch 11:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
+**Block:** 17251612 **Epoch 11:** 2x multiplier = 2 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
-**Block: \_\_** **Epoch 12+:** 1x multiplier = 1 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
+**Block:** 17301803 **Epoch 12+:** 1x multiplier = 1 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
 {% hint style="info" %}
 Visit [**Arbitrum Block Explorer**](https://aurorascan.dev/)[ ](https://arbiscan.io/)to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
@@ -74,12 +74,12 @@ The [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) tokens
 The total number of Epochs is 50. The last Epoch will provide unlocked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) from the entire [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received as a liquidity provider.
 
 {% hint style="info" %}
-Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block \_\_ which marks the end of Epoch 50. Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
+Claimed locked [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> will remain locked until block 19259202 which marks the end of Epoch 50. Locked rewards will start unlocking via a 2% vesting schedule for the following 50 Epochs.
 {% endhint %}
 
 **Piero Statue** will inform users regarding the amount of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received in **** total, how much is available for unlocking at that moment, and how much is locked at that time. \
 \
-Users can choose to unlock the total [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received at a particular time, before the 49th Epoch, however, they will only obtain the unlocked portion of it. The rest will be locked in the deep magma layers of Monro Maw, from where you will start to acquire them via the vesting schedule. \
+Users can choose to unlock the total [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) <mark style="color:yellow;">****</mark> received at a particular time, before the end of the 50th Epoch, however, they will only obtain the unlocked portion of it. The rest will be locked in the deep magma layers of Monro Maw, from where you will start to acquire them via the vesting schedule. \
 \
 This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both. If the tokens were to unlock at any given time, this would incentivize the farm and dump mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant to the ecosystem that we are taking part in.
 
