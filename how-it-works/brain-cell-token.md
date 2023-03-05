@@ -24,16 +24,14 @@ The <mark style="color:yellow;">**Cortex**</mark> token has a hard cap of **9,00
 
 ### Before minting&#x20;
 
-**850,000 **<mark style="color:yellow;">**Cortex \[CRX]**</mark> tokens will be distributed as follows :&#x20;
+**2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** of the total supply to** **Initial Liquidity**
 
-**2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** to** **Initial Liquidity**
+**0.56% **<mark style="color:yellow;">**\[CRX]**</mark>** of the total supply to Community Airdrop**
 
-**0.56% **<mark style="color:yellow;">**\[CRX]**</mark>** to Community Airdrop**
+**4.44% **<mark style="color:yellow;">**\[CRX]**</mark>** of the total supply to the Team**
 
-**4.44% **<mark style="color:yellow;">**\[CRX]**</mark>** to the Team**
+**2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** of the total supply to the Treasury**\
+****\
+**Total 850,000 **<mark style="color:yellow;">**\[CRX].**</mark> \ <mark style="color:yellow;">****</mark>
 
-**2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** to the Treasury**
-
-****
-
-<mark style="color:yellow;">**Cortex \[CRX]**</mark> Initial Liquidity will be paired with 3ETH for Pool1\
+<mark style="color:yellow;">**Cortex \[CRX]**</mark> Initial Liquidity will be paired with 3ETH\
