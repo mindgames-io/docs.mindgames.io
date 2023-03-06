@@ -55,7 +55,7 @@ The issuance of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-toke
 **Block:** 17301803 **Epoch 12+:** 1x multiplier = 1 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block&#x20;
 
 {% hint style="info" %}
-Visit [**Arbitrum Block Explorer**](https://aurorascan.dev/)[ ](https://arbiscan.io/)to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
+Visit [**Ethereum Block Explorer**](https://etherscan.io)****[ ](https://arbiscan.io/)to see the current block and block speed. We recommend viewing the block speed on an average daily/weekly when trying to plan your strategy.
 {% endhint %}
 
 ### Locking
