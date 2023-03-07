@@ -82,7 +82,7 @@ If the tokens were to unlock at any given time, this would incentivize the farm 
 
 ****[**Research Facility**](../how-it-works/research-facility.md)****
 
-Users will be able to stake <mark style="color:yellow;">**\[CRX]**</mark> and receive <mark style="color:yellow;">**\[CRX]**</mark> tokens in return inside the Research Facility found in [**Neuropia**](game-basics/neuropia/). This will enable holders to monetize their token holdings that would otherwise lie idle in their wallets.
+Users will be able to stake <mark style="color:yellow;">**\[CRX]**</mark> and receive <mark style="color:yellow;">**\[xCRX]**</mark> tokens in return inside the Research Facility found in [**Neuropia**](game-basics/neuropia/). This will enable holders to monetize their token holdings that would otherwise lie idle in their wallets.
 
 The <mark style="color:yellow;">**\[CRX]**</mark> will be brought in from various fees of game transactions and withdrawal fees from the Mighty [**Piero's Statue**](../how-it-works/pieros-statue.md)**.**&#x20;
 
