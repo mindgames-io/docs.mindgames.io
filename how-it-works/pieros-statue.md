@@ -26,10 +26,12 @@ Sensors and Melders will be able to help ”PIERO” and earn [<mark style="colo
 
 The issuance of [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md) as a reward for staking [<mark style="color:yellow;">**CRX-LP**</mark>](brain-cell-token.md) tokens as offerings with Piero’s Statue will change for each Epoch.
 
-**The Epoch** is 50,190 blocks on the **Arbitrum Network** and the length depends on the average block speed.
+**The Epoch** is 50,190 blocks on the **Ethereum Network** and the length depends on the average block speed.
 
-**Epochs** were calculated to 50,190 blocks so that each **Epoch** would equal one week assuming a \~12 second per block on the **Arbitrum Network.** If block speeds are longer or faster than 12 seconds on average, then an Epoch will last more or less than one week.
-
+**Epochs** were calculated to 50,190 blocks so that each **Epoch** would equal one week assuming a \~12 second per block on the **Ethereum Network.** If block speeds are longer or faster than 12 seconds on average, then an Epoch will last more or less than one week.\
+\
+**Note**: Deployed on Arbitrum One our Mastermind uses Ethereum blocks for emissions. \
+\
 **Block:** 16749702 **Epoch 1:** 12x multiplier = \~12 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
 
 **Block:** 16799893 **Epoch 2:** 8x multiplier = \~8 [<mark style="color:yellow;">**\[CRX\]**</mark>](brain-cell-token.md)/block
