@@ -24,7 +24,7 @@ If this looks new to you, don't worry - hop on our [**Discord** ](https://dscord
 
 This service is free, and we will never DM you first, use the ticketing system to avoid scams.
 
-### **What is Synaptyx Token?**
+### **What is Cortex Token?**
 
 <mark style="color:yellow;">**\[CRX]**</mark> will be the core token of the whole game ecosystem on the <mark style="color:blue;">**Arbitrum Network**</mark>. Only time can tell when the MINDS will discover valuable materials on other chains/regions.
 
@@ -40,7 +40,7 @@ To play the game, a player needs to own 1 **Researcher** NFT and at least 1 **MI
 
 There are ten sets of 10 unique cards each. The cards split into rarities: Smart, Intelligent, Brilliant, Genius, and Savant. You can use ten wild cards to replace missing cards in the sets. There are bonuses earned for using in-set cards and synergies between cards from the same categories. The other games in the MIND Universe get boosts from these NFT cards.&#x20;
 
-NFTs can be purchased in the [**Tavern** ](game-basics/neuropia/tavern.md)or in [**Mystery Boxes**](https://mindgames.io).
+NFTs can be purchased in the [**Tavern**](game-basics/neuropia/tavern.md).
 
 ### **Where can I trade?**
 
@@ -60,7 +60,7 @@ Users can farm LP tokens to receive <mark style="color:yellow;">**\[CRX]**</mark
 
 You will receive <mark style="color:yellow;">**\[CRX]**</mark> to use for certain important items, skills, and talents in MIND Games!
 
-Rewarded <mark style="color:yellow;">**\[CRX]**</mark> for staking <mark style="color:yellow;">**\[CRX]-LP**</mark> tokens as offerings with Piero's Statue will change for each Epoch. Epochs were calculated to 604,800 blocks so that each Epoch would equal one week, assuming a 1 second per block on the <mark style="color:blue;">**Arbitrum Network**</mark>. If block speeds are longer or faster than 1 second per block on average, then an Epoch will last more or less than one week.
+Rewarded <mark style="color:yellow;">**\[CRX]**</mark> for staking <mark style="color:yellow;">**\[CRX]-LP**</mark> tokens as offerings with Piero's Statue will change for each Epoch. Epochs were calculated to 50190 blocks so that each Epoch would equal one week, assuming a 12-second per block on the <mark style="color:blue;">**Ethereum Network**</mark>. If block speeds are longer or faster than 12 seconds per block on average, then an Epoch will last more or less than one week.
 
 ### **Locking period explained**
 
