@@ -12,13 +12,13 @@ Any new player - Unranked
 
 ![](../../../.gitbook/assets/Scholar.png)
 
-Any new player - Unranked
+First Rank - Once a player plays a ranked match, they will automatically be ranked Scholar&#x20;
 
 ## Diplomat
 
 ![](<../../../.gitbook/assets/Diplomat (1).png>)
 
-Any new player - Unranked
+Advancing in the rank will get you the Diplomat status
 
 
 
@@ -26,16 +26,16 @@ Any new player - Unranked
 
 ![](<../../../.gitbook/assets/Logician (2).png>)
 
-Any new player - Unranked
+As a Logician, you are a well versed Arena Combatant
 
 ## Architect
 
 ![](../../../.gitbook/assets/Architect.png)
 
-Any new player - Unranked
+The Architect is a top challenger and an accomplished match for any MIND.&#x20;
 
 ## Mentant
 
 ![](<../../../.gitbook/assets/Mentat (2).png>)
 
-Any new player - Unranked
+The Best of the Best, the Mentant is able to calculate the outcome of any fight before it even starts.
