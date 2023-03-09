@@ -94,7 +94,7 @@ Brainstorming 2 MINDS together requires very special attention.
 Brainstorming 2 MINDS of the same bloodline is not possible. There have been attempts in the past, but let's not talk about them.&#x20;
 {% endhint %}
 
-| Elders Generation 0 | STX | FOOD | AURORIUM | PHLOXIUM |
+| Elders Generation 0 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------- | --- | ---- | -------- | -------- |
 | Brainstorm 1        | 60  | 12   | 100      | 1        |
 | Brainstorm 2        | 80  | 14   | 102      | 3        |
