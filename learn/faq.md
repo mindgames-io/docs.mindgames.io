@@ -48,9 +48,9 @@ NFTs can be purchased in the [**Tavern**](game-basics/neuropia/tavern.md).
 
 You can swap tokens, create Liquidity Pool Tokens - <mark style="color:yellow;">**\[CRX]-LP**</mark>, and trade items in the Marketplace found in [**Neuropia**](game-basics/neuropia/).&#x20;
 
-Participating users will be able to use our [**Decentralized Exchange**](../how-it-works/tavern.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and **ETH**, you can earn passive income in fees anytime anyone trades those tokens.
+Users will be able to use our [**Decentralized Exchange**](../how-it-works/tavern.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and **ETH.**
 
-Keep in mind that a part of the fees collected from trading and withdrawals on each pool will be distributed to the liquidity providers in that pool.
+Keep in mind that a part of the fees collected from trading and withdrawals on each pool will be distributed to the Treasury.
 
 ### **Where can I farm?**&#x20;
 
@@ -76,7 +76,7 @@ Locked rewards will start unlocking via the vesting schedule for the following 5
 
 Users can choose to unlock the total <mark style="color:yellow;">**\[CRX]**</mark> received at a particular time before the 51st Epoch. However, they will only obtain the unlocked portion of it. The rest will be locked, and you will start to acquire them via the vesting schedule.
 
-If the tokens were to unlock at any given time, this would incentivize the farm and dump mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant for the ecosystem that we are taking part in. This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both.
+If the tokens were to unlock at any given time, this would incentivize the mechanics. This way, we ensure that the long-term sustainability of the token will always be relevant for the ecosystem that we are taking part in. This model helps us migrate from the simple DEX economics to the in-game economics combining the DeFi tools with gameplay and creating a synergy that will nourish them both.
 
 ### **Where can I stake my tokens?**&#x20;
 
