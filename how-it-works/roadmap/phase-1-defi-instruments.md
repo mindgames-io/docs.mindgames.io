@@ -1,5 +1,5 @@
 ---
-description: Q1 - 2023 STX, DEX, LPs Incentivization, Staking & NFTs Infrastructure.
+description: Q1 - 2023 CRX, DEX, LPs Incentivization, Staking & NFTs Infrastructure.
 ---
 
 # Phase 1 - DeFi Instruments
