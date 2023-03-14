@@ -2,7 +2,7 @@
 
 ### IQ:&#x20;
 
-The life essence of the MINDS is IQ. This determines a MIND's place in society its level of skill. Not all cards have the same IQ levels. For example, if all MINDS have over 200IQ, Larry is more of a 142.
+The life essence of the MINDS is IQ. This determines a MIND's place in society and its level of skill. Not all cards have the same IQ levels. For example, if all MINDS have over 200IQ, Larry is more of a 142.
 
 {% hint style="info" %}
 A card's Rarity influences the average IQ a card has and the other statistics. IQ is invaluable to all our NFTs since it will determine a player's victory or loss.
