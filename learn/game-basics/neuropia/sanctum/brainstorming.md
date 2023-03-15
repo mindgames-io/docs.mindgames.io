@@ -88,7 +88,7 @@ _Wind Down = 24h+(24h\*Gen)_
 
 ## Cost and Particularities
 
-Brainstorming 2 MINDS together requires very special attention.
+Brainstorming 2 MINDS together requires tremendous attention.
 
 {% hint style="info" %}
 Brainstorming 2 MINDS of the same bloodline is not possible. There have been attempts in the past, but let's not talk about them.&#x20;
@@ -96,46 +96,46 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 | Elders Generation 0 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------- | --- | ---- | -------- | -------- |
-| Brainstorm 1        | 60  | 12   | 100      | 1        |
-| Brainstorm 2        | 80  | 14   | 102      | 3        |
-| Brainstorm 3        | 100 | 16   | 104      | 5        |
-| Brainstorm 4        | 120 | 18   | 106      | 7        |
-| Brainstorm 5        | 140 | 20   | 108      | 9        |
-| Brainstorm 6        | 160 | 22   | 110      | 11       |
-| Brainstorm 7        | 180 | 24   | 112      | 13       |
-| Brainstorm 8        | 200 | 26   | 114      | 15       |
-| Brainstorm 9        | 220 | 28   | 116      | 17       |
-| Brainstorm 10       | 240 | 30   | 118      | 19       |
-| Infinity            | 260 | 32   | 120      | 21       |
+| Brainstorm 1        | 5   | 12   | 100      | 1        |
+| Brainstorm 2        | 10  | 14   | 102      | 3        |
+| Brainstorm 3        | 15  | 16   | 104      | 5        |
+| Brainstorm 4        | 20  | 18   | 106      | 7        |
+| Brainstorm 5        | 25  | 20   | 108      | 9        |
+| Brainstorm 6        | 30  | 22   | 110      | 11       |
+| Brainstorm 7        | 35  | 24   | 112      | 13       |
+| Brainstorm 8        | 40  | 26   | 114      | 15       |
+| Brainstorm 9        | 45  | 28   | 116      | 17       |
+| Brainstorm 10       | 50  | 30   | 118      | 19       |
+| Infinity            | 55  | 32   | 120      | 21       |
 
 
 
 | Minds Generation 1 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 160 | 22   | 200      | 2        |
-| Brainstorm 2       | 180 | 24   | 202      | 4        |
-| Brainstorm 3       | 200 | 26   | 204      | 6        |
-| Brainstorm 4       | 220 | 28   | 206      | 8        |
-| Brainstorm 5       | 240 | 30   | 208      | 10       |
-| Brainstorm 6       | 260 | 32   | 210      | 12       |
-| Brainstorm 7       | 280 | 34   | 212      | 14       |
-| Brainstorm 8       | 300 | 36   | 214      | 16       |
-| Brainstorm 9       | 320 | 38   | 216      | 18       |
-| Brainstorm 10      | 340 | 40   | 218      | 20       |
+| Brainstorm 1       | 15  | 22   | 110      | 2        |
+| Brainstorm 2       | 20  | 24   | 112      | 4        |
+| Brainstorm 3       | 25  | 26   | 114      | 6        |
+| Brainstorm 4       | 30  | 28   | 116      | 8        |
+| Brainstorm 5       | 35  | 30   | 118      | 10       |
+| Brainstorm 6       | 40  | 32   | 120      | 12       |
+| Brainstorm 7       | 45  | 34   | 122      | 14       |
+| Brainstorm 8       | 50  | 36   | 124      | 16       |
+| Brainstorm 9       | 55  | 38   | 126      | 18       |
+| Brainstorm 10      | 60  | 40   | 128      | 20       |
 
 
 
 | Minds Generation 2 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 260 | 32   | 300      | 3        |
-| Brainstorm 2       | 280 | 34   | 302      | 5        |
-| Brainstorm 3       | 300 | 36   | 304      | 7        |
-| Brainstorm 4       | 320 | 38   | 306      | 9        |
-| Brainstorm 5       | 340 | 40   | 308      | 11       |
-| Brainstorm 6       | 360 | 42   | 310      | 13       |
-| Brainstorm 7       | 380 | 44   | 312      | 15       |
-| Brainstorm 8       | 400 | 46   | 314      | 17       |
-| Brainstorm 9       | 420 | 48   | 316      | 19       |
+| Brainstorm 1       | 25  | 32   | 120      | 3        |
+| Brainstorm 2       | 30  | 34   | 122      | 5        |
+| Brainstorm 3       | 35  | 36   | 124      | 7        |
+| Brainstorm 4       | 40  | 38   | 126      | 9        |
+| Brainstorm 5       | 45  | 40   | 128      | 11       |
+| Brainstorm 6       | 50  | 42   | 130      | 13       |
+| Brainstorm 7       | 55  | 44   | 132      | 15       |
+| Brainstorm 8       | 60  | 46   | 134      | 17       |
+| Brainstorm 9       | 65  | 48   | 136      | 19       |
 
 
 
@@ -143,26 +143,26 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 | Minds Generation 3 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 360 | 42   | 400      | 4        |
-| Brainstorm 2       | 380 | 44   | 402      | 6        |
-| Brainstorm 3       | 400 | 46   | 404      | 8        |
-| Brainstorm 4       | 420 | 48   | 406      | 10       |
-| Brainstorm 5       | 440 | 50   | 408      | 12       |
-| Brainstorm 6       | 460 | 52   | 410      | 14       |
-| Brainstorm 7       | 480 | 54   | 412      | 16       |
-| Brainstorm 8       | 500 | 56   | 414      | 18       |
+| Brainstorm 1       | 35  | 42   | 130      | 4        |
+| Brainstorm 2       | 40  | 44   | 132      | 6        |
+| Brainstorm 3       | 45  | 46   | 134      | 8        |
+| Brainstorm 4       | 50  | 48   | 136      | 10       |
+| Brainstorm 5       | 55  | 50   | 138      | 12       |
+| Brainstorm 6       | 60  | 52   | 140      | 14       |
+| Brainstorm 7       | 65  | 54   | 142      | 16       |
+| Brainstorm 8       | 70  | 56   | 144      | 18       |
 
 
 
 | Minds Generation 4 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 460 | 52   | 500      | 5        |
-| Brainstorm 2       | 480 | 54   | 502      | 7        |
-| Brainstorm 3       | 500 | 56   | 504      | 9        |
-| Brainstorm 4       | 520 | 58   | 506      | 11       |
-| Brainstorm 5       | 540 | 60   | 508      | 13       |
-| Brainstorm 6       | 560 | 62   | 510      | 15       |
-| Brainstorm 7       | 580 | 64   | 512      | 17       |
+| Brainstorm 1       | 45  | 52   | 140      | 5        |
+| Brainstorm 2       | 50  | 54   | 142      | 7        |
+| Brainstorm 3       | 55  | 56   | 144      | 9        |
+| Brainstorm 4       | 60  | 58   | 146      | 11       |
+| Brainstorm 5       | 65  | 60   | 148      | 13       |
+| Brainstorm 6       | 70  | 62   | 150      | 15       |
+| Brainstorm 7       | 75  | 64   | 152      | 17       |
 
 
 
@@ -170,49 +170,49 @@ Brainstorming 2 MINDS of the same bloodline is not possible. There have been att
 
 | Minds Generation 5 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 560 | 62   | 600      | 6        |
-| Brainstorm 2       | 580 | 64   | 602      | 8        |
-| Brainstorm 3       | 600 | 66   | 604      | 10       |
-| Brainstorm 4       | 620 | 68   | 606      | 12       |
-| Brainstorm 5       | 640 | 70   | 608      | 14       |
-| Brainstorm 6       | 660 | 72   | 610      | 16       |
+| Brainstorm 1       | 55  | 62   | 150      | 6        |
+| Brainstorm 2       | 60  | 64   | 152      | 8        |
+| Brainstorm 3       | 65  | 66   | 154      | 10       |
+| Brainstorm 4       | 70  | 68   | 156      | 12       |
+| Brainstorm 5       | 75  | 70   | 158      | 14       |
+| Brainstorm 6       | 80  | 72   | 160      | 16       |
 
 
 
 | Minds Generation 6 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 660 | 72   | 700      | 7        |
-| Brainstorm 2       | 680 | 74   | 702      | 9        |
-| Brainstorm 3       | 700 | 76   | 704      | 11       |
-| Brainstorm 4       | 720 | 78   | 706      | 13       |
-| Brainstorm 5       | 740 | 80   | 708      | 15       |
+| Brainstorm 1       | 65  | 72   | 160      | 7        |
+| Brainstorm 2       | 70  | 74   | 162      | 9        |
+| Brainstorm 3       | 75  | 76   | 164      | 11       |
+| Brainstorm 4       | 80  | 78   | 166      | 13       |
+| Brainstorm 5       | 85  | 80   | 168      | 15       |
 
 
 
 | Minds Generation 7 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 760 | 82   | 800      | 8        |
-| Brainstorm 2       | 780 | 84   | 802      | 10       |
-| Brainstorm 3       | 800 | 86   | 804      | 12       |
-| Brainstorm 4       | 820 | 88   | 806      | 14       |
+| Brainstorm 1       | 75  | 82   | 170      | 8        |
+| Brainstorm 2       | 80  | 84   | 172      | 10       |
+| Brainstorm 3       | 85  | 86   | 174      | 12       |
+| Brainstorm 4       | 90  | 88   | 176      | 14       |
 
 
 
 | Minds Generation 8 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 860 | 92   | 900      | 9        |
-| Brainstorm 2       | 880 | 94   | 902      | 11       |
-| Brainstorm 3       | 900 | 96   | 904      | 13       |
+| Brainstorm 1       | 85  | 92   | 180      | 9        |
+| Brainstorm 2       | 90  | 94   | 182      | 11       |
+| Brainstorm 3       | 95  | 96   | 184      | 13       |
 
 
 
 | Minds Generation 9 | CRX | FOOD | AURORIUM | PHLOXIUM |
 | ------------------ | --- | ---- | -------- | -------- |
-| Brainstorm 1       | 960 | 102  | 1000     | 10       |
-| Brainstorm 2       | 980 | 104  | 1002     | 12       |
+| Brainstorm 1       | 95  | 102  | 190      | 10       |
+| Brainstorm 2       | 100 | 104  | 192      | 12       |
 
 
 
-| Minds Generation 10 | CRX  | FOOD | AURORIUM | PHLOXIUM |
-| ------------------- | ---- | ---- | -------- | -------- |
-| Brainstorm 1        | 1060 | 112  | 1100     | 11       |
+| Minds Generation 10 | CRX | FOOD | AURORIUM | PHLOXIUM |
+| ------------------- | --- | ---- | -------- | -------- |
+| Brainstorm 1        | 105 | 112  | 200      | 11       |
