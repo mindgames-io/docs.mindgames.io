@@ -41,5 +41,5 @@ Players will gain:
 * 5 **AUR** per win (increased by the current Talent tier)&#x20;
 * <mark style="color:purple;">**DATA SHEETS**</mark> (5% Drop Chance) per win&#x20;
 * Consolation cookies for each loss&#x20;
-* On draw matches: 50 XP
+* There is no reward for Draw matches.
 * Ranked players at the end of every month will be rewarded with Fees cumulated from Arena Challenge from that month. The ranked reward values will be distributed based on the position on the ranked ladders. The first 5 Ranked positions will receive a bonus reward.
