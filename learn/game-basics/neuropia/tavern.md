@@ -6,6 +6,7 @@
 
 * Trade MINDS & Researchers
 * List MINDS for hire
+* Rent your NFT to other players
 
 The campfire, the corner pub, the water cooler of locals and foreigners alike. Here is where MINDS and Researchers gather to relax and find companionship. If you need a helping hand or a bright thought, come by the Tavern, and chances are you'll find exactly who you have been looking for!
 

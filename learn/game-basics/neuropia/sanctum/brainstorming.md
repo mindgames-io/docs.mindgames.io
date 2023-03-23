@@ -86,6 +86,16 @@ Gen 0 MINDS Will have a 24h Wind Down Period ( based on block ) and subsequent G
 
 _Wind Down = 24h+(24h\*Gen)_
 
+__
+
+**Renting for Stormsurge**
+
+MINDS can be also offering to help other MINDS perpetuate the intellect of their genes. The players who rent out their MINDS will establish the price.\
+\
+The breed cost of those NFTs will stay the same, regardless if the NFTs are both yours or if one is rented.
+
+****
+
 ## Cost and Particularities
 
 Brainstorming 2 MINDS together requires tremendous attention.
