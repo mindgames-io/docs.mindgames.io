@@ -11,14 +11,14 @@ The birds become restless. A dim rumbling can be heard. The ground trembles ligh
 *   **Neuropia**:hourglass\_flowing\_sand:\
     Neural Network (buildings)\
     \
-    PVE Quests:hourglass\_flowing\_sand:
+    PVE Missions:hourglass\_flowing\_sand:
 
     * <mark style="color:blue;">****</mark>[<mark style="color:blue;">**Cryptography**</mark>](../../learn/game-basics/neuropia/missions.md#cryptography): Class-specific Missions
     * <mark style="color:yellow;">****</mark>[<mark style="color:yellow;">**Soul Casting**</mark>](../../learn/game-basics/neuropia/missions.md#soul-casting): Class-specific Missions
     * <mark style="color:green;">****</mark>[<mark style="color:green;">**Seafair**</mark>](../../learn/game-basics/neuropia/missions.md#seafair): Class-specific Missions
 
     \
-    STORY Quests:hourglass\_flowing\_sand:
+    STORY Missions:hourglass\_flowing\_sand:
 
     * <mark style="color:orange;">****</mark>[<mark style="color:orange;">**Fable Binding**</mark>](../../learn/game-basics/neuropia/missions.md#fable-binding)<mark style="color:orange;">**:**</mark> Stat-specific Missions
     * <mark style="color:orange;">****</mark>[<mark style="color:orange;">**The Registrar**</mark>](../../learn/game-basics/neuropia/missions.md#the-registrar)<mark style="color:orange;">**:**</mark> Stat-specific Missions
