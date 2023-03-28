@@ -16,8 +16,6 @@ description: The ONLY official contracts by MIND Games.
 
 **WETH**: 0x2D9c0e1b4F97EfC6aA8984Ddc632cFc50F8b212D
 
-**Cortex**: 0xb21Be1Caf592A5DC1e75e418704d1B6d50B0d083
-
 **Research** **Facility**: 0x35AfE95662fdf442762a11E4eD5172C81fBceF7e
 
 **Scientist**: 0x235a6B2fDecd44800e161cD4B87B12Dc74b06b8b
