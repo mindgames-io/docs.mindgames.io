@@ -3,7 +3,7 @@
 All cards have **** 3 spells: **1 Attack**, **1 Defence** and **1 Passive**. The position on which you place the card will determine which spell is played by that card: attack or defence. The passive is applied to both cards on your side of the board. The 2 cards played on the board are called the Nucleus. The rest of the cards kept in hand + the Nucleus are called the Circuit.
 
 {% hint style="info" %}
-Spell effects are constantly being balanced and edited in order to have balanced gameplay. Always read the tooltip in game!
+Spell effects are constantly being balanced and edited in order to have competitive gameplay. Always read the tooltip in game!
 {% endhint %}
 
 {% tabs %}
