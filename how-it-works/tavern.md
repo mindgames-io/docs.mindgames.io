@@ -19,7 +19,7 @@ The Tavern acts as a place to:
 * Search for combos to create new meta between them via breeding.
 
 {% hint style="info" %}
-Every sell/buy or other action inside the Tavern is made with <mark style="color:yellow;">**Cortex \[CRX]**</mark> and a transaction fee will be deducted for each one. These fees will be directed to the Treasury.&#x20;
+Every sell/buy or other action inside the Tavern is made with <mark style="color:yellow;">**Cortex \[CRX]**</mark> and a transaction fee of 3% will be deducted for each one. These fees will be directed to the Treasury.&#x20;
 {% endhint %}
 
 The Tavern will act as a central HUB for all the MINDs that are used in various game modes inside the MINDverse platform. Keep in MIND that this will be available also for other projects that want to create Game Worlds on top of our infrastructure.
