@@ -6,7 +6,7 @@ description: >-
 
 # Classes
 
-![](<../../../../.gitbook/assets/Thinker (4).png>)
+![](<../../../../.gitbook/assets/Thinker (5).png>)
 
 **Thinker**
 
@@ -22,7 +22,7 @@ Hard-shelled minds that attract all focus towards them. They excel at making oth
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](<../../../../.gitbook/assets/Node (1).png>)
+![](../../../../.gitbook/assets/Node.png)
 
 **Node**
 
@@ -38,7 +38,7 @@ Mean, mean MINDS of motor misfortune! The Nodes deal constant motor damage and a
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](../../../../.gitbook/assets/Sensor.png)
+![](<../../../../.gitbook/assets/Sensor (3).png>)
 
 **Sensor**
 
@@ -54,7 +54,7 @@ Mystic and ruthless, Sensors are sure to leave a mark on other MINDS should they
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](<../../../../.gitbook/assets/Leech (2).png>)
+![](../../../../.gitbook/assets/Leech.png)
 
 **Leech**
 
@@ -70,7 +70,7 @@ Adamant and stubborn, these MINDS are known to profit from others to sustain the
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](<../../../../.gitbook/assets/Wave (2).png>)
+![](../../../../.gitbook/assets/Wave.png)
 
 **Wave**
 
@@ -86,7 +86,7 @@ Resisting these MINDS over and over again can prove to be a challenge even to th
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](<../../../../.gitbook/assets/Melder (2).png>)
+![](<../../../../.gitbook/assets/Melder (4).png>)
 
 **Melder**
 
