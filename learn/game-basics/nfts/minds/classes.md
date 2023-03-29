@@ -6,7 +6,7 @@ description: >-
 
 # Classes
 
-![](<../../../../.gitbook/assets/Thinker (5).png>)
+![](../../../../.gitbook/assets/Thinker.png)
 
 **Thinker**
 
@@ -38,7 +38,7 @@ Mean, mean MINDS of motor misfortune! The Nodes deal constant motor damage and a
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](<../../../../.gitbook/assets/Sensor (3).png>)
+![](../../../../.gitbook/assets/Sensor.png)
 
 **Sensor**
 
@@ -54,7 +54,7 @@ Mystic and ruthless, Sensors are sure to leave a mark on other MINDS should they
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](../../../../.gitbook/assets/Leech.png)
+![](<../../../../.gitbook/assets/Leech (1).png>)
 
 **Leech**
 
@@ -86,7 +86,7 @@ Resisting these MINDS over and over again can prove to be a challenge even to th
 
 ![](../../../../.gitbook/assets/Bat.png)
 
-![](<../../../../.gitbook/assets/Melder (4).png>)
+![](../../../../.gitbook/assets/Melder.png)
 
 **Melder**
 
