@@ -11,8 +11,8 @@ Players can make two MINDS Brainstorm to multiply them. In order to do this, sev
 {% endhint %}
 
 {% hint style="info" %}
-[<mark style="color:yellow;">**\[CRX\]**</mark>](../../../../how-it-works/brain-cell-token.md) <mark style="color:yellow;">****</mark> collected by the **Brainstorming** event will be redistributed to Vault, Research Facility, and Burn.&#x20;
+[<mark style="color:yellow;">**\[CRX\]**</mark>](../../../../how-it-works/brain-cell-token.md) collected by the **Brainstorming** event will be redistributed to Vault, Research Facility, and Burn.&#x20;
 
 \
-**​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../../how-it-works/brain-cell-token.md) **  **<mark style="color:yellow;">****</mark> may be susceptible to change.&#x20;
+**​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../../how-it-works/brain-cell-token.md)  may be susceptible to change.&#x20;
 {% endhint %}

@@ -8,7 +8,7 @@ description: Frequently Asked Questions
 
 **MIND Games** at base level is a Metaverse scene, where you can play the different scenarios that the platform has to offer, Arenas - Missions - Real-Time Strategy Metaverse. In doing so, you will encounter various aspects of the game, the competitions, the lore, the NFTs, and the economy beneath it all.
 
-We have chosen the place of the Genesis event on <mark style="color:blue;">**Arbitrum Network**</mark>. Here we are laying the foundation of the economic structure via a **** [**DEX** ](../how-it-works/tavern.md)that will participate in the TVL of the whole ecosystem. Every aspect of the game will be founded and stored on the blockchain.
+We have chosen the place of the Genesis event on <mark style="color:blue;">**Arbitrum Network**</mark>. Here we are laying the foundation of the economic structure via a [**DEX** ](../how-it-works/tavern.md)that will participate in the TVL of the whole ecosystem. Every aspect of the game will be founded and stored on the blockchain.
 
 ### **How to play?**&#x20;
 
@@ -18,7 +18,7 @@ You should install first Metamask. Second, you should bring your tokens to Arbit
 
 Find out more [**here**](starting-on-arbitrum/).&#x20;
 
-Lastly, use our in-game **** [**Tavern** ](game-basics/neuropia/tavern.md)& [**Marketplace** ](../how-it-works/marketplace.md)to acquire the desired in-game assets and start playing.
+Lastly, use our in-game [**Tavern** ](game-basics/neuropia/tavern.md)& [**Marketplace** ](../how-it-works/marketplace.md)to acquire the desired in-game assets and start playing.
 
 If this looks new to you, don't worry - hop on our [**Discord** ](https://dscord.gg/mindgames)and open a ticket for Playing Instructions, and we will aid you in this process 24/7.
 
@@ -44,17 +44,17 @@ NFTs can be purchased in the [**Tavern**](game-basics/neuropia/tavern.md).
 
 ### **Where can I trade?**
 
-****[**Marketplace** ](../how-it-works/marketplace.md)****
+[**Marketplace** ](../how-it-works/marketplace.md)
 
 You can swap tokens, create Liquidity Pool Tokens - <mark style="color:yellow;">**\[CRX]-LP**</mark>, and trade items in the Marketplace found in [**Neuropia**](game-basics/neuropia/).&#x20;
 
-Users will be able to use our [**Decentralized Exchange**](../how-it-works/tavern.md) **** to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and **ETH.**
+Users will be able to use our [**Decentralized Exchange**](../how-it-works/tavern.md) to swap their tokens and in-game resources. Other than that, by supplying liquidity into our pools and pairing two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and **ETH.**
 
 Keep in mind that a part of the fees collected from trading and withdrawals on each pool will be distributed to the Treasury.
 
 ### **Where can I farm?**&#x20;
 
-****[**Piero's statue** ](../how-it-works/pieros-statue.md)****
+[**Piero's statue** ](../how-it-works/pieros-statue.md)
 
 Users can farm LP tokens to receive <mark style="color:yellow;">**\[CRX]**</mark> tokens. This is possible by accessing the Piero's Statue menu, located in the lower part of [**Neuropia**](game-basics/neuropia/), between [**Marketplace** ](../how-it-works/marketplace.md)and [**Research Facility**](../how-it-works/research-facility.md).
 
@@ -80,7 +80,7 @@ If the tokens were to unlock at any given time, this would incentivize the mecha
 
 ### **Where can I stake my tokens?**&#x20;
 
-****[**Research Facility**](../how-it-works/research-facility.md)****
+[**Research Facility**](../how-it-works/research-facility.md)
 
 Users will be able to stake <mark style="color:yellow;">**\[CRX]**</mark> and receive <mark style="color:yellow;">**\[xCRX]**</mark> tokens in return inside the Research Facility found in [**Neuropia**](game-basics/neuropia/). This will enable holders to monetize their token holdings that would otherwise lie idle in their wallets.
 

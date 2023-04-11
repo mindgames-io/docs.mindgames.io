@@ -35,6 +35,6 @@ To ensure a safe and sustainable player experience, MIND Games has a limited dai
 Overall, MIND Games offers a dynamic and engaging experience for players looking to immerse themselves in a unique and thriving game universe.
 
 {% hint style="info" %}
-**Got Problems? Tell us all about it:** <mark style="color:blue;"></mark> [<mark style="color:blue;">**Contact**</mark>](https://forms.office.com/r/y33GyxmUnd)<mark style="color:blue;">****</mark>
+**Got Problems? Tell us all about it:** [<mark style="color:blue;">**Contact**</mark>](https://forms.office.com/r/y33GyxmUnd)
 {% endhint %}
 

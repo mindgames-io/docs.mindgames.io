@@ -11,7 +11,7 @@ description: 'Dex: Trade Tokens, Items and Provide Liquidity'
 * Swap Tokens
 * Create Liquidity Pool Tokens - <mark style="color:yellow;">**CRX-LP**</mark>
 
-Our users will be able to swap tokens on our [**Decentralized Exchange**](tavern.md) platform. In-game, in [**Neuropia**](../learn/game-basics/neuropia/) **** - where our journey begins, this will be called the **Marketplace**. Apart from swapping tokens, players can exchange in-game resources. The Marketplace will also allow players to pair two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and <mark style="color:yellow;">**ETH**</mark>, to join that Liquidity Pool.
+Our users will be able to swap tokens on our [**Decentralized Exchange**](tavern.md) platform. In-game, in [**Neuropia**](../learn/game-basics/neuropia/) - where our journey begins, this will be called the **Marketplace**. Apart from swapping tokens, players can exchange in-game resources. The Marketplace will also allow players to pair two tokens, for example, <mark style="color:yellow;">**\[CRX]**</mark> and <mark style="color:yellow;">**ETH**</mark>, to join that Liquidity Pool.
 
 ![](../.gitbook/assets/Piata.png)
 

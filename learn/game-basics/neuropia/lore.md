@@ -24,13 +24,13 @@
 
 **GNOMON -** The **MINDS** worship Gnomon, from the ancient tongue Gnomomone meaning fate. The serendipitous twists and turns that a MIND’s life takes, as well as its misfortunes can all be attributed to the will of Gnomon. In MIND Philosophy the deity is not solely to blame or praise.\
 \
-The **** [<mark style="color:orange;">**Wheel of Gnomon**</mark>](wheel-of-gnomon.md) **** is one of the many historical landmarks that keeps the spirituality of Gnomon alive. Holding no scientific value, its chance of veracity instils a level of unexpectedness and whimsical mysticism.
+The [<mark style="color:orange;">**Wheel of Gnomon**</mark>](wheel-of-gnomon.md) is one of the many historical landmarks that keeps the spirituality of Gnomon alive. Holding no scientific value, its chance of veracity instils a level of unexpectedness and whimsical mysticism.
 
 **MINDS** cuisine is varied and full of flavour. Their main protein source is MooMooMeat (as seen in a dinner favourite: Feline’s Soup containing MooMoomeat and Teary Apple).&#x20;
 
 **MINDS** do consume most food groups with equal fondness. There is one dish that climbs above all others: the original, old recipe for the Karrot and Lechitin cookies. Another cookie - though slightly less appreciated due to its cultural implications - is the Consolation Cookies. These are customarily received as commiserations for losing a Battle or something regrettable happening.&#x20;
 
-[ <mark style="color:yellow;">****</mark> ](../../../how-it-works/brain-cell-token.md)[<mark style="color:yellow;">**Cortex \[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** is the most valuable of the **MIND** currencies since its supply is limited. It used to be crafted following a very specific process, which has since been lost. It is said that all arts and sciences had to participate in order to create a [<mark style="color:yellow;">**C**</mark>](../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**ortex**</mark>, Piero’s Statue currently commemorates the last **MIND** who knew how to craft it.
+[ ](../../../how-it-works/brain-cell-token.md)[<mark style="color:yellow;">**Cortex \[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) is the most valuable of the **MIND** currencies since its supply is limited. It used to be crafted following a very specific process, which has since been lost. It is said that all arts and sciences had to participate in order to create a [<mark style="color:yellow;">**C**</mark>](../../../how-it-works/brain-cell-token.md)<mark style="color:yellow;">**ortex**</mark>, Piero’s Statue currently commemorates the last **MIND** who knew how to craft it.
 
 Another, more widely used currency is [<mark style="color:yellow;">**AURORIUM**</mark>](../currency.md#aurorium), which can be found on <mark style="color:blue;">**STEM 2801**</mark> in abundance. **MINDS** are also open to trading resources based on need.
 

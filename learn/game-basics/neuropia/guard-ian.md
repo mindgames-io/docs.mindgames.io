@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/GuardIan.png)
 
-Psst! Researcher! Let me know if you need to transfer your locked <mark style="color:yellow;">**Cortex**</mark> [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** . I know everyone around here. I can help you transfer it safely to another Researcher. It has to be all moved at once though, I have a quite long queue of clients, you know?
+Psst! Researcher! Let me know if you need to transfer your locked <mark style="color:yellow;">**Cortex**</mark> [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) . I know everyone around here. I can help you transfer it safely to another Researcher. It has to be all moved at once though, I have a quite long queue of clients, you know?
 
 {% hint style="warning" %}
 The entire amount of the **wallet and locked** [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) will be moved in the transfer. Make sure to **claim all rewards** before proceeding, **unclaimed rewards will not be transferred**.

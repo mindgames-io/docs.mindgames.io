@@ -6,7 +6,17 @@ description: The NFT that represents the hero, the user, the player
 
 This card is your very own personal Player Card. It represents your avatar, as well as your personal playstyle throughout the game.
 
-![](../../../../.gitbook/assets/researcher.png) ![](../../../../.gitbook/assets/cHICK.png)
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Researcher6.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Researcher5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
 
 {% hint style="info" %}
 <mark style="color:orange;">**Your Researcher**</mark> is part of a cool team that just discovered the world of MINDS and can now interact with them. Read more about the Story below.

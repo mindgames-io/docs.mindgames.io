@@ -6,11 +6,11 @@ description: Learn to transfer your assets to Arbitrum One
 
 ### **What do I need to get started?**
 
-****
+
 
 **Metamask Wallet** -> [https://metamask.io/](https://metamask.io/)
 
-****[**Add **<mark style="color:blue;">**ARBITRUM ONE**</mark>** to Metamask**](https://cointelegraph.com/news/how-to-add-arbitrum-to-metamask) ****&#x20;
+[**Add **<mark style="color:blue;">**ARBITRUM ONE**</mark>** to Metamask**](https://cointelegraph.com/news/how-to-add-arbitrum-to-metamask)&#x20;
 
 ### **What do I need to know about **<mark style="color:blue;">**ARBITRUM ONE Network**</mark>**?**
 
@@ -41,4 +41,3 @@ How to bridge tokens to Arbitrum using the official bridge.&#x20;
 
 
 
-****

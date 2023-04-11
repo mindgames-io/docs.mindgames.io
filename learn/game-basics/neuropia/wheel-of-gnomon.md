@@ -2,17 +2,17 @@
 
 <figure><img src="../../../.gitbook/assets/Wheel_ScreenS.png" alt=""><figcaption></figcaption></figure>
 
-The MINDS often find comfort in spinning the wheel of Gnomon. Holding a small deposit of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** , the MINDS spin this wheel to get omens of their day. Having no scientific reasoning, it proves as a useful whimsical tool to help MINDS feel more spiritual. Life without uncertainty would be like a MIND dinner without Kale.
+The MINDS often find comfort in spinning the wheel of Gnomon. Holding a small deposit of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) , the MINDS spin this wheel to get omens of their day. Having no scientific reasoning, it proves as a useful whimsical tool to help MINDS feel more spiritual. Life without uncertainty would be like a MIND dinner without Kale.
 
 {% hint style="info" %}
-Players can use this mini-game to place an amount of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) <mark style="color:yellow;">****</mark> and spin the wheel to double it or even receive a monumental x10, or Gnomon will omnomnom it. The wheel can be spun an unlimited amount of times per day.
+Players can use this mini-game to place an amount of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) and spin the wheel to double it or even receive a monumental x10, or Gnomon will omnomnom it. The wheel can be spun an unlimited amount of times per day.
 {% endhint %}
 
 {% hint style="info" %}
-[<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** collected by the **Wheel of Gnomon** will be redistributed to the W.o.G. reward pool, Vault, Research Facility, and Burn.&#x20;
+[<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) collected by the **Wheel of Gnomon** will be redistributed to the W.o.G. reward pool, Vault, Research Facility, and Burn.&#x20;
 
 \
-**​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) **** may be susceptible to change.&#x20;
+**​Disclaimer:** Due to the great care a game economy requires, the specific numbers regarding the redistribution of [<mark style="color:yellow;">**\[CRX\]**</mark>](../../../how-it-works/brain-cell-token.md) may be susceptible to change.&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/TicketSystem.png" alt=""><figcaption></figcaption></figure>

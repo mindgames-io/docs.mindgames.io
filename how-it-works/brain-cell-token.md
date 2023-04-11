@@ -6,7 +6,7 @@ description: Governance Token
 
 ![](../.gitbook/assets/Synaptyx\_256.png)
 
-****
+
 
 **The main token** of the MIND Games Universe will be <mark style="color:yellow;">**Cortex \[CRX]**</mark>. It was found by the first **MINDS** as a product of an ancient scientific process. It was said that in order to produce <mark style="color:yellow;">**\[CRX]**</mark>, all fields of study, from mathematics to art and sport, were needed to successfully turn any mundane element into the precious <mark style="color:yellow;">**\[CRX]**</mark>. The method has been long lost as winds kept chipping away the once tall mountains of **Neuropia**. \
 \
@@ -31,7 +31,8 @@ The <mark style="color:yellow;">**Cortex**</mark> token has a hard cap of **9,00
 **4.44% **<mark style="color:yellow;">**\[CRX]**</mark>** of the total supply to the Team**
 
 **2.22% **<mark style="color:yellow;">**\[CRX]**</mark>** of the total supply to the Treasury**\
-****\
-**Total 850,000 **<mark style="color:yellow;">**\[CRX].**</mark> \ <mark style="color:yellow;">****</mark>
+\
+**Total 850,000 **<mark style="color:yellow;">**\[CRX].**</mark> \
+
 
 <mark style="color:yellow;">**Cortex \[CRX]**</mark> Initial Liquidity will be paired with 3ETH\
