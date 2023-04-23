@@ -1,6 +1,6 @@
 # Spells
 
-All cards have 3 spells: **1 Attack**, **1 Defence** and **1 Passive**. The position on which you place the card will determine which spell is played by that card: attack or defence. The passive is applied to both cards on your side of the board. The 2 cards played on the board are called the Nucleus. The rest of the cards kept in hand + the Nucleus are called the Circuit.
+All cards have 3 spells: **1 Attack**, **1 Defence** and **1 Passive**. The position on which you place the card will determine which spell is played by that card: attack or defense. The passive is applied to both cards on your side of the board. The 2 cards played on the board are called the Nucleus. The rest of the cards kept in hand + the Nucleus are called the Circuit.
 
 {% hint style="danger" %}
 When one player has only **ONE MIND** left standing on the board, it will **ENRAGE**. Enrage will give that MIND an **Extra Attack** using it's **MAIN STAT** to both enemy positions besides it's normal spells. In return it will receive **DOUBLE DAMAGE** to it's ID!
@@ -33,32 +33,32 @@ Spell effects are constantly being balanced and edited in order to have competit
 | ![](../../../../.gitbook/assets/OutOfSight.png)          | Out Of Sight       | Restore your IQ with 10 multiplied by the number cards that died while this was on the **nucleus.**    |
 | ![](../../../../.gitbook/assets/TabulaRasa.png)          | Tabula Rasa        | At the end of the turn, restore your circuits IQ with **Frontal** \* 1.5.                              |
 | ![](../../../../.gitbook/assets/HeadForTheHills.png)     | Head for the Hills | If your attacker is attacked, restore your circuit with **Temporal** worth of IQ for 2 turns and hide. |
-| ![](../../../../.gitbook/assets/ThinkAlike.png)          | Think Alike        | Block **Frontal** / 1.75 worth of damage.                                                              |
+| ![](../../../../.gitbook/assets/ThinkAlike.png)          | Think Alike        | Block **Frontal** worth of damage.                                                                     |
 {% endtab %}
 
 {% tab title="Attack Spells" %}
 
 
-| Icon                                                      | Spell Name        | Spell Effect                                                                                       |
-| --------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------- |
-| ![](../../../../.gitbook/assets/128\_AttentionSeeker.jpg) | Attention Seeker  | Attack last, deal all damage taken this turn split to the enemy **circuit.**                       |
-| ![](../../../../.gitbook/assets/128\_Doubt.jpg)           | Doubt             | Attack a random enemy card. At the end of the turn, hide this card.                                |
-| ![](../../../../.gitbook/assets/128\_Pulverize.jpg)       | Pulverize         | Take all damage dealt this turn. Deal equal damage to the enemy defender.                          |
-| ![](../../../../.gitbook/assets/128\_Nullify.jpg)         | Nullify           | Deal **Motor** \* 2 to the enemy defender.                                                         |
-| ![](<../../../../.gitbook/assets/128\_Headcount (1).jpg>) | Head Count        | Deal **Motor**+(**Frontal**\*2) to the **enemy** **nucleus** for 2 turns.                          |
-| ![](../../../../.gitbook/assets/128\_Boggle.jpg)          | Boggle            | Deal **Motor** \* 1.5 to the enemy defender for 2 turns.                                           |
-| ![](../../../../.gitbook/assets/128\_BrainTease.jpg)      | Brain Tease       | Deal **Temporal** \* 1.75 to the enemy attacker.                                                   |
-| ![](../../../../.gitbook/assets/128\_Mind\_Numb.jpg)      | Mind Numb         | Deal **Temporal** \* 1.75 to the enemy **nucleus**.                                                |
-| ![](<../../../../.gitbook/assets/128\_DryUp (1).jpg>)     | Dry Up            | Deal **Temporal** / 1.5 multiplied by the number of Sensor in your circuit, to the enemy defender. |
-| ![](<../../../../.gitbook/assets/128\_Mindblown (3).jpg>) | MindBlown         | Deal **Temporal** \* 4 split to the enemy **circuit.**                                             |
-| ![](../../../../.gitbook/assets/128\_Mumble.jpg)          | Mumble            | Deal **Frontal** \* 1.75 to the enemy attacker over 2 turns. Restore **Temporal** / 1.5 IQ.        |
-| ![](../../../../.gitbook/assets/128\_Coerce.jpg)          | Coerce            | Convince enemy defender to attack enemy attacker with **Frontal** + **Temporal**                   |
-| ![](../../../../.gitbook/assets/128\_SplittingHairs.jpg)  | Split hairs       | Deal (**Motor** + **Frontal**) \* 1.5 to the enemy defender.                                       |
-| ![](../../../../.gitbook/assets/128\_OutOfMind.jpg)       | Out of mind       | Deal **Motor** \* 3.5 to the enemy **nucleus.**                                                    |
-| ![](../../../../.gitbook/assets/128\_Percieve.jpg)        | Perceive          | Deal **Motor** \* 2 to the enemy defender. Cancel his spell if he didn't act yet.                  |
-| ![](../../../../.gitbook/assets/128\_PsycheOut.jpg)       | Psyche Out        | Deal (**Frontal** + **Temporal**) \* 2 to the enemy **circuit**.                                   |
-| ![](../../../../.gitbook/assets/128\_Imagine.jpg)         | Imagine           | Deal **Frontal** to the enemy defender for 3 turns.                                                |
-| ![](../../../../.gitbook/assets/128\_Scheme.jpg)          | Scheme            | Deal **Temporal** \* 2 to a random card on the enemy **circuit**.                                  |
+| Icon                                                      | Spell Name        | Spell Effect                                                                                                                          |
+| --------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../../.gitbook/assets/128\_AttentionSeeker.jpg) | Attention Seeker  | Attack last, deal all damage taken this turn split to the enemy **circuit.**                                                          |
+| ![](../../../../.gitbook/assets/128\_Doubt.jpg)           | Doubt             | Attack a random enemy card. At the end of the turn, hide this card.                                                                   |
+| ![](../../../../.gitbook/assets/128\_Pulverize.jpg)       | Pulverize         | Take all damage dealt this turn. Deal equal damage to the enemy defender.                                                             |
+| ![](../../../../.gitbook/assets/128\_Nullify.jpg)         | Nullify           | Deal **Motor** \* 3 to the enemy defender.                                                                                            |
+| ![](<../../../../.gitbook/assets/128\_Headcount (1).jpg>) | Head Count        | Deal **Motor**+(**Frontal**\*2) to the **enemy** **nucleus** for 2 turns.                                                             |
+| ![](../../../../.gitbook/assets/128\_Boggle.jpg)          | Boggle            | Deal **Motor** \* 1.5 to the enemy defender for 2 turns.                                                                              |
+| ![](../../../../.gitbook/assets/128\_BrainTease.jpg)      | Brain Tease       | Deal **Temporal** \* 1.75 to the enemy attacker.                                                                                      |
+| ![](../../../../.gitbook/assets/128\_Mind\_Numb.jpg)      | Mind Numb         | Deal **Temporal** \* 1.75 to the enemy **nucleus**.                                                                                   |
+| ![](<../../../../.gitbook/assets/128\_DryUp (1).jpg>)     | Dry Up            | Deal **Temporal** / 1.5 multiplied by the number of Sensor in your circuit, to the enemy defender.                                    |
+| ![](<../../../../.gitbook/assets/128\_Mindblown (3).jpg>) | MindBlown         | Deal **Temporal** \* 4 split to the enemy **circuit.**                                                                                |
+| ![](../../../../.gitbook/assets/128\_Mumble.jpg)          | Mumble            | Deal **Frontal** \* 1.75 to the enemy attacker over 2 turns. Restore **Temporal** / 1.5 IQ.                                           |
+| ![](../../../../.gitbook/assets/128\_Coerce.jpg)          | Coerce            | Convince enemy defender to attack enemy attacker with **Frontal** + **Temporal.** Cancel enemy defender's spell if he didn't act yet. |
+| ![](../../../../.gitbook/assets/128\_SplittingHairs.jpg)  | Split hairs       | Deal (**Motor** + **Frontal**) \* 1.5 to the enemy defender.                                                                          |
+| ![](../../../../.gitbook/assets/128\_OutOfMind.jpg)       | Out of mind       | Deal **Motor** \* 3.5 to the enemy **nucleus.**                                                                                       |
+| ![](../../../../.gitbook/assets/128\_Percieve.jpg)        | Perceive          | Deal **Motor** \* 2 to the enemy defender. Cancel enemy defender's spell if he didn't act yet.                                        |
+| ![](../../../../.gitbook/assets/128\_PsycheOut.jpg)       | Psyche Out        | Deal (**Frontal** + **Temporal**) \* 2 to the enemy **circuit**.                                                                      |
+| ![](../../../../.gitbook/assets/128\_Imagine.jpg)         | Imagine           | Deal **Frontal \*** 1.3  to the enemy defender for 3 turns.                                                                           |
+| ![](../../../../.gitbook/assets/128\_Scheme.jpg)          | Scheme            | Deal **Temporal** \* 2 + **Frontal** to a random card on the enemy **circuit**.                                                       |
 {% endtab %}
 
 {% tab title="Passive Spells" %}

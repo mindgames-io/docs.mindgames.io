@@ -6,7 +6,7 @@ MINDS sent on missions might return with some of the following resources. These 
 
 ### Aurorium
 
-![](<../../.gitbook/assets/AUR (1).png>)
+![](<../../.gitbook/assets/AUR (1) (1).png>)
 
 Commonly found around the Whispering Mountains, <mark style="color:yellow;">**Aurorium**</mark> is a versatile metal that can be forged and minted easily into coins. It's less efficient at conducting heat or electricity, which is why it has been mostly used for its malleable quality. The coins are not minted to serve any ruler or King, they have the same symbol representing minds.
 
@@ -18,7 +18,7 @@ Building materials are just that. You obtain them from hard labour, refine them 
 
 ### Food
 
-![](../../.gitbook/assets/Food.png)
+![](<../../.gitbook/assets/Food (1).png>)
 
 The vast fields surrounding Motormont are rich with orchards and plots of land tended by hard-working MINDS. Travellers are welcomed to grab food as they go along, however, some Whooves guarding the crops might be less hospitable. It is said that bringing a piece of Moomoo meat with you on travels brings good fortune.
 
@@ -62,7 +62,7 @@ Found in the rapids of the rivers and creeks around, this previous gem is known 
 
 ### Phloxium
 
-![](<../../.gitbook/assets/Gem (1).png>)
+![](<../../.gitbook/assets/Gem (1) (1).png>)
 
 With its unique refracting properties and a strength that exceeds diamonds tenfold, this gem is very valuable. It has a multitude of uses, from jewelry to creating tools. Its extraction process is incredibly difficult, sometimes teams of MINDS, or special equipment is needed to extract even a small piece. An old wives tale says MINDS wishing to procreate will have better luck if they gift some Phloxium gems.
 
