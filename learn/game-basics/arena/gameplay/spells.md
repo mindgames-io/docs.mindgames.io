@@ -2,12 +2,12 @@
 
 All cards have 3 spells: **1 Attack**, **1 Defence** and **1 Passive**. The position on which you place the card will determine which spell is played by that card: attack or defense. The passive is applied to both cards on your side of the board. The 2 cards played on the board are called the Nucleus. The rest of the cards kept in hand + the Nucleus are called the Circuit.
 
-{% hint style="danger" %}
-When one player has only **ONE MIND** left standing on the board, it will **ENRAGE**. Enrage will give that MIND an **Extra Attack** using its **MAIN STAT** to both enemy positions besides its normal spells. In return, it will receive **DOUBLE DAMAGE** to its ID!
-{% endhint %}
-
 {% hint style="info" %}
 Spell effects are constantly being balanced and edited in order to have competitive gameplay. Always read the tooltip in game!
+{% endhint %}
+
+{% hint style="danger" %}
+When one player has only **ONE MIND** left standing on the board, it will **ENRAGE**. Enrage will give that MIND an **Extra Attack** using its **MAIN STAT** to both enemy positions besides its normal spells. In return, it will receive **DOUBLE DAMAGE** to its ID!
 {% endhint %}
 
 {% hint style="success" %}
