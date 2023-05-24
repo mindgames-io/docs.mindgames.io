@@ -7,7 +7,7 @@ Spell effects are constantly being balanced and edited in order to have competit
 {% endhint %}
 
 {% hint style="danger" %}
-When one player has only **ONE MIND** left standing on the board, it will **ENRAGE**. Enrage will give that MIND an **Extra Attack** using its **MAIN STAT** to both enemy positions besides its normal spells. In return, it will receive **DOUBLE DAMAGE** to its ID!
+When one player has only **ONE MIND** left standing on the board, it will **ENRAGE**. Enrage will give that MIND an **Extra Attack** using its **MAIN STAT** to both enemy positions besides its normal spells. In return, it will receive **DOUBLE DAMAGE** to its IQ!
 {% endhint %}
 
 {% hint style="success" %}
